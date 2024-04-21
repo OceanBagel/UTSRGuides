@@ -1,10 +1,10 @@
-# Neutral
+# True Pacifist
 
 <img src='./Images/UTSRGuidesHeader.png'></img>
 
 ## Introduction
 
-Neutral, also known as Any%, is the game’s most popular and most competitive category. It is also one of the most difficult, containing many frame-perfect and pixel-perfect tricks. It is the shortest category of the main 5 categories, with the world record clocking in at just over 50 minutes.
+True Pacifist is the most difficult main category, and is similar in a lot of ways to Neutral. It’s around half an hour longer and contains True Lab, date segments, and the Asriel boss fight.
 
 ***Timing starts on "YES" on name confirmation.***
 
@@ -40,7 +40,7 @@ This next room is the hardest room in the game. Walk right and mash away toriel�
 
 The next few rooms have random encounters. The monster type is random, and in most rooms it’s random whether you even get one or not. For the first 5 rooms you should pay attention to which monster it is. If it’s a single Whimsun or any type of Moldsmal, spare it. This saves time over fleeing.
 
-You can also kill a Whimsun to save some time. Killing a whimsun loses 3 seconds over sparing it, however it saves 3.8 seconds due to Flowey’s laughing animation at the end being shorter, so overall it saves 0.8 seconds optimally in English versions and 1.1 seconds in Japanese versions. This also has the side effect of making the encounter rates slightly lower in some rooms so that encounters become less common.
+In Neutral, you can kill a Whimsun to save some time. Do not do this in True Pacifist, as it aborts the Pacifist ending.
 
 In the first rock room, hold up right while mashing Toriel’s texts. Read the sign, and then quickly hold down right. You can push the rock from the top by just holding down right. Reading the sign skips a phone call later in the room.
 
@@ -62,9 +62,9 @@ In the first perspective room, just walk down left to exit. In the second, inter
 
 In the next room, go up-right. Don’t bother with getting the toy knife, it’s not needed.
 
-In the next room, mash Toriel’s text and enter the house. In the house, mash her text and then walk right. After she introduces you to your room, walk back left. Getting the pie is not needed in Neutral, but you can optionally pick it up for a safer Asgore fight.
+In the next room, mash Toriel’s text and enter the house. In the house, mash her text and then walk right. After she introduces you to your room, get the pie. The pie saves lots of time later in the route.
 
-Talk to Toriel in the living room. Count how many choicers she gives you. On the 4th one, select the rightmost option. If you got the pie, choose the rightmost option on the 3rd choicer instead. If you miss it, you can just talk to Toriel once more and select the rightmost option. Mash her text and follow her into the basement.
+Talk to Toriel in the living room. Count how many choicers she gives you. On the 3rd one, select the rightmost option. If you miss it, you can just talk to Toriel once more and select the rightmost option. Mash her text and follow her into the basement.
 
 Keep following her and mashing.
 
@@ -100,7 +100,7 @@ Walk right down the long hallway, be prepared to mash when you meet Sans. You wi
 
 In the next room, interact with the save point to bring your health back to full. You will need to have health for a skip later in the game. You do not actually need to save here, you just need to interact with the save point.
 
-After interacting with the save point, go over to the box and take out the tough glove. If you have the pie, put it in the box first and then take everything out. This ensures that the pie is the 2nd item in your inventory. Open your menu and equip the tough glove. This will put the stick in the first inventory slot. Continue to the next room.
+After interacting with the save point, go over to the box. Put the pie in the box first and then take everything out. This ensures that the pie is the 2nd item in your inventory. Open your menu and equip the tough glove. This will put the stick in the first inventory slot. Continue to the next room.
 
 Mash through the next cutscene, and continue along the path.
 
@@ -239,7 +239,17 @@ When you return to him the 4th time, Papyrus will let you choose to fight him ag
 
 After choosing the second choice, Papyrus will give up on fighting you and spare you. Mash the large amount of dialogue. After that Papyrus will fly away.
 
-Go right and proceed to Waterfall.
+Walk left to start the Papyrus Date.
+
+### Papyrus Date
+
+Go to the front of Papyrus’ house and talk to Papyrus. Mash away his dialog and enter the house.
+
+Go straight to the top left door and interact with it. Mash away Papyrus’ dialog and enter the door. Interact with him to start the date.
+
+As soon as the date begins, press C. After that just keep mashing and mashing and mashing. When he asks you to search for his secret, interact with his chin. Any part of his head will work. 2 choicers will then appear. For the first one, you can just mash through it. For the second one, you’ll want to select the right option. This saves about 2-3 seconds. This is known as “spaghetti skip”.
+
+Mash his dialog after that. The screen will turn to white and unskippable text will appear. Just mash Z and Enter for this. After the screen goes to normal, keep text mashing until the date ends. After the date ends, exit the house and continue right to Waterfall.
 
 ## Waterfall
 
@@ -303,7 +313,7 @@ In the Nice Cream Man’s room, walk up to the left and talk to the Nice Cream M
 
 You have now obtained the Punch Card, the item used for most of the major glitches in Undertale. If you are unfamiliar with the glitches surrounding the Punch Card, see the Glitches and Exploits part of the main page. Practice is recommended.
 
-After returning to the room with Sans and his telescope, if you haven’t dropped the stick, open the box to the left of you. Dump everything in except for the Punch Card. If you want to be safe, you can take the nice cream back out of the box for a heal later. If you did drop the stick, eat the nice cream now so that the punch card is in your first inventory slot.
+After returning to the room with Sans and his telescope, open the box to the left of you. Dump everything in except for the Punch Card and then take out the pie. This ensures the Punch Card is in your first inventory slot. If you want a safety heal, you can optionally take out the nice cream as well.
 
 After that, you can then perform an overflow to perform an OWW into the next room. Note that the choicer will have to be on “No”, or else you will softlock.
 
@@ -500,7 +510,7 @@ Once Undyne turns your heart to red, flee from her. Be careful not to spare her.
 
 After fleeing, just hold right. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding right. Exit through the right. In the next room, just hold right again. Exit through the right.
 
-In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat. PCE the trigger for the cutscene and immediately leave the room. If you miss the PCE, don’t bother watering Undyne and just proceed right.
+In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat and immediately leave the room. If you miss the PCE, you MUST water Undyne, or you will not be able to complete the ending.
 
 ## Hotland
 
@@ -520,7 +530,7 @@ After exiting the lab, go right and mash the various notifications you get from 
 
 ### The beginning of Hotland
 
-In the room with the first set of conveyors, go left. You will get an unavoidable encounter with Vulkin. Once the battle begins, FIGHT the vulkin and hit it as soon as possible. It will always die in one hit to the Tough Glove. Continue upwards and exit through the top of the room.
+In the room with the first set of conveyors, go left. You will get an unavoidable encounter with Vulkin. Remember to FLEE from this encounter, as killing Vulkin would abort the Pacifist ending.
 
 ### Burnt Pan
 
@@ -749,9 +759,7 @@ This is one of the most difficult PCEs in the run because of how inconsistent it
 
 <img src='./Images/AlphysElevatorSkip.png' alt="Alphys Skip trigger location" title="Alphys Skip trigger location"></img>
 
-Once you PCE the trigger, continue to the right. As soon as Alphys begins to speak, PCA her textbox by opening and closing another punch card, but do not advance past her first textbox. When you get to the elevator, interact with it once with Z and do not mash until you see Alphys’s face appear. When Alphys’s face appears, mash the text and enter the elevator.
-
-There’s a slightly faster version of this skip that involves clearing the textbox slightly earlier. Press Z slightly before reaching the elevator door, then press Z on the elevator door, then X, then wait half a second and press Z again while holding up. Make sure you’re not touching the walls of the elevator door when you enter it or you’ll softlock.
+Once you PCE the trigger, continue to the right. Keep heading to the right when Alphys begins talking and don't mash away her text. When you get to the elevator, mash away Alphys' text and interact with the elevator. It's important that you DO NOT SKIP this cutscene, as it's required for later parts of the True Pacifist route. After the cutscene ends, proceed into Long Elevator.
 
 ### Long Elevator Skip
 
@@ -796,7 +804,7 @@ For the rest of Monstertale, just continue to the right and go through the rest 
 
 ### Judgement Hall
 
-Walk right in the Judgement hallway. PCE the trigger for the cutscene. After doing that, quickly close the Punch Card and walk right. Keep holding right until Sans’ silhouette is fully visible, then hold up and right. After entering the next hallway, immediately walk back out. Prepare for the next series of wrong warps.
+Walk right in the Judgement hallway. **SAVE at the Judgement Hall save point.** This will be where you reload later. PCE the trigger for the Sans cutscene. After doing that, quickly close the Punch Card and walk right. Keep holding right until Sans’ silhouette is fully visible, then hold up and right. After entering the next hallway, immediately walk back out. Prepare for the next series of wrong warps.
 
 <img src='./Images/SansSkip.png' alt="Sans Skip trigger location" title="Sans Skip trigger location"></img>
 
@@ -812,7 +820,7 @@ Note: The last wrong warp position will be different if you accidentally walk in
 
 Mash Asgore’s text once you enter the Barrier room. Begin the fight.
 
-You should always choose to FIGHT, unless you need to do a safety heal.
+Use the pie on the first turn. On every subsequent turn, you should always choose to FIGHT, unless you need to do a safety heal.
 
 This fight is why you got the Burnt Pan. The Burnt Pan is a weapon capable of dealing massive amounts of damage - far more than any other weapon you’re able to get optimally in a run.
 
@@ -871,6 +879,233 @@ There’s another reload you can do during the fadeout when Flowey dies. The gam
 
 When you start to hear the wind sound effects, start to hold left for about a second, then mash Z and Enter to hit the FIGHT button. After Flowey’s text appears, close the game and relaunch it, or open the game early for a faster load.
 
-After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway.
+After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway and immediately close any other game clients, to prevent the game from progressing in those instances and overwriting your save. Keep the most recent instance open until you hear the “THUD” and the “UNDERTALE” text appears. Then close the game and relaunch it. Alternatively, you can open a new instance of the game early for a faster load time.
 
-***STOP THE TIMER WHEN YOU TOUCH THE DOORWAY AFTER DEFEATING FLOWEY.***
+When you reload, hit "Continue" and begin backtracking for the remainder of the True Pacifist Ending requirements.
+
+## Dates and True Lab
+
+> Some wrong warps and dates. Not much else.
+
+After completing the Neutral Ending, which is one of the requirements for the True Pacifist Ending, there are some remaining requirements you'll need to backtrack for. This backtracking includes dating Undyne and Alphys.
+
+### Wrong Warps
+
+If you saved in the correct spot, you will appear at the beginning of the Judgement hallway. Walk to through the doorway above you. Walk into the elevator. Go down to the room with the entrance to the Long elevator. Walk into the long elevator.
+
+If you’re not using the Switch version, PCE or Overflow the interface again, then wrong warp out. If you are using the Switch version, wrong warp back out immediately.
+
+Wrong warp out of the last core hallway. Exit Mettaton EX’s room. Take the elevator to the right.
+
+Wrong warp into the core transition room from the first core room.
+
+Wrong warp into the main Hotel room.
+
+<img src='./Images/TPEBacktrackWrongWarps.png' alt="TPE backtracking wrong warp locations" title="TPE backtracking wrong warp locations"></img>
+
+Walk down and exit the hotel. Go down into the room with the Nice Cream man. Go right and take the elevator to Left Floor 1. Exit the elevator and go down to the Hotland Ferry area. Take the Ferry to Waterfall. Don’t accidentally go to Snowdin.
+
+### Undyne Date
+
+Mash the river person’s text as you’re riding to Waterfall. After getting off the ferry, be super careful to not talk to the river person again. Accidentally taking the river person is a thing if you mash mindlessly, and you may even lock yourself into another boat trip if you're not careful.
+
+Head up after getting off the ferry. Exit to Gerson’s shop hallway.
+
+In Gerson’s shop hallway, go left at the three way intersection. Exit through the left. Wrong warping into the next room will save a considerable amount of time.
+
+Go into the top left exit in the main hub room.
+
+At the outside of Undyne’s house, talk to Papyrus. Select the first answer choice that comes up. Mash a ton of text. Follow Papyrus into Undyne’s house.
+
+Inside Undyne’s house, mash a lot more text. When you regain movement after talking to Undyne by herself, go up and right and interact with the stool. Sit on the stool.
+
+Hold right and mash Undyne’s text. After Undyne throws the spear at the table and you pick it, keep holding right until the spear points at the box of tea bags. Hit Z or Enter immediately when the spear points at the box of tea bags.
+
+The rest of this date is pretty much just mashing the text. Select the first option for whatever dialogue option comes up. Press Z and Enter to stir the noodles when prompted. Hold right when you are asked to turn up the heat.
+
+When the house catches on fire and Undyne challenges you to a battle, mash the battle text and FIGHT her as soon as possible. Don’t worry about landing an accurate hit, just end the attack as soon as possible.
+
+After hitting Undyne, mash the rest of the date. After receiving Undyne’s letter, go back to the Waterfall Ferry and ride the Ferry to Hotland.
+
+The Undyne date has some additional strats that can save some time. By overflowing Papyrus and the chair in the date, you can keep movement, and by calling toriel at various points in the date you can replace some text with faster text. More details can be seen in the video demonstration below.
+
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7a4ZhQoKM8w" title="undyne date" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+### Alphys Date
+
+After riding the ferry to Hotland, once again avoid accidentally riding the ferry again. Exit upwards to the area outside the lab.
+
+Go right to the doors of the lab. Interact with the door. Mash and choose the first option for the dialogue choice. Mash a bunch.
+
+In the first part of the date, if you mash fast enough, you can actually skip the part where the “DATING START” text builds up. It will just appear instead. There are three instances where this can happen, and they all involve pressing X or Shift on the correct frame.
+
+The date is 99% just mashing. Always choose the first choice that comes up. The first choice is always faster.
+
+After mashing all the text and ending the date, you will end up in the garbage dump again. Simply go back to the Waterfall Ferry and go back to Hotland.
+
+Once you return to Hotland, go back to the lab. Enter the lab. Walk to the sliding door at the end of the lab with the note in front of it. Enter the sliding door doorway. Interact with the interface of the elevator. Don’t PCE it. Hold down during the cutscene so you can move out of it as soon as possible when you regain movement.
+
+### True Lab
+
+After exiting the elevator, go right and enter the next room.
+
+In the pre-True Lab hallway, walk right then turn up at the turn. Wrong warp upwards into the next room.
+
+There are many wrong warps in the True Lab. Saving at the save point in the Main Hub area is not a bad idea. After saving (or not), head to the top left. If you are quick at wrong warping, wrong warp into the next room.
+
+In the first True Lab hallway, walk left. Wrong warp into the next room on the left.
+
+In the Sink room, interact with the first sink a bunch by mashing the text a bunch. Fight the Sink Amalgamate. The ACTs you need to do are Cell, then Refuse. Then spare them. If you're on Xbox, you can take some intentional damage to reach low HP, which speeds up the Lemon Bread intentional death later.
+
+After fighting the Sink Amalgamate, grab the red key from the sink, and go in the doorway right next to the sink. Go up the hole in the wall and put the red key. Walk back into the Sink room.
+
+Go right in the sink room. You can wrong warp into the hallway again for some more time save. In the hallway, you can wrong warp into the main hub room to save some more time.
+
+Doing another save in the main hub room isn’t a bad idea. Go to the upper right and enter the unlocked door.
+
+In the 2nd True lab hallway, simply go up and turn right at the turn. Go right. At the right exit, you can wrong warp into the next room for a small time save.
+
+In the bedroom, if you wrong warped into the room, go back to the right bed on the middle row and grab the key from it. If you didn’t wrong warp, just grab the yellow key as you pass by the bed. After getting the yellow key, save if you’re scared of softlocks, and go into the doorway at the top of the room.
+
+In the long hallway, go right and exit right. Don’t wrong warp.
+
+### Endogeny
+
+In the Dog Amalgamate room, you can perform an overflow to skip the Dog Amalgamate. Go to the switch and overflow it. Begin walking left. End one line of dialogue so you get prompted with a dialogue option. Go to the sign on the left of the room and face it. Select “Yes” and interact with the sign at the same time. Wait for the white specs in the air to start moving, and mash away the text and exit the room through the left. If you are too slow, you will lose your menu. You can also advance the dialogue to the last line if you want.
+
+There is another, faster strat for the endogeny skip, but it has a risk of softlocking. Overflow the switch and perform a PCA. Advance to the choicer, and walk to the left side of the room. Do an Overflow Wrong Warp into the room, but you will need to wait to close the text until near the end of the transition. If you close the text too early, you will softlock, and if you close the text too late, you will not wrong warp.
+
+Video Demonstration:
+
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IGZz05_xXFU" title="Fast Endogeny Skip Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+### Lemon Bread
+
+After leaving the Dog Amalgamate room, walk back in and wrong warp out into the long hallway. After wrong warping, go left until you see a doorway. Enter the doorway.
+
+In the green key room, walk towards the bathtub. Interact with it once you reach it and mash away the text, and return to the hallway.
+
+Go left and exit left in the hallway. In the Lemon Bread Amalgamate room, go inside the doorway in the top wall and put the key into the keyhole in the room. Walk back out into the Lemon Bread Amalgamate room.
+
+If you’re using the Switch version, hold Up+Left to walk past Lemon Bread and skip the battle. If you're using the Xbox version, simply die to Lemon Bread as fast as possible. You'll reload to the autosave from just before the Lemon Bread fight and Lemon Bread will be gone.
+
+Otherwise, go to the star and interact with it to start the Lemon Bread battle. ACTs for Lemonbread - hum, flex, unhug. Then spare. Go left and then wrong warp through the left exit into the Fridge room.
+
+### Fridge Amalgamate
+
+In the Fridge room, interact with the last fridge once and walk towards the doorway. The Fridge Amalgamate will stop you. Battle the Fridge Amalgamate, the ACTs will be 3 jokes.
+
+After the Fridge Amalgamate disappears, grab the blue key it drops. Enter the doorway and put the key into the keyhole. Exit the green keyhole room. Go right after entering the fridge room again. Wall hump behind the fridges while moving right to get a speed boost. Wrong warp out of the fridge room.
+
+In the Lemon Bread Amalgamate room, wrong warp into the long hallway.
+
+In the long hallway, go down and exit into the bedroom.
+
+In the bedroom, go to the right exit and enter the Reaper bird hallway.
+
+### Reaper Bird Skip
+
+In the reaper bird hallway, you can PCE or use an Overflow to skip the cutscene. Walk right and PCE the trigger for the cutscene OR overflow the row of golden flowers and close the text box when you hit the trigger. Quickly walk into the doorway at the end of the hallway. Put the key in the keyhole. Wrong warp out of the blue keyhole room. Enter the bedroom.
+
+If you miss the wrong warp, you will enter the hallway like normal and activate the cutscene again, which will start the battle. This makes getting the wrong warp very important. However, there is a safe strategy for this. If you overflow the key to do the wrong warp and then PCA the text, the text will have a special property that will allow you to keep your movement in the next room even if you do not close the text to wrong warp. This way, you can re-enter the room and have another shot at the wrong warp.
+
+<img src='./Images/ReaperBirdTrigger.png' alt="Reaper Bird Skip location" title="Reaper Bird Skip location"></img>
+
+<img src='./Images/ReaperBirdWrongWarp.png' alt="Reaper Bird wrong warp location" title="Reaper Bird wrong warp location"></img>
+
+That was the last PCE of the run. You’ll still need the Punch Card for later, though, so don’t trash it. Walk to the bottom left exit in the bedroom. Wrong warp into the 2nd true lab hallway. Walk downwards into the main hub room. Take the unlocked door in the middle. In the inactive elevator room, wrong warp out the left exit. In the final true lab hallway, enter the doorway at the end of the hallway.
+
+### Generator Skip
+
+In the generator room, you can overflow the generator to regain movement during the cutscene and cause Alphys’ text to overflow. Go up to the generator and overflow it. Press x once then press z while facing the generator. This will bring up a second text on top of the first text box. Mash and select “Yes” on the first text box. Then mash until you see the dialogue option appear on the second text box. Wait until Alphys begins to talk. Once Alphys’ text box appears, select “Yes” and mash away. Doing this will cause Alphys’ text to overflow and give you a much shorter string of dialogue.
+
+You can alternately use text corruption to speed this cutscene up even further. After performing the same steps above, wait for Alphys to walk on-screen and the amalgamates to start to leave and then drop an item (but not the pie or the punch card!). This will make the rest of Alphys' text last only one textbox each.
+
+Near the end of the cutscene, position yourself with the image below. Once Alphys begins walking downwards, go down as well. Enter the final hallway again.
+
+You can actually be fairly close or even in front of Alphys for when you’re walking out of the room. See the image below for a reference of where you can or cannot be to get the skip.
+
+<img src='./Images/AlphysGeneratorSkip.png' alt="Alphys generator room positioning" title="Alphys generator room positioning"></img>
+
+In the final hallway after the generator cutscene, move to the inactive elevator room and enter in.
+
+In the inactive elevator room, move towards the center, mash the phone call, and wait for the elevator cutscene to end.
+
+## Asriel
+
+> The final boss, the final wrong warps, the final text box.
+
+### Another Rhombu Combu
+
+After the elevator cutscene ends, you will appear in front of the long elevator covered in vines. Hold right and go up into the next room.
+
+Go into the elevator to the left. After taking the elevator, go down into the Judgement Hallway. Walk all the way to the right. Perform another rhombu combu all the way to the barrier hallway.
+
+In case you forgot:
+
+<img src='./Images/RhombuCombu.png' alt="Rhombu Combu locations" title="Rhombu Combu locations"></img>
+
+Note: The last wrong warp position will be different if you accidentally walk into the room. Frisk will be a little bit lower than if you wrong warped into the room.
+
+Enter the Barrier after doing the rhombu combu. Mash Asgore’s text and begin the cutscene.
+
+This cutscene is literally just all mashing. Just mash the entire cutscene until the screen fades to white. Prepare for the final battle with Asriel.
+
+### First Phase
+
+The battle doesn’t progress until the rainbow effects start. Once the battle begins, go to ACT and use Dream, which will fill your inventory with healing items. Then wait for the rainbow effect to start.
+
+During the first phase, you can use Dream, Hope, or Spare, or use a healing item. Hope makes you take less damage but loses a small amount of time due to more menuing. Dream refills your healing items and heals you by 5hp. Spare is the fastest option but doesn’t heal you or raise your DEF. If you die during the battle, you’ll respawn a few turns back. Do NOT close out the game at any point as there is no autosaving in this battle.
+
+Mash away Asriel’s text when he talks in the battle. Use the Last Dream before the 13th turn if you have below 20 HP (You’ll know it’s the 13th turn if in the previous turn Asriel will comment on your determination being ‘delicious’).
+On the 13th turn, Asriel will use his "Hyper Goner" attack. Many diamonds will be summoned around you and you will have to dodge them. If you get hit by a diamond, you will be set to one HP. If you manage to not get hit, you will still have 20 HP. Not getting hit is a little faster than getting hit.
+
+After Asriel’s Hyper Goner attack, he will begin his second phase. Whether or not you got hit by the Hyper Goner attack will affect the second phase.
+
+### Second Phase
+
+If you were hit during the "Hyper Goner" attack, die during the first attack as fast as you can. Then die once again on his 4th attack. Doing this will end the attacks sooner and save some time. If you didn’t get hit, try your best to not die. That’s about it.
+
+You can confuse Asriel’s bullets just like Undyne’s spears, but the manipulation is pretty unreliable and his attacks are still very RNG based.
+
+After enough attacks, the screen will fade and text will appear. End the text and the screen will flash. Asriel’s third phase will begin.
+
+### Third Phase
+
+Be careful not to select FIGHT.
+
+Go to to the SAVE menu. It doesn’t matter what order you save the people in.
+
+For Undyne, use any ACT for 2 turns, end with using 'Recipe' on the third turn.
+
+For Alphys, use any ACT for 2 turns. shoot all of the robots and bombs to end the turns faster. End with Quiz on the third turn.
+
+For Papyrus and Sans, use an ACT twice on Papyrus, then use Judgement on Sans.
+
+For Toriel and Asgore, use the Pie first, then use ‘Hug’ on Asgore.
+
+After saving everyone, use SAVE one more time. For the rest of the fight you just Save or Spare and mash away the text.
+
+### Child Asriel
+
+After the battle, Asriel will turn back into a child. This is mostly just more mashing. Keep mashing until he lifts off the ground and breaks the barrier.
+
+After breaking the barrier, Asriel will have one more set of dialogue. You will have to make a choice to either comfort or not comfort Asriel in this dialogue. Choose to not comfort Asriel, which is the 2nd choice. If you accidentally choose to comfort Asriel, you will hug him and waste about 22 seconds. This is usually referred to as the Goat Hug.
+
+After hugging or not hugging the goat, mash the rest of the text. The screen will fade to white.
+
+You can start opening another copy of the game after mashing Asriel’s last bit of text, but **don’t close the current window yet.**
+
+### Post-Asriel
+
+Mash the text that appears after the screen fades to white. Once the screen fades back to normal, mash the text for the rest of the cutscene where everyone talks to you. When Toriel finishes talking to you and everyone turns top face forward, close the game and reload in the window you opened before. This reloads you to the other side of the room, saving a few seconds.
+
+Go right and enter the doorway at the end of the hallway. In the final room, walk up. Touch the door, mash the text, and choose the 2nd option that comes up for the question.
+
+On the final cutscene outside the underground, just mash away. The choices you make don’t matter. For the last question when you’re just with Toriel, pick the first choice. When she holds your hand and faces right, she will say the last text box of the run. Mash this text box and stop your timer.
+
+***STOP YOUR TIMER WHEN YOU CLOSE THE FINAL TEXT BOX WITH TORIEL SAYING "Everyone is waiting for us!"***
