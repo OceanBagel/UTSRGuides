@@ -133,8 +133,8 @@ In the Snow puzzle room, immediately head to the switch to the top right of the 
 
 There is an alternate strat to attempt to skip the Dogamy and Dogaressa fight. This skip is based off of getting an encounter on the same frame that the fight sequence begins. You can either use an [RNG-based method](https://clips.twitch.tv/SpikyTrappedEndiveOSsloth) which has a 1-in-30 chance of working and so is not recommended, or you can use an RNG prediction tool called [Fun Manipulator] to work out how many steps you need to take to get the skip. A video tutorial is available for the RNG prediction method of Dogi Skip.
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/vfBedn6Xq_k" title="100% Consistent Dogi Skip Setup with Dogi Manip Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vfBedn6Xq_k" title="100% Consistent Dogi Skip Setup with Dogi Manip Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### Dogamy and Dogaressa
@@ -193,14 +193,14 @@ If you miss the bottom tile in the middle while performing icebreaker, there is 
 
 Video demonstration:
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/lNrOhW_F-TE" title="Icebreaker Backup Strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lNrOhW_F-TE" title="Icebreaker Backup Strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The fourth method is known as Masochist Ice Puzzle. This is a very difficult strat that saves only 0.5 seconds. It is not recommended to attempt this trick in runs, as it requires multiple pixel perfect setups and difficult movement. The route for Masochist Ice Puzzle skip, along with the rest of the Ice Puzzle variants can be seen in the following video demonstration.
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/P5Iv7FLZ1dI" title="Ice Puzzle Strat Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/P5Iv7FLZ1dI" title="Ice Puzzle Strat Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 If you mess up and fall after triggering the bridge, walk back up and just go across to the bridge.
@@ -269,8 +269,8 @@ After performing the skip, mash away Papyrus’s text and exit the room.
 
 Video demonstration for the 3 setups:
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/wvfPUieqiZs" title="Seagrass Skip Setup Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wvfPUieqiZs" title="Seagrass Skip Setup Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In the first flower bridge room, construct a bridge of flowers across the center. The pickup and placement of the flowers can be a bit finicky, so be careful. Hold right as the flowers are blooming to walk onto the bridge as soon as possible. Enter the next room on the right.
@@ -379,8 +379,8 @@ When you respawn (and enter Mad Dummy room if you saved in the previous room), y
 
 Mad Dummy Skip is frame-perfect and requires some practice to be able to hit consistently, but due to the significant time it saves over 5-cycle (about 1 minute 40 seconds), it’s still worth doing if you can get it in the first 3 or so tries. See this video guide for a walkthrough of Mad Dummy Skip.
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/TDaTncVtid8" title="New Fastest Mad Dummy Skip Setup Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/TDaTncVtid8" title="New Fastest Mad Dummy Skip Setup Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 #### 5-cycle Mad Dummy (1.00, 1.001 Windows, 1.02+ excluding PS4/Xbox)
@@ -431,8 +431,8 @@ If you fail any part of flowerflow, continue mashing away the rest of the cutsce
 
 Video tutorial:
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/gImy8ltZj7c" title="In-Depth Undyne Flowerflow Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gImy8ltZj7c" title="In-Depth Undyne Flowerflow Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### Monster Kid Bridge Skip
@@ -480,8 +480,8 @@ Go to the second part below.
 Note: This version is more difficult than the other two versions.
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. This method saves 20 seconds over one-cycle. A video guide for this method can be seen below.
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/-AYXP8BQszo" title="Onedyne guide by Shayy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/-AYXP8BQszo" title="Onedyne guide by Shayy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Continue to the second part below.
@@ -528,8 +528,8 @@ In the first vents room, walk up then to the right towards the vents. Don’t us
 
 Video demonstration:
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/qc-htBHom24" title="Tsunderslide Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/qc-htBHom24" title="Tsunderslide Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 You must be below the gap between two vents when the vent cutscene ends. Walk down and right off screen until Frisk’s head is only visible, then just hold right. You will get an unavoidable encounter with Tsunderplane. Flee from the battle. Walk right under the trigger for the Burnt Pan room. Once you are under it, hit up to enter the room. If you miss the PCE on the vent, you can PCE the other vent by buffering 1 pixel left, and then holding down and right.
@@ -860,8 +860,8 @@ For the last part of the fight, try to stay on the FIGHT button as much as possi
 
 There’s a strategy to kill Flowey slightly faster than normal called Flowey Quick Kill, which involves delaying hitting certain FIGHT buttons with the correct timing. The FIGHT buttons to delay are #13, #25, and #36. See the video below and try to use the music to time the FIGHT button presses.
 
-<div style="width: 1280px; height: 720px;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/kpBHCS_jTII" title="Flowey Quick Kill: more consistent strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/kpBHCS_jTII" title="Flowey Quick Kill: more consistent strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 After dealing the last blow to Flowey, mash his text. When he circles you with bullets, edge yourself under the circle of bullets a bit so that when Flowey tries to hit you with the bullets, you hit them as soon as possible. After that getting hit by the bullets, wait for Flowey to die.
