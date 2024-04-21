@@ -4,13 +4,13 @@ This page demonstrates some markdown formatting and style expectations for the U
 
 Images should all go in the /images folder. 
 
-<img src='/Images/UTSRGuidesHeader.png' alt="Header image alt text" title="Header image mouseover text"></img>
+<img src='./Images/UTSRGuidesHeader.png' alt="Header image alt text" title="Header image mouseover text"></img>
 
 The above line can be used to add an image with alt text and mouseover text. These should generally be the same thing. This should be used for informational images and diagrams.
 
 If the image is just decorative, you can omit the title and alt text fields, like this:
 
-<img src='/Images/UTSRGuidesHeader.png'></img>
+<img src='./Images/UTSRGuidesHeader.png'></img>
 
 This alternate markdown method of embedding images is not recommended, as it doesn't always display properly or read the image path properly:
 
@@ -19,7 +19,7 @@ This alternate markdown method of embedding images is not recommended, as it doe
 Images may be padded with transparent pixels to a width of 1300 to adjust the "centering" on the page (many images from Google Docs were already this width), or you can do it like this:
 
 <p align="center">
-    <img src='/images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
+    <img src='./images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
 </p>
 
 However, it's not required to center every image. Sometimes leaving it left justified works better.

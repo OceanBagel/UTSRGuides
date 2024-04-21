@@ -1,6 +1,6 @@
 # Neutral
 
-<img src='/Images/UTSRGuidesHeader.png'></img>
+<img src='./Images/UTSRGuidesHeader.png'></img>
 
 ## Introduction
 
@@ -80,7 +80,7 @@ A good strategy is to count the turns in your head. When you’re at the later t
 
 There’s also another strategy you can do to get 8 hands instead of 6. View the gif below.
 
-<img src='/images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
+<img src='./Images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
 
 In this attack, the hitbox that spawns the fireballs is bigger than the actual fireballs. That means, with some careful positioning, you can take only 1 HP of damage. This allows you to get damaged by 2 more hand attacks, which saves around 10 seconds with good RNG. Note that this can only be done when you’re at 8 or higher HP, and it can only be done once. Doing it more than once is just a waste of health.
 
@@ -153,7 +153,7 @@ In the second XO tile puzzle room, go to the first tree on the top of the room a
 
 Alternatively, there’s a faster strat for the second XO puzzle. Line yourself up as shown in the images below, then interact with the sign on one frame and press down+right on the next frame. If done correctly, you’ll activate the switch with the textbox still open. Mash away the textbox and proceed right into the next room. Keep in mind that this strat is subpixel-dependent, so it may not work if you run into diagonal collision on the tree or if you teleport into the room using debug mode.
 
-<img src='/Images/GeoStrat.png' alt="Positions to perform Geo's Strat" title="Positions to perform Geo's Strat"></img>
+<img src='./Images/GeoStrat.png' alt="Positions to perform Geo's Strat" title="Positions to perform Geo's Strat"></img>
 
 If you’re using v1.0, there’s a different skip you can do in the second XO puzzle room. Walk into the room and walk diagonally into the left side of the tree with the switch. You should bump into the tree and sort of phase into it for a short period of time. During this period of time, you will need to interact with the tree and turn the switch on. After doing this, walk into the pressure plate. You should hit it early, skipping the first part of Papyrus’ dialogue, and skipping to the second set of dialogue. Amusingly, Papyrus will fly across the top of the screen.
 
@@ -167,13 +167,13 @@ There are 4 ways to do this trick, with increasing levels of precision required.
 
 The first method is known as glitchless ice puzzle, and is very simple. Note that as you don’t do the bridge cutscene skip it does lose 5 seconds. It can be done by following the path below.
 
-<img src='/Images/GlitchlessIcePuzzle.png' alt="Path for glitchless ice puzzle" title="Path for glitchless ice puzzle"></img>
+<img src='./Images/GlitchlessIcePuzzle.png' alt="Path for glitchless ice puzzle" title="Path for glitchless ice puzzle"></img>
 
 The second method is known as just Ice Puzzle Skip, and can be performed by following the steps below.
 
 The route you will take can be seen in Picture A.
 
-<img src='/Images/IcePuzzleSkip.png' alt="Path for standard ice puzzle skip" title="Path for standard ice puzzle skip"></img>
+<img src='./Images/IcePuzzleSkip.png' alt="Path for standard ice puzzle skip" title="Path for standard ice puzzle skip"></img>
 
 On the second to last tile, stop on the very bottom of that tile then slide to the right.
 
@@ -185,7 +185,7 @@ After being in the right position, press down and right on the same frame. Alter
 
 The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold down to rub against the bottom corner. You then hold right, up+left, up, and down+left. You then have to release left for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
 
-<img src='/Images/IPSFirstPixelTopTile.png' alt="First pixel that activates the top tile" title="First pixel that activates the top tile"></img>
+<img src='./Images/IPSFirstPixelTopTile.png' alt="First pixel that activates the top tile" title="First pixel that activates the top tile"></img>
 
 Then, hold right, followed by down+right once you start sliding on the ice, followed by right again after you start sliding again but before you hit the button.
 
@@ -257,7 +257,7 @@ There are 3 methods to perform SGS.
 
 The first method is known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap right or menu buffer right. You’ll know you’ve gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
 
-<img src='/Images/SGSAlignment.png' alt="Sea Grass Skip alignment" title="Sea Grass Skip alignment"></img>
+<img src='./Images/SGSAlignment.png' alt="Sea Grass Skip alignment" title="Sea Grass Skip alignment"></img>
 
 Next, press Ctrl+Right+Enter all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash Z/Enter to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you’ll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
 
@@ -277,7 +277,7 @@ In the first flower bridge room, construct a bridge of flowers across the center
 
 In the second flower bridge room, go right towards the bridge. You will get an unavoidable encounter just before the bridge. Flee from the encounter with Aaron. After walking across the bridge, go up and towards the flowers. Throw the flowers upwards from the bottom ledge extending from the right. With the fourth flower in hand, throw it from the right and complete the bridge. After dropping the 4th flower, you can drop the stick for a small timesave later. Keep the stick in TPE.
 
-<img src='/Images/FlowerBridge.png' alt="Flower bridge solution" title="Flower bridge solution"></img>
+<img src='./Images/FlowerBridge.png' alt="Flower bridge solution" title="Flower bridge solution"></img>
 
 After crossing the flower bridge in the second flower bridge room, you will get a phone call from Papyrus. Mash Papyrus’ text and go through the doorway at the top.
 
@@ -313,7 +313,7 @@ In the next room with the assorted bridges and talking flowers, go right, then h
 
 The next room is the Onion-san room. This is the first PCE skip of the run, and it is one of the most difficult PCEs. Walk into the room and head right. You will notice a tentacle rise out of the water under you. Watch this tentacle as you hold right. When the top of the tentacle reaches a little bit over the bottom of the land bridge you’re walking on, you will be on the trigger. It’s important to watch the tentacle, and to PCE when it reaches the top. If you PCE early, just buffer to the right and keep PCEing until you successfully PCE the cutscene. You will hear a ‘splash’ sound and can see the tentacle start to move down when you have successfully PCE’d the cutscene. After hearing the splash, immediately hold right and mash as the text comes up. If you stop or go too slow, you will softlock. See the exact frame you will hit the trigger in the image below.
 
-<img src='/Images/OnionsanSkip.png' alt="Onionsan Skip trigger" title="Onionsan Skip trigger"></img>
+<img src='./Images/OnionsanSkip.png' alt="Onionsan Skip trigger" title="Onionsan Skip trigger"></img>
 
 The next room is the Shyren room. Go right. You will encounter Shyren right after moving up or down to navigate the square in the room. Flee from Shyren. Don't go up, continue to the right. Enter the next room.
 
@@ -327,7 +327,7 @@ In the first rainy hallway, walk up against the top wall. This will make monster
 
 The first rainy hallway room contains a sort of awkward PCE that isn’t consistent. You can attempt to PCE the scene where monster kid talks to you but sometimes you just cannot get onto the right pixel in the pictures below. This skip only saves around .5 to 1 seconds so it’s not entirely worth it. If you do get the PCE, open the punch card again performing a PCA, and mash away the text. The 2nd trigger in the room is not worth PCEing at all. Exit downwards.
 
-<img src='/Images/MonsterKidPCE.png' alt="Monster Kid trigger" title="Monster Kid trigger"></img>
+<img src='./Images/MonsterKidPCE.png' alt="Monster Kid trigger" title="Monster Kid trigger"></img>
 
 In the second rainy hallway room, walk downwards. Once you pass the talking flower that’s to the right, Monster Kid will stop and look at the flower. After a short period of time where Monster Kid is about ¼ of the window away from the top of the window, open your menu and use the Punch Card. Monster Kid will then talk to you after using the Punch Card. Close the Punch Card and walk downwards and mash at the same time. Turn right and mash another set of dialogue. Exit through the right.
 
@@ -341,7 +341,7 @@ You can PCE the trigger for the cutscene before the Undyne Spear Maze Chase. The
 
 Alternatively, you can count your steps. It will take roughly 8 steps to reach the trigger.
 
-<img src='/Images/Spears1Trigger.png' alt="Spears 1 trigger" title="Spears 1 trigger"></img>
+<img src='./Images/Spears1Trigger.png' alt="Spears 1 trigger" title="Spears 1 trigger"></img>
 
 When you hear the spears strike and the “danger” sound plays, quickly open your menu and select the “Info” option on the punch card. This lets you set up for an OWW into the next room. The info dialogue box has two textboxes, so clear the first textbox and leave the second open, then continue through the maze.
 
@@ -367,7 +367,7 @@ Mad Dummy Skip utilizes the persistence glitch, which involves frame-perfectly l
 
 After saving, proceed into the Mad Dummy room. Overflow one of the objects in this room, such as a pile of trash, and keep this text open. Proceed into the Mad Dummy trigger and close the textbox, which will give you movement. You can then speed up the next cutscene by moving down until the anime DVD case is fully onscreen and then moving back up to where the bottom of your feet are in line with Mad Dummy’s head. Make sure you don’t stop too low or the cutscene won’t progress. (See the images below.) Then wait in this spot until the screen stops scrolling upwards. When this happens, start heading down to the bottom of the room.
 
-<img src='/Images/MDSPositions.png' alt="Mad Dummy Skip positions" title="Mad Dummy Skip positions"></img>
+<img src='./Images/MDSPositions.png' alt="Mad Dummy Skip positions" title="Mad Dummy Skip positions"></img>
 
 Mash the text but stop at the last textbox. Go down to the very bottom of the room, where you will see a sliver of Frisk’s feet (or the water ripple) underneath the textbox. Once you’re there, align yourself with a particular pixel. The specific pixel used is different for everyone based on reaction times, input delay, and audio delay. By adjusting this pixel, you can calibrate the timing of the skip to your particular setup and reaction times. The end goal of this part of the skip is to leave the room on the frame the battle starts.
 
@@ -395,7 +395,7 @@ In the first phase of the Mad Dummy fight, you are trying to deal as much damage
 
 There is a way to complete the first phase of Mad Dummy in 5 attacks. Consult the photo below to see how to complete the fight in the minimum attacks.
 
-<img src='/Images/5CycleMadDummy.png' alt="5 cycle Mad Dummy positions" title="5 cycle Mad Dummy positions"></img>
+<img src='./Images/5CycleMadDummy.png' alt="5 cycle Mad Dummy positions" title="5 cycle Mad Dummy positions"></img>
 
 You don’t need to hit the dummy in the rocket stages. After the battle, mash Napstablook’s text and proceed upwards.
 
@@ -403,7 +403,7 @@ You don’t need to hit the dummy in the rocket stages. After the battle, mash N
 
 This skip can be performed fairly quickly right after entering the room. PCE the trigger for Napstablook. After PCEing the trigger, move up and right, and then move right and exit to Gerson’s shop hallway.
 
-<img src='/Images/NapstablookSkip.png' alt="Napstablook Skip PCE" title="Napstablook Skip PCE"></img>
+<img src='./Images/NapstablookSkip.png' alt="Napstablook Skip PCE" title="Napstablook Skip PCE"></img>
 
 Alternatively, you can wrong warp into the room and open your punch card before the cutscene activates. You will gain movement back again after closing the punch card again. This method is slightly faster.
 
@@ -417,7 +417,7 @@ After wrong warping into the Double Waterfall Hallway (or simply walking into it
 
 In the mushroom puzzle room, you don’t actually need to light up the mushrooms to walk through the room. Look at the image below to see the path you will need to take.
 
-<img src='/Images/MushroomMaze.png' alt="Mushroom maze solution" title="Mushroom maze solution"></img>
+<img src='./Images/MushroomMaze.png' alt="Mushroom maze solution" title="Mushroom maze solution"></img>
 
 In the lantern room, interact with the lamps as you pass them so you can see where you’re going. Enter the next room on the right at the end of the path.
 
@@ -441,7 +441,7 @@ In the Monster Kid Bridge room, PCE the trigger for the cutscene. The trigger is
 
 This is the trigger if you wrong warped into the room as most runners do. If you do not wrong warp into the room, the trigger will be 1 pixel to the right.
 
-<img src='/Images/MonsterKidBridgeSkip.png' alt="Monster Kid Bridge Skip trigger" title="Monster Kid Bridge Skip trigger"></img>
+<img src='./Images/MonsterKidBridgeSkip.png' alt="Monster Kid Bridge Skip trigger" title="Monster Kid Bridge Skip trigger"></img>
 
 You can walk back out of the room after the Monster Kid Bridge skip and wrong warp back in to save a tiny bit of time.
 
@@ -451,15 +451,15 @@ There are a variety of different ways to shorten or skip the Undyne boss fight. 
 
 First Trigger:
 
-<img src='/Images/UndyneFirstTrigger.png' alt="Undyne first trigger" title="Undyne first trigger"></img>
+<img src='./Images/UndyneFirstTrigger.png' alt="Undyne first trigger" title="Undyne first trigger"></img>
 
 Second Trigger:
 
-<img src='/Images/UndyneSecondTrigger.png' alt="Undyne second trigger" title="Undyne second trigger"></img>
+<img src='./Images/UndyneSecondTrigger.png' alt="Undyne second trigger" title="Undyne second trigger"></img>
 
 Wrong Warp Position:
 
-<img src='/Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
+<img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
 #### Safe One Cycle Undyne (1 PCE + 1 Wrong Warp)
 
@@ -492,7 +492,7 @@ After wrong warping into the structure, you will appear at the end of the first 
 
 After entering the second hallway, you will need to walk to a specific position in the hallway to abuse an exploit. Once you enter the room you will see a sign. The left end of the sign will have a little notch in the ground under it. This will be the first notch under the sign. Walk to the 4th notch under the sign. Stay there and let Undyne catch you and start the battle. Being here will skip another cycle in the same room. Look at the image below. (Alternatively, you can just stop under the W in the sign.)
 
-<img src='/Images/UndyneBattleStoppingPoint.png' alt="Undyne battle stopping point" title="Undyne battle stopping point"></img>
+<img src='./Images/UndyneBattleStoppingPoint.png' alt="Undyne battle stopping point" title="Undyne battle stopping point"></img>
 
 Once you begin the battle, end Undyne’s dialogue quickly after she turns you green. Move to ACT and challenge Undyne. Challenging Undyne will make her spear attacks move faster, thus making the attacks end sooner. Attempt to dodge Undyne’s spears as much as possible. Getting hit slows down Undyne’s spear attacks a bit. Keep challenging her for three turns, then move to spare and spare her. On the last turn, take damage to go down to 1-6HP. This is necessary for a skip later.
 
@@ -512,7 +512,7 @@ In the Lab, walk right until you get to a dog food bag. On the line after the do
 
 You can also overflow the dog food bag / some object and walk into the trigger then close the text box to regain movement. This is a bit safer alternative.
 
-<img src='/Images/LabSkip.png' alt="Lab Skip trigger location" title="Lab Skip trigger location"></img>
+<img src='./Images/LabSkip.png' alt="Lab Skip trigger location" title="Lab Skip trigger location"></img>
 
 Throughout Hotland you will get many random calls and notifications from Alphys. Be prepared to mash.
 
@@ -534,7 +534,7 @@ Video demonstration:
 
 You must be below the gap between two vents when the vent cutscene ends. Walk down and right off screen until Frisk’s head is only visible, then just hold right. You will get an unavoidable encounter with Tsunderplane. Flee from the battle. Walk right under the trigger for the Burnt Pan room. Once you are under it, hit up to enter the room. If you miss the PCE on the vent, you can PCE the other vent by buffering 1 pixel left, and then holding down and right.
 
-<img src='/Images/LeftSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
+<img src='./Images/LeftSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
 
 After entering the Burnt Pan room, wait a little bit before walking onto the vent so that the arrow faces left, then walk onto the vent. You should fly over to the Burnt Pan. Grab it or overflow the Pan for a Stained Apron (The Stained Apron is optional but gives more survivability in future battles). Go back to the room with the first set of vents.
 
@@ -544,7 +544,7 @@ After returning to the room with the first set of vents, use the vent to the lef
 
 Go to the vent pointing upwards. PCE the trigger for the vent. You want to aim for the vent pointing to the left. After PCEing the trigger, hold up and left. Try to fly over the lava and not the floor that you're supposed to walk on. If you fly over the floor, you'll still hit the trigger and will be stopped mid-flight.
 
-<img src='/Images/BottomSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
+<img src='./Images/BottomSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
 
 You can also PCE the second vent to skip the phone call trigger. There are two options for this, called Safe Strat 69 and Fast Strat 69.
 
@@ -562,7 +562,7 @@ In the room with the lasers, if you are at 1-6 HP, you can do a strat known as b
 
 You can completely skip the East / West shooting puzzles games that unlock the big door. Walk to the vent in the room and mash the notifications / phone calls you get along the way. When you are walking upwards, hug the wall to the left. This will align you for the skip. Open the menu on the trigger for the vent. Wait until the arrow is pointing up to use the Punch Card. After using the Punch Card, close it, and hold up. You will fly into the door and enter the next room.
 
-<img src='/Images/EastWest.png' alt="East/West trigger location" title="East/West trigger location"></img>
+<img src='./Images/EastWest.png' alt="East/West trigger location" title="East/West trigger location"></img>
 
 In the next room, walk up and then right. Mash a phone call, then ride the vents to the other side of the room. Exit to the right. You can PCE these vents and walk right for a slight speed boost.
 
@@ -572,7 +572,7 @@ The skip in this room is one of the more difficult skips to learn, but not the m
 
 Observe the image below. Make note of where things are.
 
-<img src='/Images/JetpackSkip.png' alt="Jetpack Skip map" title="Jetpack Skip map"></img>
+<img src='./Images/JetpackSkip.png' alt="Jetpack Skip map" title="Jetpack Skip map"></img>
 
 The three blue squares above Frisk can be interacted with. The dashed red line to the right of Frisk is the trigger for the phone call. Past the white dashed line on the right is a 2nd trigger. You need to get past both triggers to completely skip this room. Thankfully, for versions 1.0 and 1.001, there’s a method for that.
 
@@ -610,7 +610,7 @@ The next room is the Three Switch Room. There’s a somewhat amusing skip that y
 
 Walk up and left after entering the room. Mash the notification and phone call before the vent. Walk onto the vent without hitting the switch. PCE the vent pointing left. After that, hold left. You need to be a bit quick here. After flying towards the other end of the room, you will land on the right of the path. Wiggle your way onto the path by pressing up and down while holding left. After getting onto the path, go left and exit the room. You can wrong warp into the next room to save a decent amount of time.
 
-<img src='/Images/VentPuzzleSkip.png' alt="Vent Puzzle Skip trigger location" title="Vent Puzzle Skip trigger location"></img>
+<img src='./Images/VentPuzzleSkip.png' alt="Vent Puzzle Skip trigger location" title="Vent Puzzle Skip trigger location"></img>
 
 The save in the Bad Opinion Zone room is a good safety save for what is about to come next. If you are at 1HP because you are going for the skip related to Beowulf skip, you cannot use this save as it will bring your health back up. After saving (or not), exit through the left. Wrong warping into the next room will save a nice amount of time.
 
@@ -620,7 +620,7 @@ After wrong warping into the Royal Guards room, go to the trigger for the cutsce
 
 NOTE: This is the trigger assuming you wrong warped into the room. If you did not wrong warp, then the trigger will be different. The trigger will be slightly more to the right. The trigger will only be a bit less to the left of the green support.
 
-<img src='/Images/RoyalGuardsSkip.png' alt="Royal Guards Skip trigger location" title="Royal Guards Skip trigger location"></img>
+<img src='./Images/RoyalGuardsSkip.png' alt="Royal Guards Skip trigger location" title="Royal Guards Skip trigger location"></img>
 
 ### News Skip
 
@@ -632,13 +632,13 @@ You can PCE the News Show trigger. However, it is completely black in the room, 
 
 Launching off the vent is unnecessary and only saves around a second. If you do not feel like taking the risk, simply continue walking right and go up at the turn, and go to the next room.
 
-<img src='/Images/OldNewsBarrier.png' alt="Old News Skip barrier location" title="Old News Skip barrier location"></img>
+<img src='./Images/OldNewsBarrier.png' alt="Old News Skip barrier location" title="Old News Skip barrier location"></img>
 
 #### Sirius Skip (OWW)
 
 Sirius Skip is the faster variant of News Skip that requires you perform Beowulf Skip to be at 1 HP. This skip involves PCAing one of the royal guards’ texts and using it to wrong warp into the news room. An easier way of setting up for the PCA is to mash the Royal Guards’ first text right away, unlike the standard Royal Guards skip. On the set of textboxes you get after the last notification (after the speed boost ends), PCA the text by opening and closing a punch card, use the third textbox to OWW into the next room, then open your menu before you have fully transitioned into the room. Once you are in the next room, your menu will be open. Use the punch card and a textbox will appear. Advance the text to the final textbox. When you are on the pixel seen in the image below, once again PCE the trigger and mash until you are on the text box where Alphys hangs up the phone. Note that you must use the menu button to close the menu, rather than X or Shift, and you must not use another punch card until you’re on the trigger.
 
-<img src='/Images/SiriusSkip.png' alt="Sirius Skip trigger location" title="Sirius Skip trigger location"></img>
+<img src='./Images/SiriusSkip.png' alt="Sirius Skip trigger location" title="Sirius Skip trigger location"></img>
 
 By closing the final textbox once you are on the vent and holding up and right, you can be launched out of bounds to save even more time.
 
@@ -664,7 +664,7 @@ After walking through the top of the door, head up and go right towards the spid
 
 Walk into the room. PCE the trigger for the short cutscene where the spider stops you. A good visual cue for this skip is that if you can’t see any of the purple wall to the left, you’re on the trigger. If you miss it, you can try again on the next one, which is about the same distance away from the web as the first one. Don’t mash away the text. Keep walking right. On the parts where the path narrows into one web, hold down and right against the bottom wall to get a small speed boost. Exit through the doorway on the right.
 
-<img src='/Images/MuffetSkip.png' alt="Muffet Skip trigger location" title="Muffet Skip trigger location"></img>
+<img src='./Images/MuffetSkip.png' alt="Muffet Skip trigger location" title="Muffet Skip trigger location"></img>
 
 In the next hallway with the MTT poster, just go right into the next room.
 
@@ -674,7 +674,7 @@ Walk up and right when you enter the room. Being against the wall will help you 
 
 Missing this skip is very bad. Very very bad. This skip is the only reason why you would safety save.
 
-<img src='/Images/MusicalSkip.png' alt="Musical Skip trigger location" title="Musical Skip trigger location"></img>
+<img src='./Images/MusicalSkip.png' alt="Musical Skip trigger location" title="Musical Skip trigger location"></img>
 
 After doing the Musical Skip, you will lose your ability to open your menu again. However, unlike the previous skips, you can’t immediately go to the elevator. Skipping the Musical skipped a flag being set that changed the elevator, so if you went down the elevator now, you wouldn’t be able to return.
 
@@ -692,7 +692,7 @@ In the first room of the Core, go up upon entering the room. You will get yet an
 
 In the next room, there is a scripted battle that you can skip. PCE the trigger for the cutscene. Don’t close the text box. Go to the doorway that is upwards, and exit through it.
 
-<img src='/Images/CoreEntranceTrigger.png' alt="Core Entrance trigger location" title="Core Entrance trigger location"></img>
+<img src='./Images/CoreEntranceTrigger.png' alt="Core Entrance trigger location" title="Core Entrance trigger location"></img>
 
 In the Laser Switch room, mash the phone call at the beginning of the room. After that, go to the switch. Hit the switch, and immediately go down a fair bit. You can get some distance in before the blue lasers come. Stop for the two blue lasers. Once the two blue lasers pass, start moving onto the bridge and pass the orange laser. Cross the bridge. After crossing the bridge, you will get a phone call. You can PCE this phone call to save a small amount of time, otherwise mash through. Go right and enter the next room.
 
@@ -702,13 +702,13 @@ In the next room, move right. Mash the two phone calls you will get. Exit to the
 
 In the next room, there’s a phone call from Alphys, who turns off the lasers near the end of the call. PCE this phone call, then open up a second punch card (PCA) and mash the text until the lasers turn off as you move to the right. Try to avoid getting hit by the lasers. Leave the phone call open on the final textbox and use this textbox to OWW into the next room.
 
-<img src='/Images/LaserSkip.png' alt="Laser Skip trigger location" title="Laser Skip trigger location"></img>
+<img src='./Images/LaserSkip.png' alt="Laser Skip trigger location" title="Laser Skip trigger location"></img>
 
 If you miss the phone call PCE, there’s a backup later in the room. PCE this second phone call and PCA the text. Advance the text to the second textbox where Alphys is telling you to stop. Use this textbox to OWW to the next room.
 
-<img src='/Images/LaserSkipBackup.png' alt="Laser Skip backup location" title="Laser Skip backup location"></img>
+<img src='./Images/LaserSkipBackup.png' alt="Laser Skip backup location" title="Laser Skip backup location"></img>
 
-<img src='/Images/LaserSkipBackupTrigger.png' alt="Laser Skip backup trigger location" title="Laser Skip backup trigger location"></img>
+<img src='./Images/LaserSkipBackupTrigger.png' alt="Laser Skip backup trigger location" title="Laser Skip backup trigger location"></img>
 
 If you wrong warped into the next room with the trick above, you will have skipped a phone call in the room.
 
@@ -725,13 +725,13 @@ There are two different routes you can take after Core Puzzle. The fastest route
 
 Snowie Core wrong warp pixels:
 
-<img src='/Images/SnowieCore1.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
+<img src='./Images/SnowieCore1.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
 
-<img src='/Images/SnowieCore2.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
+<img src='./Images/SnowieCore2.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
 
-<img src='/Images/SnowieCore3.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
+<img src='./Images/SnowieCore3.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
 
-<img src='/Images/SnowieCore4.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
+<img src='./Images/SnowieCore4.png' alt="Snowie Core wrong warp locations" title="Snowie Core wrong warp locations"></img>
 
 If you don’t do Snowie Core, return to the first room of the with the save point. Go right, then up, then right again. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right.
 
@@ -741,13 +741,13 @@ If you need it, take a safety save in the last room in Core. Continue into the d
 
 Walk up the path in the room and PCE the trigger for Mettaton. Watch his rectangular body and set of lights as you’re PCEing. Walk up after PCEing and go straight through Mettaton and enter the doorway at the top. Note that if you WW into Mettaton’s room, the visual cues will be 1 pixel higher than usual.
 
-<img src='/Images/MettatonSkip.png' alt="Mettaton Skip trigger location" title="Mettaton Skip trigger location"></img>
+<img src='./Images/MettatonSkip.png' alt="Mettaton Skip trigger location" title="Mettaton Skip trigger location"></img>
 
 ### Alphys Skip
 
 This is one of the most difficult PCE’s in the run because of how inconsistent it is and that there is no clear visual indicator. Once you enter the hallway after Mettaton, hold up and right. Move down the hallway. Wait for the lights on the wall to go dark twice. Once they have done that, the lights will brighten up. Once the lights start to dim down from their brightest state, you will hit the trigger. The best visual indicator is the pattern along the left edge of the screen. This is a repeating pattern, but it will look like the image below when you hit the trigger.
 
-<img src='/Images/AlphysElevatorSkip.png' alt="Alphys Skip trigger location" title="Alphys Skip trigger location"></img>
+<img src='./Images/AlphysElevatorSkip.png' alt="Alphys Skip trigger location" title="Alphys Skip trigger location"></img>
 
 Once you PCE the trigger, continue to the right. As soon as Alphys begins to speak, PCA her textbox by opening and closing another punch card, but do not advance past her first textbox. When you get to the elevator, interact with it once with Z and do not mash until you see Alphys’s face appear. When Alphys’s face appears, mash the text and enter the elevator.
 
@@ -778,7 +778,7 @@ After returning to the hall, overflow another yellow flower, the one closest to 
 
 It’s also possible to do these two encounter skips with a PCE slide instead of text storage. To do this, line up a pixel away from the trigger, then open your punch card while holding the arrow key in the direction of the trigger, then quickly close the punch card. For the second encounter, this version has a 1-5 frame window (this window is RNG) to close the punch card or else you won’t skip the encounter, so overflowing is the easier method if possible on the version you’re using.
 
-<img src='/Images/MagolorSkip.png' alt="Magolor Skip trigger location" title="Magolor Skip trigger location"></img>
+<img src='./Images/MagolorSkip.png' alt="Magolor Skip trigger location" title="Magolor Skip trigger location"></img>
 
 After skipping the second encounter, wrong warp back into the first room and then wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. Once you have both keys, return to the first room, unlock the chain blocking the stairs, and go to the basement.
 
@@ -786,11 +786,11 @@ After skipping the second encounter, wrong warp back into the first room and the
 
 There are only two more wrong warps in Monstertale. The first wrong warp skips an encounter so is definitely worth taking. This wrong warp is from the first basement hallway to the second. There’s no clear visual indicator for this wrong warp, so try to get a feel for the spacing. The correct position is in the image below.
 
-<img src='/Images/BasementWrongWarp1.png' alt="Basement wrong warp location" title="Basement wrong warp location"></img>
+<img src='./Images/BasementWrongWarp1.png' alt="Basement wrong warp location" title="Basement wrong warp location"></img>
 
 The second wrong warp doesn’t skip an encounter, but it still saves a good amount of time. This wrong warp is from the second angled hallway into the final long hallway. As before, there isn’t a good visual indicator for this wrong warp, so refer to the image below for the correct position.
 
-<img src='/Images/BasementWrongWarp2.png' alt="Basement wrong warp location" title="Basement wrong warp location"></img>
+<img src='./Images/BasementWrongWarp2.png' alt="Basement wrong warp location" title="Basement wrong warp location"></img>
 
 For the rest of Monstertale, just continue to the right and go through the rest of the encounters. You can take a safety save in judgement hall if you need it, because missing the next skip costs a huge amount of time.
 
@@ -798,13 +798,13 @@ For the rest of Monstertale, just continue to the right and go through the rest 
 
 Walk right in the Judgement hallway. PCE the trigger for the cutscene. After doing that, quickly close the Punch Card and walk right. Keep holding right until Sans’ silhouette is fully visible, then hold up and right. After entering the next hallway, immediately walk back out. Prepare for the next series of wrong warps.
 
-<img src='/Images/SansSkip.png' alt="Sans Skip trigger location" title="Sans Skip trigger location"></img>
+<img src='./Images/SansSkip.png' alt="Sans Skip trigger location" title="Sans Skip trigger location"></img>
 
 ### The Rhombu Combu
 
 The Rhombu Combu is a series of wrong warps following the Sans Judgement Skip. These three wrong warps save a nice chunk of time by significantly reducing the walking needed to be done. After walking back into the Judgement Hallway, wrong warp back into the post-judgement hallway. Then, wrong warp from the post-judgement hallway into Asgore’s throne room. And finally, wrong warp from Asgore’s throne room into the Barrier Hallway. After doing this, make sure you have the Burnt Pan (and the Stained Apron if you choose to get it) equipped, then enter the Barrier room.
 
-<img src='/Images/RhombuCombu.png' alt="Rhombu Combu locations" title="Rhombu Combu locations"></img>
+<img src='./Images/RhombuCombu.png' alt="Rhombu Combu locations" title="Rhombu Combu locations"></img>
 
 Note: The last wrong warp position will be different if you accidentally walk into the room. Frisk will be visually 1 pixel lower than if you wrong warped into the room.
 
