@@ -1,6 +1,6 @@
 # Undertale Speedrunning General Guide
 
-<img src='/docs/Images/UTSRGuidesHeader.png'></img>
+<img src='../Images/UTSRGuidesHeader.png'></img>
 
 ## Introduction to Undertale speedrunning
 
