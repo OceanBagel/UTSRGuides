@@ -1,5 +1,5 @@
 # Undertale Speedrun Guides
-<img src='/images/UTSRGuidesHeader.png'></img>
+<img src='./Images/UTSRGuidesHeader.png'></img>
 
 Welcome to the Undertale Speedrun Guides! These guides are maintained by the Undertale speedrunning community.
 
