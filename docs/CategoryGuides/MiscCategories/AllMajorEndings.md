@@ -166,8 +166,16 @@ Alternatively, you can wrong warp into the room and open your punch card before 
 
 With both methods, you can also use the few moments where Napstablook is leaving the room to wrong warp in the next room. After getting the skip, go right, mash 3 lines of text, then mash the last line of text after you walk a little bit past the sign. Hold up and right as you enter the transition, and let go afterward to perform the wrong warp.
 
-#### Flowerflow
+#### The EXP Check (IMPORTANT)
+At some point during Waterfall, you need to check what your EXP is. This route has you very close to saving a turn on Mettaton, so to save that turn you need to buff your attack. The two ways to do this are to kill Vulkin and to buy and use a Legendary Hero.
 
+- If you currently have 630 EXP or more, then killing Vulkin is the fastest way to buff your attack.
+- If you currently have 629 EXP or fewer, then killing Vulkin will not work and you will have to buy a Legendary hero anyway.
+- Alternatively, buying a legendary hero always works and loses less than a second if you do it when you don't have to.
+
+Remember for later whether your EXP was high or low. 
+
+#### Flowerflow
 In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by X and then Enter (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
 
 Once the cutscene is over, walk left to where the path upwards will be. Optionally, you can info the punch card near the end of this part so that when the path appears, you will have text storage and will be able to OWW to the next room. Otherwise, wrong warp normally into the next room.
@@ -206,13 +214,13 @@ Wrong Warp Position:
 <img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
 ##### Method 1 (easiest)
-Just run into both triggers, as you would in glitchless.
+Run into both triggers, as you would in glitchless.
 ##### Method 2 (easy)
 PCE the first trigger, then run into the second trigger. This will save just a couple of seconds over method 1.
 ##### Method 3 (medium)
 PCE the first trigger, quickly PCE the second trigger, then walk into the second room. Let Undyne catch you, then kill her. Go back down to the first room and wrong warp into the second room. This saves about 20 seconds over method 3.
 ##### Method 4 (hard)
-This is the same as Onedyne in neutral. If you already know onedyne, you should continue to implement it here, but if not I would just stick to method 3 which is about the same. 
+This is the same as Onedyne in neutral. If you already know onedyne, you should continue to implement it here, but if not I would just stick to method 3 which is only slightly slower in terms of speed. 
 
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. After this, walk through the second room. Continue onto the third room, walk right until undyne catches you, and then kill her. This method saves a few seconds over method 3. A video guide for this method can be seen below.
 
@@ -224,4 +232,59 @@ Walk into the room and begin moving up the path. PCE the first trigger. You will
 In terms of actually killing Undyne, there aren't really any tips. The arrow attacks are the same every time so you can memorize them, but other than that you just want to hit her with the ballet shoes until she dies. Once you get her health down to 0 and she starts shimmering, that is effectively a cutscene and you can switch to sparing her.
 
 ##### Pacifist Kindergarten
-TODO
+There is a harder strat called Pacifist Kindergarten. TODO describe pacifist kindergarten.
+
+There are more wrong warps you can do after Undyne, but they only save a small amount of time. 
+
+### Hotland
+Get very used to doing hotland. You will pass through hotland a bunch during the game, and it's always the same as neutral.
+
+If I transcribed the whole Hotland section over from neutral every time, this doc would be a thousand pages long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland) to the Neutral guide's section on Hotland.
+
+When you encounter Vulkin, kill it if your EXP is HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
+
+After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero if your EXP is LOW (<630), or if you're unsure.
+
+#### Mettaton
+Mettaton consists of two phases. During the first phase, Mettaton is invulnerable. Once you hit the second phase he will be vulnerable to attack.  Before the fight, you can PCE the trigger and walk to the other side of the room, but this can be slightly risky as there's a chance the moving platform will push you out of the room. Once Mettaton says "Attack of the killer robot!", clear that text and then open the punch card.
+
+##### First Phase
+- During the first attack, SPARE. Mash through the text, but be careful not to overmash and shoot mettaton. Shooting mettaton loses time.
+- During the second attack, SPARE and don't get hit.
+- During the third attack, SPARE and don't get hit.
+- During the fourth attack, SPARE and don't get hit. The fourth attack will be the first one to have a bomb. 
+- If you have a legendary hero, you should use it now. Otherwise, SPARE again.
+- Finally, ACT and select the "Yellow" option and the fight will begin.
+##### Second Phase.
+- During the second attack, robots will rain down from the screen. Try to destroy them all if you can, this will shorten the turns.
+- Attack 4 also has robots, again try to destroy them all.
+- Attack 5 is an essay. It is slightly faster to type one character, but it is slightly more fun to type memes.
+A perfect fight will end after attack 5. It is always faster to destroy robots when they appear, and to get as many hits on Mettaton's heart as possible when it appears.
+
+Once Mettaton is over, you will have the punch card open. Wait until Alphys starts talking, then clsoe it and leaves the room
+
+#### Alphys Elevator Skip.
+In All Major Endings, there are some endings where Alphys Elevator skip must be done, some where it must not be done, and some where it doesn't matter. In this ending, it doesn't matter. I would still recommend doing it because it's fast, but don't worry if you miss it. Here is the description.
+
+This is one of the most difficult PCEs in the run because of how inconsistent it is and that there is no clear visual indicator. Once you enter the hallway after Mettaton, hold up and right. Move down the hallway. Wait for the lights on the wall to go dark twice. Once they have done that, the lights will brighten up. Once the lights start to dim down from their brightest state, you will hit the trigger. The best visual indicator is the pattern along the left edge of the screen. This is a repeating pattern, but it will look like the image below when you hit the trigger.
+
+<img src='./Images/AlphysElevatorSkip.png' alt="Alphys Skip trigger location" title="Alphys Skip trigger location"></img>
+
+Once you PCE the trigger, continue to the right. As soon as Alphys begins to speak, PCA her textbox by opening and closing another punch card, but do not advance past her first textbox. When you get to the elevator, interact with it once with Z and do not mash until you see Alphys’s face appear. When Alphys’s face appears, mash the text and enter the elevator.
+
+There’s a slightly faster version of this skip that involves clearing the textbox slightly earlier. Press Z slightly before reaching the elevator door, then press Z on the elevator door, then X, then wait half a second and press Z again while holding up. Make sure you’re not touching the walls of the elevator door when you enter it or you’ll softlock.
+
+#### Long Elevator skip.
+You can do long elevator skip like normal, but since you're still in no-save, there is another option. If after doing long elevator skip, you reenter the elevator, then ride it down and back up glitchless, this will create an autosave, which you will reload to if you die to Asgore. This takes a long time, so it's not recommended. 
+
+### New Home
+The first New Home of the run is the same boring slog as in Neutral. Subsequent New Homes are different, and I will describe those differences when we get to them. For now though, just do what you always do.
+
+#### Judgement Hall
+Judgement hall is a little bit different. You want to walk right in the Judgement hallway, and PCE the trigger for the cutscene like normal. After doing that, quickly close the Punch Card and walk right. Keep holding right until Sans’ silhouette is fully visible.
+
+This is the key difference. Once his silhouette is fully visible, stop holding right. Wait for sans to start talking. Once you see the first textbox, hold up-right. This will set a flag that lets you skip Sans dialogue later on in the game.
+
+### Flowey
+Beyond this, Asgore and Flowey are the same as in neutral. Asgore is slightly faster since you're higher LV, but Flowey is literally identical (the Neutral and All Major Endings TASes use the same inputs). Once you've finished the flowey fight, be sure to wait until you see the Undertale logo before closing the game. Otherwise, you'll have to fight flowey again later which loses 10 minutes.
+

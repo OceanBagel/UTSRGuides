@@ -11,4 +11,6 @@
     * [Neutral Glitchless](/CategoryGuides/MainCategories/NeutralGlitchless.md "UTSR Guides - Neutral Glitchless")
     * [TPE Glitchless](/CategoryGuides/MainCategories/TPEGlitchless.md "UTSR Guides - TPE Glitchless")
   * Misc Categories
+    * [All Major Endings](/CategoryGuides/MiscCategories/AllMajorEndings.md "UTSR Guides - All Major Endings")
+
   * Category Extensions
