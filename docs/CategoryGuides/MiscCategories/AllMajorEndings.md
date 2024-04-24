@@ -10,11 +10,11 @@ All Major Endings is a very long marathon category. While the world record is ar
 
 ### Preparation
 
-It is recommended that runners be somewhat familiar with the Neutral run, as many of the tricks and strategies are the same. It is also a good idea to have at least a passing familiarity with the genocide route, as you will have to complete a mostly unmodified genocide route to get the Alphys and Genocide Endings. For segments where the strat is similar to an existing part of Neutral or True pacifist, a brief overview will be provided along with a link to the section to explain it in detail.
+It is recommended that runners be somewhat familiar with all 3 main runs of the game (Neutral, TPE, and Genocide) as many of the tricks and strategies are the same - the final part of the run is almost identical to a TPE run, and there is a large stretch in the middle that is highly similar to a Genocide run. Because there are many segments that are similar if not identical to one of these 3 routes, any segment like that will contain a brief overview and a link to the corresponding part of the relevant guides. This is done to prevent this document from being hundreds of pages long.
 
 ### Endings
 
-You must complete at least one of each of the following Major Endings. The numbers in parentheses correspond to the ending numbers on this flowchart: https://imgur.com/6wNQy8i
+You must complete at least one of each of the following Major Endings. The numbers in parentheses correspond to the ending numbers on this flowchart: https://imgur.com/6wNQy8i. These descriptions are weird and tehcnical because they are descriptions of the actual game code. 
 
 #### True Pacifist Ending (65-68)
 
@@ -53,7 +53,7 @@ Complete the Neutral Ending with Toriel alive and at least one of the following:
 
 #### No King Ending (87-88)
 
-- Complete the Neutral Ending with Toriel, Undyne, Mettaton, and Papyrus dead, a murder level of less than 12, and a number of kills that is not 4.
+- Complete the Neutral Ending with Toriel, Undyne, Mettaton, and Papyrus dead, a murder level of less than 12, and a number of kills that is not 4. 
 
 #### Alphys Ending (89)
 
@@ -144,7 +144,9 @@ Activate the Gauntlet of Deadly Terror cutscene and mash it. Once it's done, imm
 
 You cannot finish the Snowdin kill grind. If you do, you will not be able to obtain the punch card later on in the Papyrus Ending. Instead, you want to stop the grind right before reasching the correct number of kills. Once your kill count is at or above 11, you want to cross to the right side of the bridge, and grind out 1 more encounter. This will take you to anywhere from 12 to 14 kills. At this point, head into town and **<span style="color: orange">SAVE</span>**. This is the longest instance of going without a save in the run. From here on out, you are not able to save the game. This makes softlocks particularly dangerous, so it is recommended to be relatively conservative with which tricks you attempt during this part of the run.
 
-Continue onwards and fight Papyrus. You will want to spare him, however the fastest way to get him to a sparable state is to FIGHT him until his HP gets low. Continue to hit Papyrus with accurate hits until he uses his special attack. At this point, spare him. He will use his Really Cool Regular Attack. After this, he will grant you mercy, and you can spare him again to finish the fight.
+Continue onwards and fight Papyrus. You will want to spare him, however the fastest way to get him to a sparable state is to FIGHT him until his HP gets low. On the first attack of the Papyrus fight, you can take intentional damage to cause the first attack to repeat, skipping a slower attack later on. Hit Papyrus with accurate hits until he uses his special attack. At this point, spare him. He will use his Really Cool Regular Attack. After this, he will grant you mercy, and you can spare him again to finish the fight.
+
+
 
 ### Waterfall
 
@@ -268,9 +270,9 @@ Walk into the room and begin moving up the path. PCE the first trigger. You will
 
 In terms of actually killing Undyne, there aren't really any tips. The arrow attacks are the same every time so you can memorize them, but other than that you just want to hit her with the ballet shoes until she dies. Once you get her health down to 0 and she starts shimmering, that is effectively a cutscene and you can switch to sparing her.
 
-##### Pacifist Kindergarten
+<!-- ##### Pacifist Kindergarten
 
-There is a harder strat called Pacifist Kindergarten. TODO describe pacifist kindergarten.
+There is a harder strat called Pacifist Kindergarten. TODO describe pacifist kindergarten. -->
 
 There are more wrong warps you can do after Undyne, but they only save a small amount of time. 
 
@@ -302,6 +304,9 @@ Mettaton consists of two phases. During the first phase, Mettaton is invulnerabl
 - During the second attack, robots will rain down from the screen. Try to destroy them all if you can, this will shorten the turns.
 - Attack 4 also has robots, again try to destroy them all.
 - Attack 5 is an essay. It is slightly faster to type one character, but it is slightly more fun to type memes.
+- Attack 6 involves mettaton's heart. Hit it as much as you can while staying alive to try and make the turn end faster. 
+- Attack 7 is just a whole bunch of robots. Try to destroy them all.
+
 A perfect fight will end after attack 5. It is always faster to destroy robots when they appear, and to get as many hits on Mettaton's heart as possible when it appears.
 
 Once Mettaton is over, you will have the punch card open. Wait until Alphys starts talking, then clsoe it and leaves the room
@@ -369,7 +374,7 @@ After this, continue on to the Papyrus fight and kick his butt into the stratosp
 
 ### Waterfall
 
-Waterfall has a handfull of different routes that make effectively summarizing difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall alt="USRC Guides - Genocide | Ruins")  is the relevant section fro the geno guide.
+Waterfall has a handfull of different routes that make effectively summarizing difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall alt="USRC Guides - Genocide | Waterfall")  is the relevant section fro the geno guide.
 
 ### Hotland
 
@@ -394,12 +399,250 @@ After this, you are at 9 kills and want to grind until you have at least 20. At 
 
 New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
 
- Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
+Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
 
- After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
+After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
 
- ### Flowey
- 
- After killing Asgore, instead of fighting Flowey like normal, Flowey will give you some dialog and drop you into the final room of the game. Walk towards the door again. You once again want to wait until the title screen appears because doing so will shorten Flowey's dialog later on. 
- 
-  
+### Flowey
+
+After killing Asgore, instead of fighting Flowey like normal, Flowey will give you some dialog and drop you into the final room of the game. Walk towards the door again. You once again want to wait until the title screen appears because doing so will shorten Flowey's dialog later on. 
+
+## Genocide Ending.
+
+> The genocide ending is the end of the genocide route. It consists of a few monster kills followed by the intense sans fight.
+
+### Core
+
+This route lets you reload to the genocide route right before you would cross over to the left side of the bridge. The rest of the genocide ending looks like this:
+- 1 encounter on the left side of the bridge.
+- Grind encounters in the room exactly halfway between the Warrior's path and the bridge until you are at either 27 or 28 kills. If you are at 26 kills and get a triple, kill 2 monsters and then flee.
+- Complete the Warrior's path. You should have 34 or 35 kills
+- If you don't have all 35 kills, grind an encounter on the right side of the bridge on the way back to NEO.
+- Fight NEO
+- Fight Sans
+- Fight Asgore.
+
+### End
+
+Once you finish mashing the incredibly slow Chara cutscene, you are able to reload as soon as you select "ERASE" or "DO NOT". This allows you to reload before Chara erases the world, saving about 10 minutes. **DO NOT LET CHARA ERASE THE WORLD**.
+
+## Undyne Ending
+
+> The undyne ending is the first ending to broadly follow the neutral route, though the handful of kills done makes it more similar to the Dog Ending Category
+
+Requirements:
+- Undyne Alive
+- Toriel Dead
+
+### Ruins
+
+Reset the game by selecting the "Reset" option instead of the "Continue" option in the menu. You will then load into a fresh save of the game. Continue through ruins as you normally would in a neutral run, with the following exceptions:
+- In the first room of Ruins, flowey will not be there to talk to you. Instead, when you run into the cutscene trigger, Toriel will appear. Mash through her text
+- Some dialogue will be different, however this will not affect your run. 
+- Because we will be doing Dog Ending on this save file later on, you should **NOT** kill any enemies except for Toriel and Papyrus until you save for the last time. 
+- Instead of sparing Toriel, kill her. 
+
+#### Toriel Kill
+
+Toriel has many different attacks, but there are 2 we’ll be looking for: her hand attacks. You’ll want to run into the hands as soon as possible, since running into them ends the turn immediately, saving time. Each hand saves about 5 seconds.
+
+The entire battle is 13 turns long, but the 13th turn is always harmless so realistically it’s only 12 turns long. You can get 6 non-hand attacks before losing time.
+
+A good strategy is to count the turns in your head. When you’re at the later turns and your HP is still pretty high, start taking damage. The goal is to be at 3 HP entering the 12th turn, since getting hit at 3 HP also causes a turn cancel. Don’t worry about this if she’s giving you lots of hands.
+
+There’s also another strategy you can do to get 8 hands instead of 6. View the gif below.
+
+<img src='./Images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
+
+In this attack, the hitbox that spawns the fireballs is bigger than the actual fireballs. That means, with some careful positioning, you can take only 1 HP of damage. This allows you to get damaged by 2 more hand attacks, which saves around 10 seconds with good RNG. Note that this can only be done when you’re at 8 or higher HP, and it can only be done once. Doing it more than once is just a waste of health.
+
+There is an even faster strategy that can potentially lead to 9 hands. Every time there’s a hand attack, there’s a 50/50 chance that a hand will spawn from the bottom. This hand does 3 damage instead of the usual 4. By hitting three bottom hands before reaching 7 or lower HP, you can get up to 9 hands total. If you only manage to hit two bottom hands, you still get a setup for 8 hands and if you only manage to hit one bottom hand, you get a setup for 7 hands. This is the most optimal way to do the Toriel fight RTA, if you’re able to react to the attack patterns fast enough.
+
+This is all the same as Neutral. However, once Toriel says "I know you want to go home, but...", mash to kill her. Mash through her text and continue forward. 
+
+You will not see Flowey at the end of ruins like you would normally. Simply walk through that room.
+
+### Snowdin
+
+Snowdin is another area that is virtually identical until the Papyrus fight. In this branch, you want to kill him instead.
+
+### Papyrus Kill
+
+The strategy for killing Papyrus optimally is rather counterintuitive. Papyrus is able to be "betrayal killed" after he does his really cool regular attack, allowing you to instantly one shot him. The goal of the fight is to activate the really cool regular attack as soon as possible. You do this by first triggering the special attack by attacking Papyrus until his health is low enough to activate the special attack early, then sparing him in between his special and really cool regular attacks because it's the fastest menu option, then finishing him off. In summary:
+- Attack Papyrus until he does his special attack.
+- Spare Papyrus once in between his special attack and really cool regular attack.
+- Attack papyrus one final time after his really cool regular attack.
+
+As previously described, you can take a hit from the first attack to save a small amount of time.
+
+### Waterfall
+
+#### The Beginning of Waterfall
+
+In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
+
+In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall) as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. On 1.001, the stick drop strats will save more time than they do in Neutral because you are doing Early Ballet Shoes.
+
+#### The Punch Card and Ballet Shoes
+
+Grab the punch card and Ballet Shoes just like you did during the Papyrus ending. After this, continue through the rest of Waterfall as you would in neutral. Unlike with the Papyrus Ending, there are no save requirements during this part of the game so you are free to perform Mad Dummy Skip if you would like.
+
+#### Undyne Part 1
+
+The first part of Undyne is the same as Neutral, but with one caveat. Because we will be saving in Hotland later on with the intent to reload and kill Undyne later, it is imperative to the route that you do not miss the cutscene skip for Undyne falling down. Because of this, the "Safe One-Cycle" strat is recommended more strongly than it is in Neutral. 
+
+First Trigger:
+
+<img src='./Images/UndyneFirstTrigger.png' alt="Undyne first trigger" title="Undyne first trigger"></img>
+
+Second Trigger:
+
+<img src='./Images/UndyneSecondTrigger.png' alt="Undyne second trigger" title="Undyne second trigger"></img>
+
+Wrong Warp Position:
+
+<img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
+
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
+Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
+Go to the second part below.
+
+It is still fully possible to do one of the other strategies described, however doing so is taking on somewhat more risk than it would be in other categories. 
+
+#### Undyne Part 2
+
+After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up as soon as you can. If you wait too long you will get caught by Undyne.
+
+After entering the second hallway, you will need to walk to a specific position in the hallway to abuse an exploit. Once you enter the room you will see a sign. The left end of the sign will have a little notch in the ground under it. This will be the first notch under the sign. Walk to the 4th notch under the sign. Stay there and let Undyne catch you and start the battle. Being here will skip another cycle in the same room. Look at the image below. (Alternatively, you can just stop under the W in the sign.)
+
+<img src='./Images/UndyneBattleStoppingPoint.png' alt="Undyne battle stopping point" title="Undyne battle stopping point"></img>
+
+Once you begin the battle, end Undyne’s dialogue quickly after she turns you green.
+
+Rather than Challenging Undyne, you want to FIGHT her. This is because it turns out that Undyne's HP is saved in your save file. FIGHT her until she turns your soul red, then flee. 
+
+fter fleeing, just hold right. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding right. Exit through the right. In the next room, just hold right again. Exit through the right.
+
+In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat. PCE the trigger for the cutscene and immediately leave the room. **If you miss this PCE,** you are in an awkward spot. Wherever you last saved is now your **<span style="color: orange">SAVE</span>** point, and you should finish the Undyne ending without saving. You will have to progress forward from wherever that save point was up until Undyne.
+
+#### LEBP
+
+LEBP, or "late early burnt pan" is a strategy for AME and True 100% that allows you to fight Undyne with the Pan. This should only be done if you successfully PCE'd the Undyne water cutscene. Play through the game until you recieve the burnt pan normally. Make sure not to kill Vulkin because you are still setting up for dog ending. Equip the pan immediately. Wrong warp out of the pan room into the previous room, then **<span style="color: orange">SAVE</span>** at that room's save point. Continue as normal.
+
+### The Rest of the Ending
+
+The rest of this ending is identical to the Neutral route, except for the following things
+- Do not save anywhere.
+- There is a useful backup for if you miss the Mettaton EX PCE. Start the battle as quickly as possible, then immediately die. This will reload you to the CORE puzzle due to Undertale's hidden "autosave" mechanic.
+- Complete Monstertale as described previously in the Alphys Ending.
+- After fighting Asgore, you will be placed in the final room of the game, just as in Alphys ending. You still want to wait to reload until you see the title screen, because that will shorten Flowey's text even more.
+
+## Mettaton Ending
+
+> The mettaton ending is another neutral ending, mainly consisting of Hotland, which is one of the more fun glitched areas
+
+Requirements:
+- Toriel Dead
+- Undyne Dead
+- Mettaton Alive
+
+### Undyne
+
+You could reload to one of a few places, depending on what exactly happened in the previous ending. Regardless, make your way back to the Undyne fight. If you are coming from the Magma Chamber, almost every room will have a useful wrong warp. <!--TODO pictures for the wrong warp.--> Also of note if you are coming from Magma Chamber is that the Undyne Water Trigger will be skipped. It is easiest to do this by overflowing the water cooler and using the stored text, however if you are on 1.02+ this is not possible and you will have to PCE it instead. <!--TODO pictures of the PCE -->
+
+Once you are at the Undyne fight, attack Undyne until she dies. If you missed the water trigger and had to reload to before you have done any damage, you can do the previously described "Pacifist Kindergarten" strat. Otherwise, just melt Undyne with the Burnt Pan. Remember that everything after you set her HP to 0 is a cutscene and you can switch to sparing her at that point.
+
+### Hotland
+Another hotland that is identical to Neutral. Make sure you don't kill Vulkin as we are still on dog ending, but otherwise proceed as normal.
+
+### Core
+
+In this route we skip mettaton, but we would like to be able to fight him later. In order for this to happen, we need to skip the Alphys cutscene. This is done the same as in neutral, however because it is mandatory it is recommended to take a safety save so you can retry it if you don't get it.
+
+### New Home
+
+Finish Monstertale as in the Alphys and Undyne Endings. **<span style="color: orange">SAVE</span>** in Judgement Hall. Continue through the Asgore fight as normal.  At this point Flowey's dialog is as short as it can get, so you should reload as soon as you touch the door in the final room of the game rather than waiting for the logo to appear.
+
+## Dog Ending
+
+> The dog ending is a very short ending taken up almost entirely by the mettaton fight.
+
+Requirements:
+- Toriel Dead
+- Undyne Dead
+- Mettaton Dead
+- Papyrus Dead
+- No other monsters dead
+
+Once you have reloaded, backtrack to Long Elevator. Ride the elevator down (overflowing it if you can), then wrong warp out. If you don't wrong warp out, you will have to mash through a whole bunch of Alphys Text.
+
+Wrong warp into Mettaton's room. For some reason if you enter normally, you're pushed out so this wrong warp is mandatory
+
+### Before the Mettaton Fight
+
+You will attempt to open the punch card to get movement back, just like you did the first time you fought Mettaton, however it is more complicated to do that in an NG+ state. First, PCE the mettaton cutscene. Next, mash through the cutscene until Mettaton says "REALLY, WHERE?". During this time, you can head towards the room exit as long as you don't leave. There is no moving platform to push you out. After closing that text box, open the menu and hover over use on the punch card. Once the "CLEVER, VERY CLEVER" text appears, but before the textbox finishes, you want to press Enter, Shift, and Z in rapid succession just as you would for Flowerflow. If you are too slow in these inputs, then you will close the punch card too early. If you do the inputs after the textbox finishes, you will not open the punch card at all. Notably, the punch card is drawn behind the battler so if it looks like the punch card disappears, that doesn't necessarily mean you closed it early.
+### The Mettaton Fight
+
+The first phase of the fight is skipped because you are in NG+. The second phase of the fight is largely the same, however since you are a lower LV it will take a few more hits to kill him. Optimally you can finish the fight in 7 attacks. 
+
+After the Mettaton fight, be sure to wait until Alphys starts talking to close the punch card. Then walk out of the room. This time Alphys Elevator skip is not mandatory, though it does still save time. After doing long elevator skip, **<span style="color: orange">SAVE</span>** at the "Castle Elevator" save point. 
+
+At the top left of the following room, there is an elevator that allows you to skip Monstertale. Because you saved after completing it in the previous ending, you will be able to take this elevator. Do so. The Asgore fight and Flowey encounter are exactly the same as in the previous ending
+
+## No King Ending
+
+> meme ending, unfortunately still necessary
+
+Requirements:
+- Toriel Dead
+- Undyne Dead
+- Mettaton Dead
+- Papyrus Dead
+- At least one other monsters dead
+
+Ride the Long Elevator down (overflowing it if you can), then wrong warp out. If you don't wrong warp out and you did Alphys Elevator Skip previously, you will have to mash through a whole bunch of Alphys Text.
+
+Wrong warp into Mettaton's room. For some reason if you enter normally, you're pushed out so this wrong warp is mandatory
+
+Leave to the south, go to the bridge, and grind out a single encounter. After this, skip Mettaton. This time Alphys Elevator skip is not mandatory, though it does still save time. 
+
+At the top left of the following room, there is an elevator that allows you to skip Monstertale. Because you saved after completing it in the previous ending, you will be able to take this elevator. Do so. The Asgore fight and Flowey encounter are exactly the same as in the previous ending
+
+## Family Ending
+
+> This is strongly similar to the Neutral part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
+
+Requirements:
+- Rather complex, but 0 kills works.
+
+This is identical to the Neutral part of the true pacifist route, with the following differences
+- Flowey does not appear at all, including the fight at the end
+- You can reload on touching the door, instead of waiting for the Undertale logo to appear
+
+This is TPE, so make sure you don't forget to date Papyrus and **<span style="color: orange">SAVE</span>** in Judgement Hall
+
+## Exiled Queen Ending
+
+> A fun break from TPE to do a bunch of distinctly non-pacifist activities.
+
+Requirements
+- Toriel alive
+- 10 or more kills (or alternative requirements which we don't go for)
+
+Backtrack to CORE just as you would in TPE. **<span style="color: orange">SAVE</span>** in Core End. This is a particularly important save point because if you kill something and save afterwards, that invalidates TPE and you will have to start this entire ending over, losing well over an hour.
+
+Your goal is 10 kills and you will accomplish that as follows:
+- Cross the bridge and grind for an encounter on the left side of the bridge. This will be an Astigmatism (1).
+- Go to Warrior's path and fight all 7 enemies there (8 total).
+- Finally, return to core end, grinding out an encounter on the right side of the bridge. This will be a double (10).
+
+Since you will be using the pie on Asgore, there is no need to heal after this. Doing so risks accidentally saving.
+After this, go back to asgore. At the top left of the second room after long elevator, there is an elevator that allows you to skip Monstertale. Because you saved after completing it in the previous ending, you will be able to take this elevator. Do so. 
+
+The Asgore fight and Flowey encounter are exactly the same as in the previous ending. Remember that you still have the pie and should use it on Asgore,
+
+## Family Ending
+
+> This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
+
+The ONLY difference between this and TPE as described in that link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
