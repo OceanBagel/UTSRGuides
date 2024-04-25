@@ -641,7 +641,7 @@ After this, go back to asgore. At the top left of the second room after long ele
 
 The Asgore fight and Flowey encounter are exactly the same as in the previous ending. Remember that you still have the pie and should use it on Asgore,
 
-## Family Ending
+## True Pacifist Ending
 
 > This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
 
