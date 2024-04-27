@@ -50,10 +50,6 @@ In the three rock room, stand to the right of the bottom rock and interact with 
 
 In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
-In the room with Napstablook, walk up to him and mash away the text. Go to ACT and select “cheer” for the first 3 turns, and then on the 4th turn select either “cheer” or “flirt”. Make sure not to select anything else, as that can result in an extra turn at best and 2 minutes of timeloss at worst.
-
-In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
-
 In the room with Napstablook, walk up to him and mash away the text. Select the default option on the choicer. In the battle, go to ACT and select “cheer” for the first 3 turns, and then on the 4th turn select either “cheer” or “flirt”. Make sure not to select anything else, as that can result in an extra turn at best and 2 minutes of timeloss at worst. The textbox after the third Cheer can be ended early by mashing Z/Enter.
 
 After the Napstablook battle ends, mash away his text and proceed into the spider bake sale room to the right. Interact with the left web and buy a spider donut. You will need this to skip the Muffet fight later, so make sure you don’t eat it early. After buying the spider donut, exit the bake sale and go up into the next room.
@@ -280,7 +276,7 @@ Walk into the Mad Dummy room and walk upwards.
 
 <span style="color:red">If you're doing the Kindergarten Undyne fight, it is highly recommended to grab at least one Astronaut Food here. You will be at LV3 which technically gives you just enough health to complete the Kindergarten fight without healing, however this is extremely difficult and even top runners will grab a safety heal here. </span>
 
-If you need healing for later parts of the game, the fastest option is to pick up the Astronaut Food. If necessary, you can even pick up two of them. 
+If you need healing for later parts of the game, the fastest option is to pick up the Astronaut Food. If necessary, you can pick up two of them. 
 
 Walk into the Mad Dummy cutscene.
 
@@ -350,9 +346,9 @@ For the third cycle, challenge Undyne three times once again, then Spare the res
 
 After fleeing, continue to the right. Mash through the Papyrus phone call in the middle of the room and continue into the next room.
 
-<span style="color:red">If you choose to do the Kindergarten Undyne strat, you’ll need a healing item, such as a bisicle. Start the fight by Challenging four times, taking one hit of intentional damage each time On the fifth turn, spare Undyne. This turn will be much faster and will be a random pattern, so be ready. After the fifth turn, Undyne will turn you red, but</span> **<span style="color:red">DO NOT FLEE</span>**<span style="color:red">. Keep sparing through the red attacks and into the green attacks. By doing this, Undyne skips straight to the final green phase. Like the normal fight, you’ll want to end this fight at 1, 2, or 3 HP. </span>
+<span style="color:red">If you choose to do the Kindergarten Undyne strat, you’ll need a healing item, such as a bisicle. Start the fight by Challenging four times, taking one hit of intentional damage each time. On the fifth turn, spare Undyne. This turn will be much faster and will be a random pattern, so be ready. After the fifth turn, Undyne will turn you red, but</span> **<span style="color:red">DO NOT FLEE</span>**<span style="color:red">. Keep sparing through the red attacks and into the green attacks. By doing this, Undyne skips straight to the final green phase. Like the normal fight, you’ll want to end this fight at 1, 2, or 3 HP. </span>
 
-<span style="color:red">Once Undyne turns you red a second time, flee. Run up and into the next room and keep running until Undyne catches you. This time, you can flee instantly. Run into the next room and keep running right. You don’t need to stop here like in the normal fight, so keep running, fleeing from Undyne when she catches you a third time and mashing away the Papyrus phone call. Continue into the next room.</span>.
+<span style="color:red">Once Undyne turns you red a second time, flee. Run up and into the next room and keep running until Undyne catches you. This time, you can flee instantly. Run into the next room and keep running right. You don’t need to stop here like in the normal fight, so keep running, fleeing from Undyne when she catches you a third time and mashing away the Papyrus phone call. Continue into the next room.</span>
 
 Keep running past Sans and onto the bridge. Hold right until you run into the cutscene trigger. Mash through the Undyne cutscene, then continue to move right into the next room. **DO NOT HEAL OR INTERACT WITH THE SAVE POINT**. 
 
@@ -416,7 +412,9 @@ Enter the next room to the left. The save in the Bad Opinion Zone room is a good
 
 In the Royal Guards room, walk to the left. You will eventually get stopped by the Royal Guards. Mash away their text. You will get pulled back, but then stopped once again. Mash away the text and begin the battle with the Royal Guards.
 
-You want to kill the royal guards. You can kill them in either order, but each one will require a perfect hit to one-shot. 
+You want to kill the royal guards. You can kill them in either order, but each one will require a perfect hit to one-shot.
+
+After sparing the Royal Guards, go left, then up, then right. Enter the next room to the right.
 
 ### News Show
 
@@ -555,7 +553,7 @@ For the second phase, you simply want to attack Mettaton with the Pan, making su
 
 A perfect fight will end after 7 attacks.
 
-If you die during the second phase of the mettaton fight (or if you are running New Game+), when yhou respawn you will be able to skip the first phase. In this scenario, you will want to equip the cowboy hat before starting the fight.
+If you die during the second phase of the mettaton fight (or if you are running New Game+), when you respawn you will be able to skip the first phase. In this scenario, you will want to equip the cowboy hat before starting the fight.
 
 After the battle ends, Alphys will come into the room to talk to you. Mash all her text and progress upwards into the next room.
 
