@@ -1,10 +1,10 @@
-# Neutral Glitchless NO ABORTED GENOCIDE
+# Neutral Glitchless No Aborted Genocide
 
 <img src='./Images/UTSRGuidesHeader.png'></img>
 
 ## Introduction
 
-TODO
+Neutral Glitchless No Aborted Genocide (NGNAG or just NAG) is a glitchless category created because Neutral Glitchless is considered by namny to be somewhat boring. This category is somewhat similar to TPE Glitchless, but has a few unique strats as well as being about 30 minutes shorter than TPEG. It is heavily reliant on skill with the Burnt Pan to save time, however even without great pan skills, beginners can still expect a run significantly under 2 hours.   
 
 This guide contains several route variations. More advanced routes will be marked with <span style="color:red">red text</span>. If you’re just starting out, it’s safe to ignore these portions of the guide.
 
