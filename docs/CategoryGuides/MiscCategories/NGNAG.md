@@ -1,10 +1,10 @@
-# TPE Glitchless
+# Neutral Glitchless NO ABORTED GENOCIDE
 
 <img src='./Images/UTSRGuidesHeader.png'></img>
 
 ## Introduction
 
-TPE Glitchless, or True Pacifist Ending Glitchless, is a popular category great for people of all skill levels. It is not very difficult to obtain a good time, and does not contain all of the glitches that are included in the glitched categories of Undertale. It is the longest of the 5 main categories, with the world record clocking in at about an hour and 48 minutes. New runners can expect to get a first run time of around 2 hours and 30 minutes, while intermediate runners will have first run times around 2 hours and 10 minutes. Advanced runners will be able to complete TPE Glitchless in under 2 hours.
+TODO
 
 This guide contains several route variations. More advanced routes will be marked with <span style="color:red">red text</span>. If you’re just starting out, it’s safe to ignore these portions of the guide.
 
@@ -36,34 +36,21 @@ This next room is a bit hard to do optimally. Hold up and right as you mash tori
 
 In the next room, hold up-right while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
-In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Kill the Froggit by hitting it with a center hit. This will give you the GOLD required to buy the Spider Donut.
 
 This next room is the hardest room in the game. Walk right and mash away toriel’s text.
 
 ### The RNG Begins
 
-The next rooms have random encounters. Unlike many categories, getting encounters is desirable because you need to have 7G to purchase an item you can after the napstablook fight that will allow you to skip the majority of a boss later in the game. To obtain G from monsters, you will need to encounter them and perform ACTs on the monsters and then subsequently Spare them. Here are the required ACTs for each monster to give gold.
+The next few rooms have random encounters. The monster type is random, and in most rooms it’s random whether you even get one or not. For the first 5 rooms you should pay attention to which monster it is. If it’s a single Whimsun or any type of Moldsmal, spare it. This saves time over fleeing.
 
-- Whimsun: Terrorize, then Spare. Rewards 2G.
-- Froggit: Compliment or Threat, then Spare. Rewards 2G.
-  - If you get the attack with a frog in the corner, run into the frog to end the attack early.
-- Moldsmal: Flirt or Imitate, then Spare. Rewards 1G.
+In the first rock room, hold up right while mashing Toriel’s texts. Read the sign, and then quickly hold down right. You can push the rock from the top by just holding down right. Reading the sign skips a phone call later in the room.
 
-In the first room with the leaves, you will get a phone call at the very beginning. Mash the text and continue towards the bottom right. Do not bother using the save point, as it is unnecessary. With optimal movement, there is only a 38% chance to get an encounter in this room, so it is important to not continue to the next room without getting an encounter. Wallhump near the exit of the room if it is necessary to do so to get an encounter. Perform the necessary ACTs on whatever encounter you get, spare the encounter, and continue to the next room. If you accidentally enter the next room before getting an encounter, don’t worry about going back because going back will reset the step counter. There will be an opportunity to grind another encounter as a backup.
+In the three rock room, stand to the right of the bottom rock and interact with the rock, letting it push you. After the third interaction, when the rock is on the switch, head towards the spikes until the rock moves off the switch, then turn around and start mashing. If you get an encounter while the rock is moving, you’ll be able to interact with the rock before the battle. This is called Rock Skip and is allowed in glitchless because it can be done accidentally. Once the rock is on the switch a second time, keep walking to the right. 
 
-In the second room with the pit in the middle, fall down the pit, and if necessary, wallhump near the exit until you get an encounter. Perform the necessary ACTs on whatever encounter you get, spare the encounter, and continue to the next room. Again, if you accidentally enter the next room early, keep going rather than going back for the encounter.
+In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
-In the third room with the single rock, you will get up to three phone calls. If you interact with the sign at the top of the room, you won’t get the third phone call. Go above the rock and hold Down+Right until the rock is on the switch, then let go of Down so you’re only holding right. An encounter in this room is unavoidable. Perform the necessary ACTs on whatever encounter you get, spare the encounter, and continue to the next room.
-
-In the fourth room with the cracked tile maze, navigate through the maze and try not to fall. If you don’t know the path through the maze, the solution is shown by the leaves in the room below. If you skipped an encounter in an earlier room, grind for one here, ACT, and spare the encounter before entering the next room. Otherwise, keep going.
-
-In the three rock room, stand to the right of the bottom rock and interact with the rock, letting it push you. After the third interaction, when the rock is on the switch, head towards the spikes until the rock moves off the switch, then turn around and start mashing. If you get an encounter while the rock is moving, you’ll be able to interact with the rock before the battle. This is called Rock Skip and is allowed in glitchless because it can be done accidentally. Once the rock is on the switch a second time, keep walking to the right. An encounter in this room is unavoidable, and depending on which encounter you get, you’ll need to ACT on a different monster.
-
-- Froggit + Whimsun: Compliment or Threaten the Froggit, then Spare both. Rewards 2G.
-- Double Froggit: Compliment or Threaten one Froggit, then Spare, then flee. Rewards 2G.
-  - If you get the attack with a frog in the corner, run into the frog to end the attack early. (This attack can only happen with a single Froggit, which is why you spare the first Froggit.)
-- Single Moldsmal: Flirt or Imitate, then Spare. Rewards 1G.
-- Double or Triple Moldsmal: Flirt or Imitate one Moldsmal, then Spare all of them. Rewards 1G.
+In the room with Napstablook, walk up to him and mash away the text. Go to ACT and select “cheer” for the first 3 turns, and then on the 4th turn select either “cheer” or “flirt”. Make sure not to select anything else, as that can result in an extra turn at best and 2 minutes of timeloss at worst.
 
 In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
@@ -77,19 +64,15 @@ From now until the end of Ruins, flee any encounters you get. If you accidentall
 
 In the next room, simply walk to the end and mash away Toriel’s text. There’s a small chance you’ll get an encounter here.
 
-In the room with the six pit traps, hold Down+Right to enter the bottom left pit. Pick up the ribbon, then exit the pit. The ribbon, as well as the rest of the armor acquired during the run, will be used during the Mettaton EX fight. It’s important that you **DO NOT EQUIP ANY ARMOR BEFORE THE METTATON EX FIGHT**. Once you equip the first piece of armor, the default piece of armor (the bandage) can’t be re-equipped, and fleeing is no longer guaranteed if you’re wearing any armor other than the bandage.
-
-After exiting the bottom left pit, enter the top middle pit, interact with the switch, then leave the pit and exit the room.
-
-<span style="color:red">There’s an alternate advanced route called Essay Skip Skip which involves skipping the ribbon. If you’re doing this route, enter the top middle pit only. The rest of Essay Skip Skip will be explained in the Mettaton EX fight. This route saves a couple seconds in 1.0-1.001, plus an additional second in 1.02+, plus a couple more seconds on 1.02+ console versions.</span>
+In the room with the six pit traps, enter the top middle pit, interact with the switch, then leave the pit and exit the room
 
 In the first perspective room, just walk down left to exit. In the second, interact with the first switch behind the pillar. In the third, interact with the switch behind the pillar at the end of the room. In the fourth, interact with the switch behind the pillar in the top left. The chance of getting an encounter is pretty unlikely, except for the fourth room where one is almost guaranteed.
 
 In the next room, go up-right. Don’t bother with getting the toy knife, it’s not needed.
 
-In the next room, mash Toriel’s text and enter the house. In the house, mash her text and then walk right. After she introduces you to your room, walk into the room and sleep in the bed. When you wake up, grab the pie, exit your room, and walk to the left until you get to Toriel. The pie saves about 30 seconds in total throughout the run, so make sure you don’t eat it early.
+In the next room, mash Toriel’s text and enter the house. In the house, mash her text and then walk right. After she introduces you to your room, walk back left. Getting the pie is not necessary in this category.
 
-Talk to Toriel in the living room. Count how many choicers she gives you. On the 3rd one, select the rightmost option. If you miss it, you can just talk to Toriel once more and select the rightmost option. Mash her text and follow her into the basement.
+Talk to Toriel in the living room. Count how many choicers she gives you. On the 4th one, select the rightmost option. If you got the pie, choose the rightmost option on the 3rd choicer instead. If you miss it, you can just talk to Toriel once more and select the rightmost option. Mash her text and follow her into the basement.
 
 Keep following her and mashing.
 
@@ -99,17 +82,17 @@ This is the most RNG intensive part of the game, but also the last major RNG par
 
 Toriel has many different attacks, but there are 2 we’ll be looking for: her hand attacks. You’ll want to run into the hands as soon as possible, since running into them ends the turn immediately, saving time. Each hand saves about 5 seconds.
 
-The entire battle is 13 turns long, but the 13th turn is always harmless so realistically it’s only 12 turns long. You can get 6 non-hand attacks before losing time.
+The entire battle is 13 turns long, but the 13th turn is always harmless so realistically it’s only 12 turns long. You can get 5 non-hand attacks before losing time.
 
 A good strategy is to count the turns in your head. When you’re at the later turns and your HP is still pretty high, start taking damage. The goal is to be at 3 HP entering the 12th turn, since getting hit at 3 HP also causes a turn cancel. Don’t worry about this if she’s giving you lots of hands.
 
-There’s also another strategy you can do to get up to 8 hands instead of 6. View the gif below.
+There’s also another strategy you can do to get up to 9 hands instead of 7. View the gif below.
 
 <img src='./Images/8HandStrat.gif' alt='This attack deals 1hp, allowing for 8-hand Toriel strats.' title='This attack deals 1hp, allowing for 8-hand Toriel strats.'></img>
 
 In this attack, the hitbox that spawns the fireballs is bigger than the actual fireballs. That means, with some careful positioning, you can take only 1 HP of damage. This allows you to get damaged by 2 more hand attacks, which saves around 10 seconds with good RNG. Note that this can only be done when you’re at 8 or higher HP, and it can only be done once. Doing it more than once is just a waste of health.
 
-There is an even faster strategy that can potentially lead to 9 hands. Every time there’s a hand attack, there’s a 50/50 chance that a hand will spawn from the bottom. This hand does 3 damage instead of the usual 4. By hitting three bottom hands before reaching 7 or lower HP, you can get up to 9 hands total. If you only manage to hit two bottom hands, you still get a setup for 8 hands and if you only manage to hit one bottom hand, you get a setup for 7 hands. This is the most optimal way to do the Toriel fight RTA, if you’re able to react to the attack patterns fast enough.
+There is an even faster strategy that can potentially lead to 10 hands. Every time there’s a hand attack, there’s a 50/50 chance that a hand will spawn from the bottom. This hand does 3 damage instead of the usual 4. By hitting three bottom hands before reaching 7 or lower HP, you can get up to 10 hands total. If you only manage to hit two bottom hands, you still get a setup for 9 hands and if you only manage to hit one bottom hand, you get a setup for 8 hands. This is the most optimal way to do the Toriel fight RTA, if you’re able to react to the attack patterns fast enough.
 
 After Toriel stops talking, just mash Z and Enter. When the battle starts fading out, hold up and mash away her text. Keep holding up throughout the entire thing.
 
@@ -195,9 +178,7 @@ After the battle, walk right and exit the room.
 
 In the Gauntlet of Terror room, walk across the bridge and trigger the last cutscene of Snowdin's Forest. Mash all of Papyrus’ and Sans’ text. Hold right as the screen slides back to you, and proceed right to Snowdin Town.
 
-### Snowdin Town
-
-Walk right, and stop to go into the snowdin shop (house on the left). Purchase the Manly Bandanna. Don’t equip it. <span style="color:red">If you’re doing the Kindergarten Undyne fight, you’ll also need to buy a Bisicle here</span>. Continue going right after exiting the shop. Don’t use the save point or the box. Use the igloo to get to the other side of town faster. After leaving the igloo exit through the right side of town.
+Walk right, past the shop and the inn. Don’t use the save point or the box. Use the igloo to get to the other side of town faster. After leaving the igloo exit through the right side of town.
 
 ### Papyrus Fight
 
@@ -215,17 +196,9 @@ After being sent back to Papyrus’ garage, head back to him and mash his text a
 
 When you return to him the 4th time, Papyrus will let you choose to fight him again or to not fight him again. Choose the second choice to not fight him again. You need to be careful here because choosing the first choice to fight him again will cause you to lose almost a minute.
 
-After choosing the second choice, Papyrus will give up on fighting you and spare you. Mash the large amount of dialogue. After that Papyrus will fly away. Proceed left to start the Papyrus Date.
+After choosing the second choice, Papyrus will give up on fighting you and spare you. Mash the large amount of dialogue. After that Papyrus will fly away. 
 
-### Papyrus Date
-
-Go to the front of Papyrus’ house and talk to Papyrus. Mash away his dialog and enter the house.
-
-Go straight to the top left door and interact with it. Mash away Papyrus’ dialog and enter the door. Interact with him to start the date.
-
-As soon as the date begins, press C. After that just keep mashing and mashing and mashing. When he asks you to search for his secret, interact with his chin. Any part of his head will work. 2 choicers will then appear. For the first one, you can just mash through it. For the second one, you’ll want to select the right option. This saves about 2-3 seconds. This is known as “spaghetti skip”.
-
-Mash his dialog after that. The screen will turn to white and unskippable text will appear. Just mash Z and Enter for this. After the screen goes to normal, keep text mashing until the date ends. After the date ends, exit the house and continue right to Waterfall.
+Go right and proceed to Waterfall.
 
 ## Waterfall
 
@@ -235,7 +208,7 @@ Mash his dialog after that. The screen will turn to white and unskippable text w
 
 Keep walking right. Don’t save.
 
-In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then walk into the secret entrance in the middle of the waterfall. Pick up the Old Tutu. Don’t equip it. After acquiring the Old Tutu, go back to the waterfall room and go into the next room on the right.
+In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
 Mash the cutscene with Papyrus and Undyne. Continue right and mash the cutscene with Monster Kid.
 
@@ -305,6 +278,10 @@ After waking up on the pile of golden flowers, hold right and go right. The save
 
 Walk into the Mad Dummy room and walk upwards.
 
+<span style="color:red">If you're doing the Kindergarten Undyne fight, it is highly recommended to grab at least one Astronaut Food here. You will be at LV3 which technically gives you just enough health to complete the Kindergarten fight without healing, however this is extremely difficult and even top runners will grab a safety heal here. </span>
+
+If you need healing for later parts of the game, the fastest option is to pick up the Astronaut Food. If necessary, you can even pick up two of them. 
+
 Walk into the Mad Dummy cutscene.
 
 Mash the text from the Mad Dummy cutscene and begin the battle.
@@ -331,7 +308,7 @@ In the main hub room of Waterfall, walk up and mash Napstablook’s text. If you
 
 ### The last few rooms of Waterfall
 
-In Gerson’s shop hallway, walk right and enter the shop. Purchase a pair of cloudy glasses. Don’t equip them. Exit the shop after doing so and continue right into the next room.
+In Gerson’s shop hallway, walk past the shop and continue into the next room.
 
 After walking into the Firefly Hallway, walk right and exit into the room to the right.
 
@@ -339,7 +316,7 @@ In the mushroom puzzle room, you don’t actually need to light up the mushrooms
 
 <img src='./Images/MushroomMaze.png' alt="Mushroom maze solution" title="Mushroom maze solution"></img>
 
-In the lantern room, interact with the lamps as you pass them so you can see where you’re going. Enter the next room on the right at the end of the path.
+In the lantern room, interact with the lamps as you pass them so you can see where you’re going. You will run into a Temmie. Kill it for extra EXP for the Undyne fight. Enter the next room on the right at the end of the path.
 
 In the “Behind you” flower room, hold up and right when entering the room to put yourself against the wall. After putting yourself against the wall, just hold right and mash. You want to talk to the “Behind you” flower as soon as possible, and mash away the text as soon as possible. Mash all the text for the cutscene.
 
@@ -373,15 +350,11 @@ For the third cycle, challenge Undyne three times once again, then Spare the res
 
 After fleeing, continue to the right. Mash through the Papyrus phone call in the middle of the room and continue into the next room.
 
-<span style="color:red">If you choose to do the Kindergarten Undyne strat, you’ll need a healing item, such as a bisicle. Start the fight by Challenging three times, taking one hit of intentional damage each time. On the fourth turn, use your healing item and take one more intentional hit. On the fifth turn, spare Undyne. This turn will be much faster and will be a random pattern, so be ready. After the fifth turn, Undyne will turn you red, but</span> **<span style="color:red">DO NOT FLEE</span>**<span style="color:red">. Keep sparing through the red attacks and into the green attacks. By doing this, Undyne skips straight to the final green phase. Like the normal fight, you’ll want to end this fight at 1, 2, or 3 HP. Use the unisicle if you need it, keeping in mind that you’ll need to get rid of it afterwards if you don’t use it.</span>
+<span style="color:red">If you choose to do the Kindergarten Undyne strat, you’ll need a healing item, such as a bisicle. Start the fight by Challenging four times, taking one hit of intentional damage each time On the fifth turn, spare Undyne. This turn will be much faster and will be a random pattern, so be ready. After the fifth turn, Undyne will turn you red, but</span> **<span style="color:red">DO NOT FLEE</span>**<span style="color:red">. Keep sparing through the red attacks and into the green attacks. By doing this, Undyne skips straight to the final green phase. Like the normal fight, you’ll want to end this fight at 1, 2, or 3 HP. </span>
 
-<span style="color:red">Once Undyne turns you red a second time, flee. Run up and into the next room and keep running until Undyne catches you. This time, you can flee instantly. Run into the next room and keep running right. You don’t need to stop here like in the normal fight, so keep running, fleeing from Undyne when she catches you a third time and mashing away the Papyrus phone call. Continue into the next room.</span>
+<span style="color:red">Once Undyne turns you red a second time, flee. Run up and into the next room and keep running until Undyne catches you. This time, you can flee instantly. Run into the next room and keep running right. You don’t need to stop here like in the normal fight, so keep running, fleeing from Undyne when she catches you a third time and mashing away the Papyrus phone call. Continue into the next room.</span>.
 
-Keep running past Sans and onto the bridge. Hold Up and Right on the bridge, and keep holding them until you run into the cutscene trigger in the next room. This will line you up perfectly with the water cooler.
-
-When you regain movement, move right and interact with the water cooler, then move left and interact with Undyne. You don’t need to press Up or Down at all, because Undyne has an abnormally large hitbox here. Interacting with her above the bridge will cause you to be further to the right, saving a small amount of time.
-
-After Undyne wakes up and leaves, continue into the next room. **DO NOT HEAL OR INTERACT WITH THE SAVE POINT**.
+Keep running past Sans and onto the bridge. Hold right until you run into the cutscene trigger. Mash through the Undyne cutscene, then continue to move right into the next room. **DO NOT HEAL OR INTERACT WITH THE SAVE POINT**. 
 
 ## Hotland
 
@@ -399,11 +372,11 @@ Throughout hotlands you will get many random calls and notifications from Alphys
 
 ### The beginning of Hotland
 
-In the room with the first set of moving floors, stay on the left side for the duration of the room. You will get an unavoidable encounter with Vulkin. Flee from Vulkin. Walk upwards and enter the next room.
+In the room with the first set of moving floors, stay on the left side for the duration of the room. You will get an unavoidable encounter with Vulkin. Kill Vulkin to get EXP for later. Walk upwards and enter the next room.
 
 In the room with the first set of vents, ignore the save and go to the right. Walk onto the vent pointing to the right. Next walk to the vent pointing up and walk onto it. Next, walk to the vent pointing right and walk onto it. Walk downwards and enter the room proceeding downwards.
 
-In the Burnt Pan room, walk near the vent and wait for it to point leftwards. When it is pointing to the left, walk onto the vent. Fly over to the Burnt Pan and interact with it. Pick up the Burnt Pan. Equip the Burnt Pan, and then throw away the Tough Glove. If you equip the pan while on the conveyor belt, you will keep moving between closing the menu for the burnt pan and opening the menu for dropping the tough glove, saving a small amount of time. Walk onto the moving floor. Run back over to the entrance of the room and return to the room with the first set of vents.
+In the Burnt Pan room, walk near the vent and wait for it to point leftwards. When it is pointing to the left, walk onto the vent. Fly over to the Burnt Pan and interact with it. Pick up the Burnt Pan. Equip the Burnt Pan. You do not need to throw away the tough glove. Walk onto the moving floor. Run back over to the entrance of the room and return to the room with the first set of vents.
 
 After returning to the room with the first set of vents, use the vent to the left. Then walk to the vent pointing upwards and use it. Next, use the vent pointing to the left. Mash a few text boxes and then go up into the next room. In the Laser Hallway room, keep moving to the right and run into the first blue laser. If you didn’t heal after Mettaton’s quiz, you’ll be at 1 HP and Alphys will disable the lasers after the battle. You can’t die to these lasers, so don’t worry about dodging. After mashing away the text after the laser encounter, continue to the right. Don’t hit the switch. Exit into the room to the right.
 
@@ -430,9 +403,7 @@ There is an extremely low chance that you may see special NPC’s in some rooms 
 
 ### Floor 2
 
-Exit the elevator. Ignore Hots Fireguy and go left and enter the next room. Simply hold left in Sans’ hot dog stand room. Exit left. In the long hallway room, hold down and left as you enter the room. Once you have reached the very bottom of the ground you can walk on, just hold left. Doing this will skip some notifications in the room. About ¼ of the way into the room, you will get an unavoidable encounter. Flee from the encounter, and continue down the room. When you come to the three way intersection, go down first, and enter the room proceeding downwards.
-
-Inside the Stained Apron room, go downwards until you get a notification. You will get a friend Invite from Napstablook. Just mash this away. Go to the Stained Apron and interact with it, and pick it up. Don’t equip it. After that, return to the previous room. Go left at the intersection. Remember to hug the bottom wall. Go into the next room on the left.
+Exit the elevator. Ignore Hots Fireguy and go left and enter the next room. Simply hold left in Sans’ hot dog stand room. Exit left. In the long hallway room, hold down and left as you enter the room. Once you have reached the very bottom of the ground you can walk on, just hold left. Doing this will skip some notifications in the room. About ¼ of the way into the room, you will get an unavoidable Pyrope encounter. Kill it for EXP. In order to one-shot it, you will need to hit a perfect hit with the pan. Continue down the room and exit all the way to the left.
 
 The next room is the Three Switch Room. Hold up and left when you enter the room. You will get another phone call right before getting on the moving floors. Mash the text, then proceed onto the moving floor. You simply need to hit the first two switches to complete the puzzle. If you are accurate you can hold left during the entire duration of the puzzle. Once you are near the third switch, you will get another phone call. Mash it away, and then go left into the next room.
 In the vent puzzle room, walk up to the first vent. You will get another phone call. Mash the text. Don’t press the button and ride the vent pointing left. After that, take the vents in this order:
@@ -445,8 +416,7 @@ Enter the next room to the left. The save in the Bad Opinion Zone room is a good
 
 In the Royal Guards room, walk to the left. You will eventually get stopped by the Royal Guards. Mash away their text. You will get pulled back, but then stopped once again. Mash away the text and begin the battle with the Royal Guards.
 
-Go to ACT and select Guard 02. Select clean armor. In the next attack, try to touch the green 5 times. If you do not manage to do that, do the same thing next turn and try again. After Guard 02’s armor breaks, go to ACT and select Guard 01. Select whisper. Endure another attack. Mash the text for the cutscene. Once the cutscene is over, go to Mercy and Spare the Royal Guards.
-After sparing the Royal Guards, go left, then up, then right. Enter the next room to the right.
+You want to kill the royal guards. You can kill them in either order, but each one will require a perfect hit to one-shot. 
 
 ### News Show
 
@@ -484,7 +454,7 @@ Take this path in the maze of vents:
 
 - **Up, Left, Up, Right, Up, Right, Up, Up, Left, Up.**
 
-This will lead you to the northern part of the room. Go up into the next room and flee the scripted encounter.
+This will lead you to the northern part of the room. Go up into the next room. In order to skip a post-muffet cutscene later on, you do not want to get an encounter in this room. By pressing C and Up on the same frame, you will be able to avoid updating your step counts. Repeatedly press C and Up on the same frame, followed by X, until you have walked through the room. With worst case RNG, it's possible to walk for up to 20 frames normally and still get the trick, however it is easiest to menu buffer through the entire room so you aren't at risk of accidentally walking too much and triggering the encounter.
 
 In the Northern Puzzle room, walk up into the puzzle room. Use these inputs to complete the puzzle:
 
@@ -528,7 +498,7 @@ Once the battle ends, mash a phone call from Alphys. Once that is over, go right
 
 In the next room, just go up into the next room.
 
-In the room with the entrance to the hotel, go up into the hotel. Don’t go on a date with Sans, it’s unnecessary and wastes time.
+In the room with the entrance to the hotel, go up and to the right into the sketchy alleyway. Purchase the cowboy hat, but do not equip it yet. Leave the shop and enter the hotel.
 
 In the hotel, go up, and dodge the fountain by going up and left. Continue going up into the core transition room.
 
@@ -542,7 +512,7 @@ In the core transition room, go up. You will trigger a cutscene. Simply mash all
 
 In the first room of the Core, go up upon entering the room. You will get yet another phone call from Alphys. Mash the text away, then progress to the left doorway and enter it.
 
-In the next room, there is a scripted battle. Walk up into the trigger for the cutscene. You will get another phone call, mash the text. After that, you will begin a battle with Madjick. Use the stick on the Madjick and Spare the next turn. Mash the rest of the cutscene and go up into the next room.
+In the next room, there is a scripted battle. Walk up into the trigger for the cutscene. You will get another phone call, mash the text. After that, you will begin a battle with Madjick. Kill it. It will require a perfect hit to one-shot it. Mash the rest of the cutscene and go up into the next room.
 
 In the Laser Switch room, mash the phone call at the beginning of the room. After that, go to the switch. Hit the switch, and immediately go down and right. You can get some distance in before the blue lasers come. Stop for the two blue lasers. Once the two blue lasers pass, start moving onto the bridge and pass the orange laser. Cross the bridge. After crossing the bridge, mash the phone call. Go right and enter the next room.
 
@@ -568,43 +538,24 @@ Walk up to Mettaton and begin the cutscene. Mash all the text. Once the music en
 
 ### Mettaton EX Battle
 
-For the first phase, simply Spare Mettaton and mash his text. On the first attack, make sure you don’t keep mashing after clearing the last textbox or else you’ll shoot Mettaton and lose several seconds. It’s very important that you do not take damage in the first phase. Once you get a phone call from Alphys, go to you ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
+For the first phase, complete the phase as follows.
+- Turn 1: Spare, then mash through the etxt. Do not overmash and shoot mettaton, or you will lose several seconds to dialog.
+- Turn 2: Spare.
+- Turn 3: Spare.
+- Turn 4: Spare. You will know you are on turn 4 because it will be the first attack to feature a bomb.
+- Turn 5: Equip the Cowboy Hat. YOu will get a phone call from Alphys on this turn.
+- Turn 6: Go to you ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
 
-<span style="color:red">If you’re doing the Essay Skip Skip route (i.e. you skipped picking up the ribbon in Ruins), skip to the next red paragraph.</span> Otherwise, you’ll have 5 equippable items that you’ve been carrying around for the whole run. In order to spare Mettaton as quickly as possible, you need to get his ratings up to 12,000 or higher. Each equippable item raises the rating by 1500, which can get the ratings up to about 11,500. For the other 500, you will need to shoot obstacles and/or take damage.
+For the second phase, you simply want to attack Mettaton with the Pan, making sure to complete certain attacks as quickly as possible.
+- Attack 2 has robots raining down from the screen. The attack will end slightly faster if you destroy themn all.
+- Attack 4 also has robots, again try to destroy them all.
+- Attack 5 is an essay. It is slightly faster to type one character, but it is slightly more fun to type something silly.
+- Attack 6 involves Mettaton's heart. Hit it as much as you can while staying alive to try and make the turn end faster.
+- Attack 7 is just a whole bunch of robots. Try to destroy them all.
 
-- Shooting the legs or arms will increase the ratings by 5 (note that these can be shot multiple times). Shooting a robot or bomb will increase it by 20.
-- Getting hit will increase the ratings, but decrease with each hit (+50, +25, +20, +15, then +10). You will want to plan your hits out so you don’t die. It’s recommended to use one hit to damage boost through a group of three legs and rapid fire shoot the legs while you’re inside them.
-- Ratings will decrease in between turns, so you need to be quick or you can lose a lot of ratings.
-- There can only be one yellow bullet on screen, so shooting closer to an object will make you be able to shoot again sooner.
+A perfect fight will end after 7 attacks.
 
-In order to finish the fight optimally, perform the following actions:
-
-1. First turn: Equip the Old Tutu (ITEM > Left > Z) and shoot the legs repeatedly.
-2. Second Turn: Equip the Faded Ribbon (ITEM > Right > Z) and shoot all 8 robots. You can do this by going to the top corner and shooting four times and then go to the opposite bottom corner and shoot 4 times.
-3. Third Turn: Equip the Cloudy Glasses (ITEM > Left > Right > Z) and shoot the legs repeatedly. You can shoot the legs faster by taking intentional damage and shooting while inside the legs.
-4. Fourth Turn: Equip the Mandana (ITEM > Down > Right > Z) and make sure to shoot all 5 robots.
-5. Fifth Turn: Equip the Stained Apron (ITEM > Left > Down > Z). If you were quick enough, you will end the battle there.
-
-If you do the battle fast enough, you should skip the Essay turn. If you didn’t get to 12,000 ratings, type “hotfinenticute” for your essay to get 360 ratings, or “legs” to get 350, then throw the stick for 700 ratings.
-
-<div style="color:red">
-If you’re doing the Essay Skip Skip route, you’ll only have 4 equippable items and you’ll have to make up the rest byhitting additional obstacles, the essay, and throwing the stick. When you get to the essay, you can save time by making your essay 1 character long if you have enough ratings to afford the lower reward (80 ratings). Keep in mind that throwing the stick earns 700 points.
-
-1. First turn: Equip the Mandana (ITEM > Down > Z) and shoot the legs repeatedly. You can shoot the legs faster by taking intentional damage and shooting while inside the legs.
-2. Second turn: Equip the Old Tutu (ITEM > Down > Right > Z) and shoot all 8 robots. You can do this by going to the top corner and shooting four times and then go to the opposite bottom corner and shoot 4 times.
-3. Third turn: Equip the Cloudy Glasses (ITEM > Left > Z) and shoot the legs repeatedly. You can shoot the legs faster by taking intentional damage and shooting while inside the legs.
-4. Fourth turn: Equip the Stained Apron (ITEM > Left > Right > Z) and make sure to shoot all 5 robots.
-5. Fifth turn: Use the stick and enter a single character into the essay (80 ratings), or if you’re short on ratings, answer with “hotfinenticute” (360 ratings) or “legs” (350 ratings).
-6. Sixth turn: Act > Pose. (600 ratings at 1hp)
-
-Video demonstration:
-</div>
-
-<div style="max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/9AbD_jPYNx0" title="Consistent Ribbonless Mettaton Method" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-Once you acquire 12,000 ratings, the battle will end and a cutscene will play. Mash all the text in this cutscene. The battle will end after it.
+If you die during the second phase of the mettaton fight (or if you are running New Game+), when yhou respawn you will be able to skip the first phase. In this scenario, you will want to equip the cowboy hat before starting the fight.
 
 After the battle ends, Alphys will come into the room to talk to you. Mash all her text and progress upwards into the next room.
 
@@ -640,7 +591,7 @@ Once you reach the Judgement Hallway, **save at the save point.**
 
 Walk down the Judgement hallway. When you hit the Sans trigger, leave the original window open while you open a new window to the main Continue/Reset menu. Wait until Sans’s first dialogue box appears, then close the original window and press Continue on the new window. Reloading here makes Sans’s dialogue skippable. After reloading, walk through the right and mash through all of Sans’s dialogue.
 
-Walk through judgement hall and into the hallway before the throne room. Enter the throne room and mash through the cutscene. Save in the throne room after the cutscene. Enter the barrier hallway and mash through the cutscene. After doing this, make sure you have the Burnt Pan equipped, then enter the Barrier room.
+Walk through judgement hall and into the hallway before the throne room. Enter the throne room and mash through the cutscene. Enter the barrier hallway and mash through the cutscene. After doing this, make sure you have the Burnt Pan equipped, then enter the Barrier room. If you are nervous about Asgore, you can save in The End without causing issues for the route.
 
 ### Asgore
 
@@ -707,159 +658,6 @@ There’s another reload you can do during the fadeout when Flowey dies. The gam
 
 When you start to hear the wind sound effects, start to hold left for about a second, then mash Z and Enter to hit the FIGHT button. After Flowey’s text appears, close the game and relaunch it, or open the game early for a faster load.
 
-After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway. If you still have other instances of Undertale open, make sure to close them at this time to prevent the game from progressing in those instances and overwriting your save.
+After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway.
 
-When you hear the “THUD” and the “UNDERTALE” text appears, close the game and relaunch it. Alternatively, you can open a new instance of the game early for a faster load time.
-
-## Dates and True Lab
-
-> Some dates and then the True Lab. Not much else.
-
-### Backtracking
-
-Completing a Neutral ending is one of the requirements for the True Pacifist ending; however, there are still other things to do afterwards. Next up is dating Undyne and Alphys.
-
-If you saved in the correct spot, you will appear at the end of the Throne Room. Walk down out of the throne room and hallway before throne room. Walk back through judgement hall and walk through the doorway above you. Walk into the elevator. Go down to the room with the entrance to the long elevator. Walk into the long elevator.
-
-If you’re using the Switch version of Undertale, you can just walk back out of the elevator to get to Core. Otherwise, interact with the elevator panel and exit the elevator. Walk left through the hallway and down through Mettaton’s room. Continue downwards in Mettaton’s room. Take the elevator to the right, and keep walking down until you are back in Hotland.
-Go right and take the elevator to Left Floor 1. Exit the elevator and go down to the Hotland Ferry area. Take the Ferry to Waterfall. Don’t accidentally go to Snowdin.
-
-### Undyne Date
-
-Mash the Ferry person’s text as you’re riding to Waterfall. After getting off the Ferry, be careful to not talk to the Ferry person again.
-
-Head up after getting off the Ferry. Exit to Gerson’s shop hallway. In Gerson’s shop hallway, go left at the three way intersection. Exit through the left. Go into the top left exit in the main hub room.
-At the outside of Undyne’s house, talk to Papyrus. Select the first answer choice that comes up. Mash a ton of text. Follow Papyrus into Undyne’s house.
-Inside Undyne’s house, mash a lot more text. When you regain movement after talking to Undyne by herself, go up and right and interact with the stool. Sit on the stool.
-Hold right and mash Undyne’s text. After Undyne throws the spear at the table and you pick it, keep holding right until the spear points at the box of tea bags. Hit Z or Enter immediately when the spear points at the box of tea bags.
-
-The rest of this date is pretty much just mashing the text. Select the first option for whatever dialogue option comes up. Press Z and Enter to stir the noodles when prompted. Hold right when you are asked to turn up the heat.
-When the house catches on fire and Undyne challenges you to a battle, mash the battle text and FIGHT her as soon as possible. Don’t worry about landing an accurate hit, just end the attack as soon as possible.
-
-After hitting Undyne, mash the rest of the date. After receiving Undyne’s letter, go back to the Waterfall Ferry and ride the Ferry to Hotlands.
-
-### Alphys Date
-
-After riding the Ferry to Hotlands, once again avoid accidentally riding the Ferry again. Exit upwards to the area outside the lab.
-
-Go right to the doors of the lab. Interact with the door. Mash and choose the first option for the dialogue choice. Mash a bunch.
-
-In the first part of the date, if you mash fast enough, you can actually skip the part where the “DATING START” text builds up. It will just appear instantly. There are three different “DATING START” lines you can skip.
-
-The date is 99% just mashing. Always choose the first choice that comes up. The first choice is always faster, and anime is definitely real.
-
-After mashing all the text and ending the date, you will end up in the garbage dump again. Simply go back to the Waterfall Ferry and go back to Hotland.
-
-Once you return to Hotland, go back to the lab. Enter the lab. Walk to the sliding door at the end of the lab with the note in front of it. Enter the sliding door doorway. Interact with the interface of the elevator. Hold down during the cutscene so you can move out of it as soon as possible when you regain movement.
-
-### True Lab
-
-After exiting the elevator, go right and enter the next room. In the pre-True Lab hallway, walk right then turn up at the turn and walk into the next room. You can save at the save point in the main hub if you need to. Proceed to the left into the next hallway. Continue heading left into the next room.
-
-### Memoryhead
-
-In the sink room, interact with the first sink over and over by mashing the text, until the amalgamate cutscene begins.
-
-In the fight with Memoryhead, use the ACTs Cell, then Refuse. Then spare Memoryhead. Grab the red key and enter the room to the north.
-
-Go up to the hole in the wall and insert the red key. Walk back down into the sink room and exit to the right. Then continue through the hall into the main hub. Go to the upper right and enter the unlocked door.
-
-In the bedroom, hold up and right when you enter the room. Interact with the bed with the bedsheet pulled over the pillow as you pass it and pick up the yellow key. After getting the yellow key, go up, take the save if you need it, and enter the door in the top of the room. In the next hallway, go to the right.
-
-### Endogeny
-
-In the Endogeny hallway, hold Up and Right and mash when you get near the switch to interact with it as soon as possible. Select “Yes” and hold left to move towards Endogeny after the cutscene. Use the stick and spare Endogeny, then head to the left into the hallway.
-
-Keep going left until you see a door heading up. Enter the door. Walk towards the bathtub and interact with it when you reach it. Grab the green key, leave the room, and continue to the left.
-
-### Lemonbread
-
-Enter the room to the left, and head upwards into the room to the north. Use the yellow key on the yellow key hole and exit the room. Interact with the “save point” to start the Lemonbread fight.
-
-Use the following ACTs: Hum, Flex, Unhug. Then spare Lemonbread and proceed to the left into the next room.
-
-### Snowdrake’s Mom
-
-In the room with the fridges, interact with the last fridge once and head towards the doorway to the left. The amalgamate cutscene will start. Use the Joke ACT until the battle ends. After the battle, don’t grab the key yet. Proceed into the room towards the upper left and insert the green key into the green key hole. Exit the green key room and grab the blue key. Go behind the fridges and press Up+Down for a speed boost. Exit to the right into the Lemonbread room, then proceed to the right into the next hallway.
-
-Proceed down when the path splits to return to the bedroom. Save if you need to and head into the hall to the right.
-
-### Reaper Bird
-
-In the reaper bird hallway, walk right and enter the reaper bird fight. ACTs for Reaper Bird: Pick On, Mystify, Pray. Then Spare. On the third attack, there’s a safe zone on the far right side of the battle box.
-
-After the fight, walk into the room at the end of the hallway. Insert the blue key into the keyhole and leave the room.
-
-Exit the hall to the left to return to the bedroom. Hold Down+Left to take the optimal path through the bedroom and keep heading to the left until you return to the main hub.
-
-### Generator Room
-
-Enter the main door in the middle of the hub room and proceed through the hallway until you get to the generator room. Interact with the generator and select “Yes” to turn the generator on. Mash through all the text, then go back down into the hallway. Continue to the right. When you get to the elevator, mash the text and wait for the elevator cutscene to end.
-
-## Asriel
-
-> The final boss, the final cutscene, the final text box.
-
-After the elevator cutscene ends, you will appear in front of the long elevator covered in vines. Hold right and go up into the next room.
-
-Go into the elevator to the left. After taking the elevator, go down into the Judgement Hallway. Walk all the way to the barrier room.
-
-Mash Asgore’s text when you enter the barrier room, and begin the battle.
-
-Mash through the entire cutscene until the screen fades to white. Prepare for the final battle.
-
-### First Phase
-
-The battle doesn’t progress until the rainbow effects start, so you have a couple turns to do some setup for the battle. First, go to your inventory and use the bandage to clear some inventory space. Then go to ACT and use Dream, which will give you two healing items. Then wait for the rainbow effect to start.
-
-During the first phase, you can use Dream, Hope, or Spare, or use a healing item. Hope makes you take less damage but loses a small amount of time due to more menuing. Dream refills your healing items and heals you by 5hp. Spare is the fastest option but doesn’t heal you or raise your DEF. If you die during the battle, you’ll respawn a few turns back. Do NOT close out the game at any point as there is no autosaving in this battle.
-
-Mash away Asriel’s text when he talks in the battle. Use the Last Dream before the 13th turn if you have below 20 HP (You’ll know it’s the 13th turn if in the previous turn Asriel will comment on your determination being ‘delicious’).
-On the 13th turn, Asriel will use his "Hyper Goner" attack. Many diamonds will be summoned around you and you will have to dodge them. If you get hit by a diamond, you will be set to one HP. If you manage to not get hit, you will still have 20 HP. Not getting hit is a little faster than getting hit.
-
-After Asriel’s Hyper Goner attack, he will begin his second phase. Whether or not you got hit by the Hyper Goner attack will affect the second phase.
-
-### Second Phase
-
-If you were hit during the "Hyper Goner" attack, die during the first attack as fast as you can. Then die once again on his 4th attack. Doing this will end the attacks sooner and save some time. If you didn’t get hit, try your best to not die. That’s about it.
-
-You can confuse Asriel’s bullets just like Undyne’s spears, but the manipulation is pretty unreliable and his attacks are still very RNG based.
-
-After enough attacks, the screen will fade and text will appear. End the text and the screen will flash. Asriel’s third phase will begin.
-
-### Third Phase
-
-Be careful not to select FIGHT.
-
-Go to to the SAVE menu. It doesn’t matter what order you save the people in.
-
-For Undyne, use any ACT for 2 turns, end with using 'Recipe' on the third turn.
-
-For Alphys, use any ACT for 2 turns. shoot all of the robots and bombs to end the turns faster. End with Quiz on the third turn.
-
-For Papyrus and Sans, use an ACT twice on Papyrus, then use Judgement on Sans.
-
-For Toriel and Asgore, use the Pie first, then use ‘Hug’ on Asgore.
-
-After saving everyone, use SAVE one more time. For the rest of the fight you just Save or Spare and mash away the text.
-
-### Child Asriel
-
-After the battle, Asriel will turn back into a child. This is mostly just more mashing. Keep mashing until he lifts off the ground and breaks the barrier.
-
-After breaking the barrier, Asriel will have one more set of dialogue. You will have to make a choice to either comfort or not comfort Asriel in this dialogue. Choose to not comfort Asriel, which is the 2nd choice. If you accidentally choose to comfort Asriel, you will hug him and waste about 22 seconds. This is usually referred to as the Goat Hug.
-
-After hugging or not hugging the goat, mash the rest of the text. The screen will fade to white.
-
-You can start opening another copy of the game after mashing Asriel’s last bit of text, but **don’t close the current window yet.**
-
-### Post-Asriel
-
-Mash the text that appears after the screen fades to white. Once the screen fades back to normal, mash the text for the rest of the cutscene where everyone talks to you. When Toriel finishes talking to you and everyone turns to face forward, close the game and reload in the window you opened before. This reloads you to the other side of the room, saving a few seconds.
-
-Go right and enter the doorway at the end of the hallway. In the final room, walk up. Touch the door, mash the text, and choose the 2nd option that comes up for the question.
-
-On the final cutscene outside the underground, just mash away. The choices you make don’t matter. For the last question when you’re just with Toriel, pick the first choice. When she holds your hand and faces right, she will say the last text box of the run. Mash this text box and stop your timer.
-
-
-***STOP YOUR TIMER WHEN YOU CLOSE THE FINAL TEXT BOX WITH TORIEL SAYING "Everyone is waiting for us!"***
+***STOP THE TIMER WHEN YOU TOUCH THE DOORWAY AFTER DEFEATING FLOWEY.***
