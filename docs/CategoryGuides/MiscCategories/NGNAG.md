@@ -53,7 +53,7 @@ In the third room with the single rock, you will get up to three phone calls. If
 
 In the fourth room with the cracked tile maze, navigate through the maze and try not to fall. If you don’t know the path through the maze, the solution is shown by the leaves in the room below.
 
-In the three rock room, stand to the right of the bottom rock and interact with the rock, letting it push you. After the third interaction, when the rock is on the switch, head towards the spikes until the rock moves off the switch, then turn around and start mashing. If you get an encounter while the rock is moving, you’ll be able to interact with the rock before the battle. This is called Rock Skip and is allowed in glitchless because it can be done accidentally. Once the rock is on the switch a second time, keep walking to the right. 
+In the three rock room, stand to the right of the bottom rock and interact with the rock, letting it push you. After the third interaction, when the rock is on the switch, head towards the spikes until the rock moves off the switch, then turn around and start mashing. If you get an encounter while the rock is moving, you’ll be able to interact with the rock before the battle. This is called Rock Skip and is allowed in glitchless because it can be done accidentally. Once the rock is on the switch a second time, keep walking to the right. An encounter in this room is unavoidable.
 
 In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
