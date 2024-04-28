@@ -48,7 +48,6 @@ In the first room with the leaves, you will get a phone call at the very beginni
 
 In the second room with the pit in the middle, fall down the pit, and leave. There is a small chance you will get an encounter in this room.
 
-
 In the third room with the single rock, you will get up to three phone calls. If you interact with the sign at the top of the room, you won’t get the third phone call. Go above the rock and hold Down+Right until the rock is on the switch, then let go of Down so you’re only holding right. An encounter in this room is unavoidable. 
 
 In the fourth room with the cracked tile maze, navigate through the maze and try not to fall. If you don’t know the path through the maze, the solution is shown by the leaves in the room below.
