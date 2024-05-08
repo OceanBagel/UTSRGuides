@@ -78,6 +78,16 @@ myrand = round(random(100)) + 1
 
 You can also make <span style="color:orange">colored text</span> using inline HTML. Use sparingly for things that need to be highlighted, and make sure the colors are readable in both light and dark mode. Also note that <span style="color:red">other markdown styles like **bold** or *italics* might override</span> the color.
 
+<div style="color:red">
+If you want to change the color of multiple paragraphs, you can do it like this.
+
+This is especially useful if there's *other formatting*
+
+1. or
+2. numbered
+3. lists.
+</div>
+
 ## Category guide conventions
 
 The category guides should be geared towards beginners who want to reach intermediate levels. The routes themselves should be intermediate routes, but explained as if to a person who hasn't learned the strats yet. For risk vs. reward tradeoffs, faster, more riskier strats can be presented but should be described as such, with other alternatives recommended. If it's a strat that can be made to be consistent by an intermediate player, it can still be recommended. If it's an RNG strat that loses time a lot of the time, it should not be listed, or if it must be listed, it should be discouraged.
