@@ -12,5 +12,5 @@
     * [TPE Glitchless](/CategoryGuides/MainCategories/TPEGlitchless.md "UTSR Guides - TPE Glitchless")
   * Misc Categories
     * [All Major Endings](/CategoryGuides/MiscCategories/AllMajorEndings.md "UTSR Guides - All Major Endings")
-
+    * [Neutral Glitchless No Aborted Genocide](/CategoryGuides/MiscCategories/NeutralGlitchlessNoAbortedGenocide.md "UTSR Guides - Neutral Glitchless No Aborted Genocide")
   * Category Extensions
