@@ -184,9 +184,9 @@ In the Gauntlet of Terror room walk across the bridge and trigger the last cutsc
 
 Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, enter & exit Snowdin and grind again. Repeat until you reach 16 kills.
 
-When you get a Triple encounter, FIGHT the Icecap first. Then, after Chilldrakes attack, menu down to FIGHT Chilldrake. Accidentally fighting Jerry wastes a turn.
+When you get a Triple encounter, FIGHT the Icecap first. Then, after Chilldrake's attack, menu down to FIGHT Chilldrake. Accidentally fighting Jerry wastes a turn.
 
-You can dodge Chilldrakes' spinning blades attack by sitting in the bottom-left corner of the frame. Try not to get hit on the way to the corner.
+You can dodge Chilldrake's spinning blades attack by sitting in the bottom-left corner of the frame. Try not to get hit on the way to the corner.
 
 Spare Jerry unless killing Jerry brings your kill count to 16. Jerry takes a long time to kill, but killing Jerry is faster than grinding for an encounter at 15 kills.
 
