@@ -20,7 +20,7 @@ Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey an
 
 Mash away the text as soon as Flowey talks to you. After Flowey winks, you won't be able to mash the text away. Instead, repeatedly press Z and Enter, so you will end the text as soon as it reaches the end.
 
-After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
+After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the ~~bullets~~ friendliness pellets as soon as possible.
 
 After being hit by the friendliness pellets, hold down and left. Moving to the bottom left corner and holding down the down and left arrow keys will make the circle attack hit you quicker than normal.
 
@@ -30,13 +30,13 @@ You can hold up while mashing the text to move upwards as soon as you are able t
 
 In the first room, walk up the staircase around the save point and into the door. Don't bother saving, it just wastes time. In the next room, mash away Toriel's text and hold up. You don't need to move to enter the door.
 
-This next room is a bit hard to do optimally. Hold up and right as you mash toriel's text. When you get past the bridge, start wall humping and press Z when you pass the switch. Hold down and right until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold down right and mash away Toriel's text.
+This next room is a bit hard to do optimally. Hold up and right as you mash Toriel's text. When you get past the bridge, start wall humping and press Z when you pass the switch. Hold down and right until Toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold down right and mash away Toriel's text.
 
 In the next room, hold up-right while mashing away Toriel's text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
-In the next room, mash away Toriel's text and follow her. You will encounter a froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2, if you hit the Froggit for 19 or less it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
-This next room is the hardest room in the game. Walk right and mash away toriel's text.
+This next room is the hardest room in the game. Walk right and mash away Toriel's text.
 
 ### First Half Ruins
 
@@ -83,7 +83,7 @@ Grind encounters until you reach 20 kills. If you are in an encounter and get yo
 
 ### Leaving the Ruins
 
-Don't save in the cheese room, just head right into the exit. If you're bored, you can wall hump along the wall and mash z as you pass the mouse hole.
+Don't save in the cheese room, just head right into the exit. If you're bored, you can wall hump along the wall and mash Z as you pass the mouse hole.
 
 If you counted correctly and are at 20 kills, Napstablook will disappear as you enter the room. Walk straight and take the right exit. There will be a spiderweb at the top of the room, interact with it and purchase a single spider donut. **DO NOT EAT THE SPIDER DONUT! YOU NEED IT TO SKIP MUFFET!**
 
@@ -113,7 +113,7 @@ After leaving the hallway, head left through the foyer and into the living room.
 
 Follow Toriel downstairs and mash her text when she stops you. When you reach the end of the hallway, start the battle with Toriel.
 
-When Toriel's battle begins, Mash Z & Enter to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing z & enter to finish her text. After her heart breaks, hold up & exit the hallway. Continue holding up through the next room. Walk up to Flowey.
+When Toriel's battle begins, Mash Z & Enter to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing Z & Enter to finish her text. After her heart breaks, hold up & exit the hallway. Continue holding up through the next room. Walk up to Flowey.
 
 Mash Flowey's text, then enter the door behind him to leave the ruins.
 
@@ -131,15 +131,15 @@ In the next room, mash through the cutscene and then proceed right down the path
 
 Head right in Doggo's room until Doggo appears from his house. Mash the text and begin the fight.
 
-FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely take damage. FIGHT Doggo again and mash Z & Enter when hitting him. Your accuracy does not matter.
+FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely taking damage. FIGHT Doggo again and mash Z & Enter when hitting him. Your accuracy does not matter.
 
 **DOGGO DOES NOT COUNT TOWARDS THE KILL COUNT.**
 
 After killing Doggo, exit right.
 
-In the room with the Frozen Pond, don't slide on the ice (sliding on the ice will not progress the step counter). Walk below the ice to get the steps in. Once you reach the end of the ice pond room, grind out an encounter (it should take only a little bit of time). You will encounter the lesser dog. On the first turn, go to ACT and Select Pet (alternatively, you can go to ITEM and use the stick). Endure Lesser Dog's attack and then FIGHT on the 2nd turn. You will one-shot them regardless of accuracy. Unlike the other royal guard dogs, **Lesser Dog counts towards the kill count.** After killing Lesser Dog, exit to the right.
+In the room with the Frozen Pond, don't slide on the ice (sliding on the ice will not progress the step counter). Walk below the ice to get the steps in. Once you reach the end of the ice pond room, grind out an encounter (it should take only a little bit of time). You will encounter the lesser dog. On the first turn, go to ACT and select Pet (alternatively, you can go to ITEM and use the stick). Endure Lesser Dog's attack and then FIGHT on the 2nd turn. You will one-shot them regardless of accuracy. Unlike the other royal guard dogs, **Lesser Dog counts towards the kill count.** After killing Lesser Dog, exit to the right.
 
-If you need some healing items, you can choose to go above the Ice Pond and grab the Snowman Pieces. They heal 45 HP each and are a nice safety heal for Sans/Undyne. If you choose to go for the Snowman Pieces, grind for Lesser Dog against the trees before going into the next room to grab them. Then, after going back into the Ice Pond room, grind for an extra encounter before exiting the Ice Pond room.
+If you need some healing items, you can choose to go above the Ice Pond and grab the Snowman Pieces. They heal 45 HP each and are a nice safety heal for Asgore/Undyne. If you choose to go for the Snowman Pieces, grind for Lesser Dog against the trees before going into the next room to grab them. Then, after going back into the Ice Pond room, grind for an extra encounter before exiting the Ice Pond room.
 
 In Papyrus' electric maze room, hold right and mash all the text. Once the cutscene is over, head right to exit.
 
@@ -157,7 +157,7 @@ It will take a hit in the green, a hit in the yellow, and a hit in the red of th
 
 After the battle, proceed downwards to the next room.
 
-In the first XO puzzle room, go right and exit right
+In the first XO puzzle room, go right and exit right.
 
 In the second XO puzzle room, go right and exit right once more.
 
@@ -182,21 +182,21 @@ Possible Random Encounters:
 
 In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold right as the screen slides back to you, and proceed into Snowdin.
 
-Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (6 or 7 if you went for the Snowman Pieces). After each encounter, enter & exit Snowdin and grind again. Repeat until you reach 16 kills.
+Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, enter & exit Snowdin and grind again. Repeat until you reach 16 kills.
 
-When you get a Triple encounter, FIGHT the Icecap first. Then, after Chilldrakes attack, menu down to FIGHT Chilldrake. Accidentally, fighting Jerry wastes a turn.
+When you get a Triple encounter, FIGHT the Icecap first. Then, after Chilldrakes attack, menu down to FIGHT Chilldrake. Accidentally fighting Jerry wastes a turn.
 
-You can dodge Chilldrakes spinning blades attack by sitting in the bottom-left corner of the frame. Try not to get hit on the way to the corner.
+You can dodge Chilldrakes' spinning blades attack by sitting in the bottom-left corner of the frame. Try not to get hit on the way to the corner.
 
 Spare Jerry unless killing Jerry brings your kill count to 16. Jerry takes a long time to kill, but killing Jerry is faster than grinding for an encounter at 15 kills.
 
 Optimal RNG is getting the Icecap/Jerry encounter up until 10-12 kills. After that, it is optimal to get the Triple encounter.
 
-After getting the necessary kills, head into Snowdin. Walk right, past the shop and the inn. Don't use the save point or the box. Use the igloo to get to the otherside of town faster. After leaving the igloo, exit through the right side of town.
+After getting the necessary kills, head into Snowdin. Walk right, past the shop and the inn. Don't use the save point or the box. Use the igloo to get to the other side of town faster. After leaving the igloo, exit through the right side of town.
 
-Walk down the hallway. Once the silhouette of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
+Walk down the hallway. Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
 
-Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die. When you regain movement, walk right and enter Waterfall
+Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die. When you regain movement, walk right and enter Waterfall.
 
 ## Waterfall
 
@@ -208,7 +208,7 @@ Keep walking right. Don't save.
 
 In the Waterfall room, walk straight and exit right.
 
-If you need some extra protection, there's a hidden entrance in the middle of the waterfall. Inside the waterfall, you will find the TuTu. The Tutu is a nice boost in defense and lessens the damage you will take. However, grabbing the TuTu wastes time and reduces your chances of fleeing successfully. Due to this, it is advised to hold off on equipping the Tutu for now.
+If you need some extra protection, there's a hidden entrance in the middle of the waterfall. Inside the waterfall, you will find the Tutu. The Tutu is a nice boost in defense and lessens the damage you will take. However, grabbing the Tutu wastes time and reduces your chances of fleeing successfully. Due to this, it is advised to hold off on equipping the Tutu for now.
 
 Continue walking right, wait through the cutscene and exit to the right after mashing Monster Kid's text.
 
@@ -224,17 +224,17 @@ In the long bridge room, Undyne will appear and begin to throw spears at you as 
 
 You can manipulate the angle at which the spears are thrown based on your position on the walkway. This can help you dodge, but keep in mind that Undyne's spears have a bit of RNG involved with them. You still need to pay attention to the spears direction even if you've angled them favorably.
 Frisk's hitbox is weird; they can get hit slightly below their feet, and the majority of their head doesn't really seem to have a hitbox.
-In the second room of the chase, hold right to avoid the spears. A cutscene will play when you've reached the end of the chase. Hold right to move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will appear and talk to you. Mash his text and then exit the room through the right.
+In the second room of the chase, hold right to avoid the spears. A cutscene will play when you've reached the end of the chase. Hold right to move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will appear and talk to you. Mash their text and then exit the room through the right.
 
 Don't bother saving in the crystallized cheese room unless you are in need of health.
 
 In the next room, go right and go down the bridge. Exit downwards.
 
-In the next room with the assorted bridges and talking flowers, go to the right at the turn and head downwards. Turn left onto the bridge heading left. Before entering into the room on the left, grind out an encounter. You will get an encounter of two scripted moldsmals. FIGHT both of them; they both require one hit in the green to kill.
+In the next room with the assorted bridges and talking flowers, go to the right at the turn and head downwards. Turn left onto the bridge heading left. Before entering into the room on the left, grind out an encounter. You will get an encounter of two scripted Moldsmals. FIGHT both of them; they both require one hit in the green to kill.
 
-After the encounter, exit left. Interact with the Ballet Shoes hidden in the center of the grass and pick them up. Equip the Ballet Shoes (if you used the phone for the Sea-grass Skip, remember to menu back to Items and avoid making an accidental phone call),. After doing so, go back right and exit to the right.
+After the encounter, exit left. Interact with the Ballet Shoes hidden in the center of the grass and pick them up. Equip the Ballet Shoes (if you used the phone for the Sea-grass Skip, remember to menu back to Items and avoid making an accidental phone call). After doing so, go back right and exit to the right.
 
-If you are having a hard time managing your health through enemy encounters, this makes for an opportune time to equip the TuTu as well. If you're only using the TuTu for Undyne, wait until just before her battle.
+If you are having a hard time managing your health through enemy encounters, this makes for an opportune time to equip the Tutu as well. If you're only using the Tutu for Undyne, wait until just before her battle.
 Go down and right once returning to the room. After reaching a turn that leads upward, you will get one of four encounters:
 
 - Two Moldsmals. This is the optimal RNG and you have a 26.67% chance of getting this encounter. Both require a single, fairly accurate hit to kill.
@@ -242,13 +242,13 @@ Go down and right once returning to the room. After reaching a turn that leads u
   - Hit Aaron with a very accurate hit followed by a semi-accurate hit.
   - Alternatively, if you are confident in your ability with the Ballet Shoes, you can ACT & select FLEX. Then get a very accurate hit to dispatch them on the next turn. This is slightly faster than attacking twice.
 - Woshua. You have a 26.67% chance of getting this encounter as well. Dispatch the Woshua by getting a very accurate hit.
-- Aaron. This is the worst RNG and thankfully you have a 20% chance of getting this one. Dispatch him in the same manner as described above.
+- Aaron. This is the worst RNG and thankfully you have only a 20% chance of getting this one. Dispatch him in the same manner as described above.
 
 After killing your encounter, continue upwards and exit through the exit at the top.
 
-In the Onion-san room, you won't encounter Onion-san. Just head right and exit into the next room
+In the Onion-san room, you won't encounter Onion-san. Just head right and exit into the next room.
 
-The next room is the Shyren room. You will encounter Shyren right after moving up or down to navigate the square in the room. Once you encounter Shyren, FIGHT them and land a good, accurate hit on them to kill them in one attack. After killing Shyren, go right into the next room.
+The next room is the Shyren room. You will encounter Shyren right after moving up or down to navigate the square in the room. Once you encounter Shyren, FIGHT her and land a good, accurate hit to kill her in one attack. After killing Shyren, go right into the next room.
 
 Walk right in the statue room and go to the next room.
 
@@ -256,11 +256,11 @@ Don't grab an Umbrella. Just walk right and exit into the next room.
 
 In the first rainy hallway room, walk against the top wall while heading right. Mash Monster kid's text and continue heading right until the hallway turns and exit downwards.
 
-In the second rainy hallway room, continue heading downwards and mash Monster Kids text when he talks to you. Head right at the turn, mash Monster Kid's text again, and exit through the right.
+In the second rainy hallway room, continue heading downwards and mash Monster Kid's text when they talk to you. Head right at the turn, mash Monster Kid's text again, and exit through the right.
 
 In the room with the castle in the background, Wall Hump while moving right to gain a big speed boost. Exit through the right.
 
-In the next room with the ledge, walk to the right and talk to Monster Kid. Mash his text and wait for him to tell you to climb onto his shoulders. While you wait for Monster Kid to let you climb up, you can drop the stick here and lose no time. Dropping the stick isn't necessary and is a community meme (but you will look super cool doing it). Mash his text once again and climb onto his shoulders to get onto the top of the ledge. Mash his text, head right and exit right.
+In the next room with the ledge, walk to the right and talk to Monster Kid. Mash their text and wait for them to tell you to climb onto their shoulders. While you wait for Monster Kid to let you climb up, you can drop the stick here and lose no time. Dropping the stick isn't necessary and is a community meme (but you will look super cool doing it). Mash their text once again and climb onto their shoulders to get onto the top of the ledge. Mash their text, head right and exit right.
 
 Don't save in the next room. Keep walking right.
 
@@ -278,13 +278,13 @@ Walk into the Glad Dummy room and walk upwards. You can stop by the orange coole
 
 Walk into the Glad Dummy cutscene. Mash the text and begin the battle.
 
-Once the battle begins, FIGHT him and land a semi-accurate hit on Glad Dummy to kill him. Depending on the encounter you got after grabbing the Ballet Shoes, you should now be at 6 or 7 kills. After the battle ends, exit upwards into the main hub room.
+Once the battle begins, FIGHT them and land a semi-accurate hit on Glad Dummy to kill them. Depending on the encounter you got after grabbing the Ballet Shoes, you should now be at 6 or 7 kills. After the battle ends, exit upwards into the main hub room.
 
 In the main hub room, walk right and exit right into Gerson's shop hallway.
 
 In Gerson's shop hallway, walk right, go past the shop (unless you really need to buy safety items for Undyne), and exit right into the double waterfall hallway.
 
-Waterfall Grind & Undyne the Undying
+### Waterfall Grind & Undyne the Undying
 
 Possible Random Encounters:
 
@@ -292,7 +292,7 @@ Possible Random Encounters:
 - Woshua, Aaron: 33.33%
 - Temmie: 26.67%
 
-In the double waterfall hallway, walk right. You will encounter a Temmie in the room without having to grind. FIGHT the Temmie and kill them with a hit of any accuracy. After the encounter, approach the exit at the right. Before going forward into the next room, grind out an encounter with a scripted Moldsmal & Moldbygg. FIGHT & kill both of them. The Moldsmal should be fairly easy to kill in one turn, while the Moldbygg will require a fairly accurate hit to dispatch in one attack. After ending the encounter, exit into the Mushroom puzzle room on your right and grind out a scripted Woshua & Aaron encounter. FIGHT and kill them in the same manner described previously (after picking up the Ballet Shoes). After getting these kills, you should be at 11-12 kills. Transition back into the double waterfall room and grind for another encounter. Repeat this process until you have reached 14 or 15 kills. If you reach 14-15 kills in the mushroom puzzle room, quickly transition back into the double waterfall hallway and back out before continuing forward.
+In the double waterfall hallway, walk right. You will encounter a Temmie in the room without having to grind. FIGHT the Temmie and kill her with a hit of any accuracy. After the encounter, approach the exit at the right. Before going forward into the next room, grind out an encounter with a scripted Moldsmal & Moldbygg. FIGHT & kill both of them. The Moldsmal should be fairly easy to kill in one turn, while the Moldbygg will require a fairly accurate hit to dispatch in one attack. After ending the encounter, exit into the Mushroom puzzle room on your right and grind out a scripted Woshua & Aaron encounter. FIGHT and kill them in the same manner described previously (after picking up the Ballet Shoes). After getting these kills, you should be at 11-12 kills. Transition back into the double waterfall room and grind for another encounter. Repeat this process until you have reached 14 or 15 kills. If you reach 14-15 kills in the mushroom puzzle room, quickly transition back into the double waterfall hallway and back out before continuing forward.
 
 Moldbygg has the slowest attack in Waterfall. If you get the Moldbygg/Woshua encounter, be sure to menu down and attack the Moldbygg first for a little time save.
 In the mushroom puzzle room, you don't actually need to light up the mushrooms to walk through the room. Look at the image below to see the path you will need to take. Grind out an encounter just before heading into the Lantern Room.
@@ -318,7 +318,7 @@ For the entirety of the fight, you should just be FIGHTing Undyne and trying to 
 
 Undyne the Undying's attacks have very little RNG in them. You will learn her attack patterns with practice.
 
-After defeating Undyne the Undying, mash her death cutscene. Proceed to the right. Once you reach the Arena room, go into the rock structure at the top of the room. Walk up in the first hallway, walk right in the 2nd hallway, and continue walking right across the hotland bridge & water cooler room. Continue to head right to enter into Hotland.
+After defeating Undyne the Undying, mash her death cutscene. Proceed to the right. Once you reach the Arena room, go into the rock structure at the top of the room. Walk up in the first hallway, walk right in the 2nd hallway, and continue walking right across the Hotland bridge & water cooler room. Continue to head right to enter into Hotland.
 
 ## Hotland
 
@@ -330,7 +330,7 @@ Don't bother using the save point unless you're in desperate need of heals. Walk
 
 In the hallway after the lab, go right and go up at the turn. Exit through the exit at the top.
 
-In the treadmill hallway room, take the left or right, it doesn't matter. You will encounter Vulkin in the middle-ish of the room. FLEE from Vulkin. Go up after the encounter and exit through the top exit.
+In the treadmill hallway room, take the left path. You will encounter Vulkin in the middle-ish of the room. FLEE from Vulkin. Go up after the encounter and exit through the top exit.
 
 In the first room with the set of vents, head to the bottom right of the room to grab the Burnt Pan (unless you'd rather use the Empty Gun). Somewhere in the process of this you will encounter Tsunderplane. FLEE from Tsunderplane. After you grab the Burnt Pan, exit the main vent room through the top exit.
 
@@ -364,11 +364,11 @@ Once you exit the spider lair, go right in the room with the poster. In the next
 
 In the Hotel entrance room, if you got the Burnt Pan, walk to the big doors and enter the hotel.
 
-If you prefer to use the Empty Gun instead of the Burnt Pan, go right to the alleyway and go into the alleyway. Go into the alleyway shop. Steal the Cowboy Hat and the Empty Gun from the shop. Leave the shop. Equip the Cowboy Hat and the Empty Gun (note: Like the TuTu, equipping the Cowboy Hat will make it less likely to successfully FLEE from an encounter). Go down the alleyway, go left and enter the doors of the hotel.
+If you prefer to use the Empty Gun instead of the Burnt Pan, go right to the alleyway and go into the alleyway. Go into the alleyway shop. Steal the Cowboy Hat and the Empty Gun from the shop. Leave the shop. Equip the Cowboy Hat and the Empty Gun (note: Like the Tutu, equipping the Cowboy Hat will make it less likely to successfully FLEE from an encounter). Go down the alleyway, go left and enter the doors of the hotel.
 
-Inside the Hotel, go up and left around the fountain. Exit through the exit at the top of the room. If you *really* need heals for Asgore, grab some at Burgerpants's shop before leaving the hotel.
+Inside the Hotel, go up and left around the fountain. Exit through the exit at the top of the room. If you *really* need heals for Asgore, grab some at Burgerpants' shop before leaving the hotel.
 
-In the core transition room, go up and enter the core.
+In the Core transition room, go up and enter the Core.
 
 ## Core
 
