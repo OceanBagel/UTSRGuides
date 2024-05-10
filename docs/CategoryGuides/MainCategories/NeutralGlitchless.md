@@ -14,25 +14,25 @@ The Neutral Glitchless category is very similar to the Genocide category. The fi
 
 ### Handholding
 
-After hitting “Yes” at the name selection, you should hold right, so you can start moving as soon as possible.
+After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible.
 
 Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey and begin his dialogue. Mash the text and begin the battle.
 
-Mash away the text as soon as Flowey talks to you. After Flowey winks, you won't be able to mash the text away. Instead, repeatedly press Z and Enter, so you will end the text as soon as it reaches the end.
+Mash away the text as soon as Flowey talks to you. After Flowey winks, you won't be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
 After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the ~~bullets~~ friendliness pellets as soon as possible.
 
-After being hit by the friendliness pellets, hold down and left. Moving to the bottom left corner and holding down the down and left arrow keys will make the circle attack hit you quicker than normal.
+After being hit by the friendliness pellets, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Moving to the bottom left corner and holding down the <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> arrow keys will make the circle attack hit you quicker than normal.
 
 After being hit, prepare your mashing once again. Once Toriel appears, mash away her text.
 
-You can hold up while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
+You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
 
-In the first room, walk up the staircase around the save point and into the door. Don't bother saving, it just wastes time. In the next room, mash away Toriel's text and hold up. You don't need to move to enter the door.
+In the first room, walk up the staircase around the save point and into the door. Don't bother saving, it just wastes time. In the next room, mash away Toriel's text and hold <kbd>▲ Up</kbd>. You don't need to move to enter the door.
 
-This next room is a bit hard to do optimally. Hold up and right as you mash Toriel's text. When you get past the bridge, start wall humping and press Z when you pass the switch. Hold down and right until Toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold down right and mash away Toriel's text.
+This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash Toriel's text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until Toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel's text.
 
-In the next room, hold up-right while mashing away Toriel's text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
+In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel's text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
 In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
@@ -47,15 +47,15 @@ Possible Random Encounters:
 
 In the first room with the leaves, you will get a phone call at the very beginning. Don't save at the save point, go down & right towards the next room. Begin wall humping right next to the exit to get an encounter.
 
-- If you get a Whimsun, FIGHT it and mash Z & Enter. Any hit will kill it immediately.
-- If you get a Froggit, land one accurate hit on it. Hold down and right when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
+- If you get a Whimsun, FIGHT it and mash <kbd>Z</kbd> & <kbd>Enter</kbd>. Any hit will kill it immediately.
+- If you get a Froggit, land one accurate hit on it. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
   - You can predict the Froggit's attack based on what it says. “Meow” and “Hop Hop” = Flies attack, “Ribbit” = Frog attack, “Croak” = 50% chance for either attack. Overall, you have a ~40% chance to get a Frog Attack.
 
 After ending the encounter, go into the next room and begin Wall Humping immediately; grind out another encounter. Alternate between these two rooms & grind encounters until you have 11 kills total.
 
 After grinding out 11 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 12 kills before going to the next room.
 
-In the room with the single rock, you will receive two phone calls at the beginning. Hold down & right into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 13 kills. Exit the room.
+In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 13 kills. Exit the room.
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
@@ -83,7 +83,7 @@ Grind encounters until you reach 20 kills. If you are in an encounter and get yo
 
 ### Leaving the Ruins
 
-Don't save in the cheese room, just head right into the exit. If you're bored, you can wall hump along the wall and mash Z as you pass the mouse hole.
+Don't save in the cheese room, just head right into the exit. If you're bored, you can wall hump along the wall and mash <kbd>Z</kbd> as you pass the mouse hole.
 
 If you counted correctly and are at 20 kills, Napstablook will disappear as you enter the room. Walk straight and take the right exit. There will be a spiderweb at the top of the room, interact with it and purchase a single spider donut. **DO NOT EAT THE SPIDER DONUT! YOU NEED IT TO SKIP MUFFET!**
 
@@ -113,7 +113,7 @@ After leaving the hallway, head left through the foyer and into the living room.
 
 Follow Toriel downstairs and mash her text when she stops you. When you reach the end of the hallway, start the battle with Toriel.
 
-When Toriel's battle begins, Mash Z & Enter to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing Z & Enter to finish her text. After her heart breaks, hold up & exit the hallway. Continue holding up through the next room. Walk up to Flowey.
+When Toriel's battle begins, Mash <kbd>Z</kbd> & <kbd>Enter</kbd> to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing <kbd>Z</kbd> & <kbd>Enter</kbd> to finish her text. After her heart breaks, hold <kbd>▲ Up</kbd> & exit the hallway. Continue holding <kbd>▲ Up</kbd> through the next room. Walk up to Flowey.
 
 Mash Flowey's text, then enter the door behind him to leave the ruins.
 
@@ -131,7 +131,7 @@ In the next room, mash through the cutscene and then proceed right down the path
 
 Head right in Doggo's room until Doggo appears from his house. Mash the text and begin the fight.
 
-FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely taking damage. FIGHT Doggo again and mash Z & Enter when hitting him. Your accuracy does not matter.
+FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely taking damage. FIGHT Doggo again and mash <kbd>Z</kbd> & <kbd>Enter</kbd> when hitting him. Your accuracy does not matter.
 
 **DOGGO DOES NOT COUNT TOWARDS THE KILL COUNT.**
 
@@ -141,7 +141,7 @@ In the room with the Frozen Pond, don't slide on the ice (sliding on the ice wil
 
 If you need some healing items, you can choose to go above the Ice Pond and grab the Snowman Pieces. They heal 45 HP each and are a nice safety heal for Asgore/Undyne. If you choose to go for the Snowman Pieces, grind for Lesser Dog against the trees before going into the next room to grab them. Then, after going back into the Ice Pond room, grind for an extra encounter before exiting the Ice Pond room.
 
-In Papyrus' electric maze room, hold right and mash all the text. Once the cutscene is over, head right to exit.
+In Papyrus' electric maze room, hold <kbd>▶ Right</kbd> and mash all the text. Once the cutscene is over, head right to exit.
 
 In the next room, cross the bridge, head down & right, squeeze between the tree and the cliff, and walk past the snowdecahedron. DON'T GET STUCK ON THE SNOWDECAHEDRON.
 
@@ -167,7 +167,7 @@ In the Ice puzzle room, don't worry about touching the X's. Just go straight to 
 
 Walk to the right and go to the snow poff blocking the exit to the room. Try to not get caught on any other snow poffs on the way there. Watch the cutscene and begin the battle with Greater Dog. You will need 2 accurate hits and one inaccurate hit to kill Greater Dog.
 
-Hold down for all of Greater Dog's attacks. If you get an attack with a sleeping dog at the bottom of the frame, run into the dog to end the attack early. If you get a spear attack, dodge the spear. The sleeping dog attack is around 5 seconds faster.
+Hold <kbd>▼ Down</kbd> for all of Greater Dog's attacks. If you get an attack with a sleeping dog at the bottom of the frame, run into the dog to end the attack early. If you get a spear attack, dodge the spear. The sleeping dog attack is around 5 seconds faster.
 
 **GREATER DOG DOES NOT COUNT TOWARDS THE KILL COUNT.**
 
@@ -180,7 +180,7 @@ Possible Random Encounters:
 - Icecap & Jerry: 56.67%
 - Icecap, Chilldrake, & Jerry: 43.33%
 
-In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold right as the screen slides back to you, and proceed into Snowdin.
+In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold <kbd>▶ Right</kbd> as the screen slides back to you, and proceed into Snowdin.
 
 Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, enter & exit Snowdin and grind again. Repeat until you reach 16 kills.
 
@@ -224,7 +224,7 @@ In the long bridge room, Undyne will appear and begin to throw spears at you as 
 
 You can manipulate the angle at which the spears are thrown based on your position on the walkway. This can help you dodge, but keep in mind that Undyne's spears have a bit of RNG involved with them. You still need to pay attention to the spears direction even if you've angled them favorably.
 Frisk's hitbox is weird; they can get hit slightly below their feet, and the majority of their head doesn't really seem to have a hitbox.
-In the second room of the chase, hold right to avoid the spears. A cutscene will play when you've reached the end of the chase. Hold right to move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will appear and talk to you. Mash their text and then exit the room through the right.
+In the second room of the chase, hold <kbd>▶ Right</kbd> to avoid the spears. A cutscene will play when you've reached the end of the chase. Hold <kbd>▶ Right</kbd> to move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will appear and talk to you. Mash their text and then exit the room through the right.
 
 Don't bother saving in the crystallized cheese room unless you are in need of health.
 
@@ -270,9 +270,9 @@ The spears in the chase are fairly RNG-dependent, but you can easily manipulate 
 
 In the long bridge room after the chase, head right until the third set of spears fades away, turn around, and head left until you trigger the cutscene.
 
-After falling from the bridge, you will get a short cutscene with unskippable text. Just mash Z & Enter.
+After falling from the bridge, you will get a short cutscene with unskippable text. Just mash <kbd>Z</kbd> & <kbd>Enter</kbd>.
 
-After waking up on the pile of golden flowers, hold right and exit right. In the room with the save, don't bother saving, keep going right.
+After waking up on the pile of golden flowers, hold <kbd>▶ Right</kbd> and exit right. In the room with the save, don't bother saving, keep going right.
 
 Walk into the Glad Dummy room and walk upwards. You can stop by the orange cooler and get some astronaut food if you feel like you will need some healing items for Undyne (be aware that grabbing heals will waste time).
 
@@ -301,7 +301,7 @@ In the mushroom puzzle room, you don't actually need to light up the mushrooms t
 
 In the lantern room, interact with the lamps as you pass them so you can see where you're going. You want to get the remaining kills in this room. You should be able to get an encounter before reaching the end of the room. If not, grind for an encounter before exiting into the next room. If you are not at 18 kills after this encounter, quickly enter and exit the next room and grind for another encounter. **DO NOT CONTINUE INTO THE NEXT ROOM UNTIL YOU HAVE 18 KILLS!** Once you have 18 kills total, exit into the “Behind You” flower room on the right at the end of the path.
 
-In the “Behind you” flower room, hold up and right when entering the room to put yourself against the wall. After putting yourself against the wall, just hold right and mash. You want to talk to the “Behind you” flower as soon as possible and mash away the text. Mash all the text for the cutscene. After the cutscene is over, go left and head upwards onto the new path.
+In the “Behind you” flower room, hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> when entering the room to put yourself against the wall. After putting yourself against the wall, just hold <kbd>▶ Right</kbd> and mash. You want to talk to the “Behind you” flower as soon as possible and mash away the text. Mash all the text for the cutscene. After the cutscene is over, go left and head upwards onto the new path.
 
 In the Flower hallway, save if you feel like there will be a chance of you dying. Go right into the Monster Kid bridge room once you are ready. If you haven't reached the kill requirement for Waterfall, “Strongly felt [X] left, Shouldn't proceed yet” will appear in red text. If this happens, you have miscounted and need to return to the lantern room and grind an encounter(s) until you've reached the kill requirement.
 
@@ -344,7 +344,7 @@ In the next room you will encounter the royal guards. Mash their text and begin 
 
 After killing the Royal Guards, ride the vents and exit through the right.
 
-In the next few rooms just hold right. Once you arrive at the elevator, interact with the door and go inside. Interact with the elevator interface and go to left floor 3.
+In the next few rooms just hold <kbd>▶ Right</kbd>. Once you arrive at the elevator, interact with the door and go inside. Interact with the elevator interface and go to left floor 3.
 
 In the room you arrive at, go right. In the next room, go right again and exit right.
 
@@ -382,7 +382,7 @@ Once you enter the room, walk up and trigger the cutscene with Mettaton (make su
 
 In the long hallway, go up and go right at the turn. Keep going right until you reach the elevator. Interact with the elevator to open it and walk inside.
 
-Inside the elevator, interact with the interface. Hold down and wait for the elevator to reach the top. Once the door opens you should move down if you are holding down. Exit the elevator
+Inside the elevator, interact with the interface. Hold <kbd>▼ Down</kbd> and wait for the elevator to reach the top. Once the door opens you should move down if you are holding <kbd>▼ Down</kbd>. Exit the elevator
 
 If you are running on the Nintendo Switch, you can perform the Long Elevator skip by simply entering the elevator and immediately exiting. No need to interact with the interface at all. Note that this is not a glitch and so it is allowed in glitchless categories.
 
@@ -392,7 +392,7 @@ If you are running on the Nintendo Switch, you can perform the Long Elevator ski
 
 ***Make sure you equip the Burnt Pan or Empty Gun and Cowboy Hat at some point after Mettaton but before Asgore.***
 
-Go left once you enter New Home. Go into the living room. Walk towards the kitchen. On your way, you will get your first encounter. Mash Z and Enter to end the encounters as soon as possible. You will get many more after this one. Walk into the kitchen and grab the key. Leave the kitchen and go back and exit the living room back into the main room.
+Go left once you enter New Home. Go into the living room. Walk towards the kitchen. On your way, you will get your first encounter. Mash <kbd>Z</kbd> and <kbd>Enter</kbd> to end the encounters as soon as possible. You will get many more after this one. Walk into the kitchen and grab the key. Leave the kitchen and go back and exit the living room back into the main room.
 
 Walk right into the hallway and grab the key. Walk left and exit to the main room.
 
@@ -430,13 +430,13 @@ The battle mostly consists of attempting to land the perfect hits to beat Asgore
 
 Asgore is by far the most difficult enemy to beat optimally. Don't expect to beat him very quickly your first few times fighting him.
 
-After dealing the final blow, mash Asgore's text. The first part where everything fades away has un-mashable text, but after that it is mashable. After mashing all of his text, hold left and hit FIGHT.
+After dealing the final blow, mash Asgore's text. The first part where everything fades away has un-mashable text, but after that it is mashable. After mashing all of his text, hold <kbd>◀ Left</kbd> and hit FIGHT.
 
 Watch Asgore die and mash away Flowey's text. Once the game closes, quickly relaunch it. You can start opening the game early to minimize the loading time, but make sure you don't open it too early.
 
 ### Flowey
 
-Once the game relaunches, mash Z and Enter until Frisk appears. Walk up and interact with the save Point. Mash Z and Enter to end Flowey's text as soon as possible. Begin the fight.
+Once the game relaunches, mash <kbd>Z</kbd> and <kbd>Enter</kbd> until Frisk appears. Walk up and interact with the save Point. Mash <kbd>Z</kbd> and <kbd>Enter</kbd> to end Flowey's text as soon as possible. Begin the fight.
 
 From a speedrunning standpoint, Photoshop Flowey is mostly an autoscroller. The fight is fairly easy once you figure out how to dodge everything. Newer players might die to Flowey once during their 2nd or 3rd time fighting him, but after that it shouldn't be too difficult.
 
@@ -448,12 +448,12 @@ Here is what you should do during each phase:
 
 - During the Spinning Knives phase, wait for the knives to move left or right. Move in the directions that the knives move, and go up to the very top of the screen on the side that the knives moved to. Wait around for an ACT button and hit it.
 - During the Tough Glove phase, move a little bit to the left and then move to the top of the screen. You will notice a circle of gloves come out of the very top. On the left side of the circle, the ACT button will appear. Stay there to hit it as soon as possible.
-- In the Ballet Shoes phase, simply hold right and hug the right side of the screen, and mash Z and Enter. The ACT button will appear from the right. Staying inside the stars above you will ensure that you hit it as soon as possible.
+- In the Ballet Shoes phase, simply hold <kbd>▶ Right</kbd> and hug the right side of the screen, and mash <kbd>Z</kbd> and <kbd>Enter</kbd>. The ACT button will appear from the right. Staying inside the stars above you will ensure that you hit it as soon as possible.
 - The book phase has a bit of RNG. There's a 50/50 chance that the ACT button will come out of either side of the books, so it's mostly a coin flip. You can just stay in the center and wait for the ACT button to appear. The ACT button will appear somewhere at the top portion of the area you can move in.
 - In the Pan Phase, the ACT button will fly out of the middle pan. Just stay above the middle pan and wait for the ACT button to fly out, and hit it.
-- The Gun Phase is a bit tricky. Move down to the bottom right of the screen and continue to hold down+right. Count the volley of bullets that the gun shoots. On the 8th volley of bullets, the gun will shoot the ACT button on the last shot. Hit the ACT button. Once the screen flashes and the gun shoots flowers, close the game.
+- The Gun Phase is a bit tricky. Move down to the bottom right of the screen and continue to hold <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd>. Count the volley of bullets that the gun shoots. On the 8th volley of bullets, the gun will shoot the ACT button on the last shot. Hit the ACT button. Once the screen flashes and the gun shoots flowers, close the game.
 
-Relaunch the game after closing it, or open the game early for a faster loading time. After relaunching the game, mash Z and Enter to clear Flowey's text.
+Relaunch the game after closing it, or open the game early for a faster loading time. After relaunching the game, mash <kbd>Z</kbd> and <kbd>Enter</kbd> to clear Flowey's text.
 
 For the last part of the fight, try to stay on the FIGHT button as much as possible. Try to stay within the rectangle so you can hit it as soon as possible.
 
@@ -467,7 +467,7 @@ After dealing the last blow to Flowey, mash his text. When he circles you with b
 
 There's another reload you can do during the fadeout when Flowey dies. The game saves when the screen finishes fading to white and starts fading to black, so you can open another copy of the game to load up this save early and save a couple seconds.
 
-When you start to hear the wind sound effects, start to hold left for about a second, then mash Z and Enter to hit the FIGHT button. After Flowey's text appears, close the game and relaunch it, or open the game early for a faster load.
+When you start to hear the wind sound effects, start to hold <kbd>◀ Left</kbd> for about a second, then mash <kbd>Z</kbd> and <kbd>Enter</kbd> to hit the FIGHT button. After Flowey's text appears, close the game and relaunch it, or open the game early for a faster load.
 
 After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway.
 
