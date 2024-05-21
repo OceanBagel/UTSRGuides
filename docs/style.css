@@ -1,0 +1,14 @@
+/* kbd styling from terraria.wiki.gg */
+kbd {
+  color: #000;
+  border: 1px solid #aaa;
+  box-shadow: .1em .2em .2em #bbb;
+  border-radius: .2em;
+  background-image: linear-gradient(to bottom,rgb(238,238,238),rgb(249,249,249),rgb(238,238,238));
+  background-color: #f9f9f9;
+  padding: .1em .4em .2em .3em;
+  margin-right: 2px;
+  font-size: 85%;
+  font-family: inherit;
+  font-style: normal
+}

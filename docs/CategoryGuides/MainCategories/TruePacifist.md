@@ -12,25 +12,25 @@ True Pacifist is the most difficult main category, and is similar in a lot of wa
 
 > The most RNG intensive part of the game.
 
-After hitting “Yes” at the name selection, you should hold right, so you can start moving as soon as possible. Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey and begin his dialogue. Mash the text and begin the battle.
+After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible. Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey and begin his dialogue. Mash the text and begin the battle.
 
-Mash away the text as soon as Flowey talks to you. After Flowey winks, you won’t be able to mash the text away. Instead, repeatedly press Z and Enter, so you will end the text as soon as it reaches the end.
+Mash away the text as soon as Flowey talks to you. After Flowey winks, you won’t be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
 After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
 
-After being hit by the friendliness pellets, hold down and left. Moving to the bottom left corner and holding down the down and left arrow keys will make the circle attack hit you quicker than normal.
+After being hit by the friendliness pellets, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Moving to the bottom left corner and holding down the <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> arrow keys will make the circle attack hit you quicker than normal.
 
 After being hit, prepare your mashing once again. Once Toriel appears, mash away her text.
 
-You can hold up while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
+You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
 
 ### The beginning of Ruins
 
-In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold up. You don’t need to move left or right to enter the door.
+In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold <kbd>▲ Up</kbd>. You don’t need to move left or right to enter the door.
 
-This next room is a bit hard to do optimally. Hold up and right as you mash toriel’s text. When you get past the bridge, start wall humping and press Z when you pass the switch. Hold down and right until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold down right and mash away Toriel’s text.
+This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash toriel’s text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel’s text.
 
-In the next room, hold up-right while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
+In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
 In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
@@ -42,11 +42,11 @@ The next few rooms have random encounters. The monster type is random, and in mo
 
 In Neutral, you can kill a Whimsun to save some time. Do not do this in True Pacifist, as it aborts the Pacifist ending.
 
-In the first rock room, hold up right while mashing Toriel’s texts. Read the sign, and then quickly hold down right. You can push the rock from the top by just holding down right. Reading the sign skips a phone call later in the room.
+In the first rock room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing Toriel’s texts. Read the sign, and then quickly hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. You can push the rock from the top by just holding <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. Reading the sign skips a phone call later in the room.
 
 In the three rock room, ignore the top 2 rocks. Talk to the 3rd rock from the right side, as it’s faster to get pushed by the rock. If you get an encounter while talking to the rock you can perform a glitch known as Rock Skip that saves 1-2 seconds depending on how many times you have talked to the rock to that point.
 
-In the room with the cheese, wall hump and mash Z to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
+In the room with the cheese, wall hump and mash <kbd>Z</kbd> to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
 In the room with Napstablook, walk up to him and mash away the text. Go to ACT and select “cheer” for the first 3 turns, and then on the 4th turn select either “cheer” or “flirt”. Make sure not to select anything else, as that can result in an extra turn at best and 2 minutes of timeloss at worst.
 
@@ -86,7 +86,7 @@ In this attack, the hitbox that spawns the fireballs is bigger than the actual f
 
 There is an even faster strategy that can potentially lead to 9 hands. Every time there’s a hand attack, there’s a 50/50 chance that a hand will spawn from the bottom. This hand does 3 damage instead of the usual 4. By hitting three bottom hands before reaching 7 or lower HP, you can get up to 9 hands total. If you only manage to hit two bottom hands, you still get a setup for 8 hands and if you only manage to hit one bottom hand, you get a setup for 7 hands. This is the most optimal way to do the Toriel fight RTA, if you’re able to react to the attack patterns fast enough.
 
-After Toriel stops talking, just mash Z and Enter. When the battle starts fading out, hold up and mash away her text. Keep holding up throughout the entire thing.
+After Toriel stops talking, just mash <kbd>Z</kbd> and <kbd>Enter</kbd>. When the battle starts fading out, hold <kbd>▲ Up</kbd> and mash away her text. Keep holding <kbd>▲ Up</kbd> throughout the entire thing.
 
 Walk through the long hallway. Mash away Flowey’s text and enter the door.
 
@@ -121,7 +121,7 @@ Spare Doggo. Mash the rest of his text and continue right.
 ### Papyrus’ Puzzles
 
 In the room with the frozen pond, slide across the ice. Sliding across the ice will allow you to move without increasing the step counter, so you do not get an encounter in that room.
-In Papyrus’ electric maze room, hold right while mashing to ensure that once the cutscene is over you get shocked by the maze as soon as possible. After the cutscene is over, walk through the maze, mash through the dialogue, and exit the room. The hitboxes of the maze are very generous, so you can cut some corners in the maze and still be fine.
+In Papyrus’ electric maze room, hold <kbd>▶ Right</kbd> while mashing to ensure that once the cutscene is over you get shocked by the maze as soon as possible. After the cutscene is over, walk through the maze, mash through the dialogue, and exit the room. The hitboxes of the maze are very generous, so you can cut some corners in the maze and still be fine.
 
 In the room with the ball game, cross the bridge and continue down and to the right, making sure to not get stuck on the snowdecahedron.
 
@@ -151,7 +151,7 @@ In the first XO tile puzzle room, turn the Xs into Os and hit the switch, then w
 
 In the second XO tile puzzle room, go to the first tree on the top of the room and activate the switch hidden inside it. Head towards the pressure plate, mash Papyrus’ text, hit the pressure plate, mash some more text, then continue to the room to the right.
 
-Alternatively, there’s a faster strat for the second XO puzzle. Line yourself up as shown in the images below, then interact with the sign on one frame and press down+right on the next frame. If done correctly, you’ll activate the switch with the textbox still open. Mash away the textbox and proceed right into the next room. Keep in mind that this strat is subpixel-dependent, so it may not work if you run into diagonal collision on the tree or if you teleport into the room using debug mode.
+Alternatively, there’s a faster strat for the second XO puzzle. Line yourself up as shown in the images below, then interact with the sign on one frame and press <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> on the next frame. If done correctly, you’ll activate the switch with the textbox still open. Mash away the textbox and proceed right into the next room. Keep in mind that this strat is subpixel-dependent, so it may not work if you run into diagonal collision on the tree or if you teleport into the room using debug mode.
 
 <img src='./Images/GeoStrat.png' alt="Positions to perform Geo's Strat" title="Positions to perform Geo's Strat"></img>
 
@@ -181,13 +181,13 @@ Once you arrive at the last tile, you should be in a position similar to Picture
 
 You can use your menu to ‘buffer’ your steps. Basically use your menu to stop yourself. Hit a direction + the menu button at the same time. Alternatively, you can just move left two pixels without menu buffering, but menu buffering makes it much more consistent.
 
-After being in the right position, press down and right on the same frame. Alternatively you can open the menu, hold down and right with the menu open, and close the menu. You will slide to the pressure plate. While you are sliding, let go of the down arrow key, and only hold right. If done correctly, you will skip the bridge building cutscene, and slide across the bridge like normal.
+After being in the right position, press <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> on the same frame. Alternatively you can open the menu, hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> with the menu open, and close the menu. You will slide to the pressure plate. While you are sliding, let go of the <kbd>▼ Down</kbd> arrow key, and only hold <kbd>▶ Right</kbd>. If done correctly, you will skip the bridge building cutscene, and slide across the bridge like normal.
 
-The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold down to rub against the bottom corner. You then hold right, up+left, up, and down+left. You then have to release left for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
+The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. You then hold <kbd>▶ Right</kbd>, <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, <kbd>▲ Up</kbd>, and <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd>. You then have to release <kbd>◀ Left</kbd> for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
 
 <img src='./Images/IPSFirstPixelTopTile.png' alt="First pixel that activates the top tile" title="First pixel that activates the top tile"></img>
 
-Then, hold right, followed by down+right once you start sliding on the ice, followed by right again after you start sliding again but before you hit the button.
+Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
 
 If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel. 
 
@@ -227,7 +227,7 @@ Walk down the hallway. Once the silhouette of both Frisk and Papyrus appear, Pap
 
 This is the easiest boss fight in the entire run.
 
-Select ITEM and throw the stick at Papyrus. Mash away the text. Papyrus’ speech bubble contains unskippable text but you will be able to end the dialogue very early, so mash Enter and Z.
+Select ITEM and throw the stick at Papyrus. Mash away the text. Papyrus’ speech bubble contains unskippable text but you will be able to end the dialogue very early, so mash <kbd>Enter</kbd> and <kbd>Z</kbd>.
 
 If you accidentally use SPARE instead of throwing the stick, Papyrus will use his blue attack which can lose upwards of 12 seconds.
 
@@ -247,9 +247,9 @@ Go to the front of Papyrus’ house and talk to Papyrus. Mash away his dialog an
 
 Go straight to the top left door and interact with it. Mash away Papyrus’ dialog and enter the door. Interact with him to start the date.
 
-As soon as the date begins, press C. After that just keep mashing and mashing and mashing. When he asks you to search for his secret, interact with his chin. Any part of his head will work. 2 choicers will then appear. For the first one, you can just mash through it. For the second one, you’ll want to select the right option. This saves about 2-3 seconds. This is known as “spaghetti skip”.
+As soon as the date begins, press <kbd>C</kbd>. After that just keep mashing and mashing and mashing. When he asks you to search for his secret, interact with his chin. Any part of his head will work. 2 choicers will then appear. For the first one, you can just mash through it. For the second one, you’ll want to select the right option. This saves about 2-3 seconds. This is known as “spaghetti skip”.
 
-Mash his dialog after that. The screen will turn to white and unskippable text will appear. Just mash Z and Enter for this. After the screen goes to normal, keep text mashing until the date ends. After the date ends, exit the house and continue right to Waterfall.
+Mash his dialog after that. The screen will turn to white and unskippable text will appear. Just mash <kbd>Z</kbd> and <kbd>Enter</kbd> for this. After the screen goes to normal, keep text mashing until the date ends. After the date ends, exit the house and continue right to Waterfall.
 
 ## Waterfall
 
@@ -259,21 +259,21 @@ Mash his dialog after that. The screen will turn to white and unskippable text w
 
 Keep walking right. Don’t save.
 
-In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
+In the Waterfall and falling rocks room, hold <kbd>▶ Right</kbd> until you get to the middle of the waterfall, then press <kbd>▲ Up</kbd> a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
 The next room contains a major skip called Sea-grass Skip (SGS). This skip saves 30 seconds, and involves using an item or the cell phone in a 5 frame window before a cutscene starts, allowing you to skip the cutscene.
 
 There are 3 methods to perform SGS.
 
-The first method is known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap right or menu buffer right. You’ll know you’ve gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
+The first method is known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap <kbd>▶ Right</kbd> or menu buffer <kbd>▶ Right</kbd>. You’ll know you’ve gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
 
 <img src='./Images/SGSAlignment.png' alt="Sea Grass Skip alignment" title="Sea Grass Skip alignment"></img>
 
-Next, press Ctrl+Right+Enter all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash Z/Enter to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you’ll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
+Next, press <kbd>Ctrl</kbd>+<kbd>▶ Right</kbd>+<kbd>Enter</kbd> all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash <kbd>Z</kbd>/<kbd>Enter</kbd> to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you’ll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
 
-The second method is known as the 1 Buffer Setup or Shayy Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold down until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
+The second method is known as the 1 Buffer Setup or Shayy Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
 
-The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding right. After walking 5-8 frames, press C+Z and then enter, or Ctrl+Enter and then Z. This method only saves a second over the previous 2.
+The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding <kbd>▶ Right</kbd>. After walking 5-8 frames, press <kbd>C</kbd>+<kbd>Z</kbd> and then <kbd>Enter</kbd>, or <kbd>Ctrl</kbd>+<kbd>Enter</kbd> and then <kbd>Z</kbd>. This method only saves a second over the previous 2.
 
 After performing the skip, mash away Papyrus’s text and exit the room.
 
@@ -283,7 +283,7 @@ Video demonstration for the 3 setups:
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wvfPUieqiZs" title="Seagrass Skip Setup Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-In the first flower bridge room, construct a bridge of flowers across the center. The pickup and placement of the flowers can be a bit finicky, so be careful. Hold right as the flowers are blooming to walk onto the bridge as soon as possible. Enter the next room on the right.
+In the first flower bridge room, construct a bridge of flowers across the center. The pickup and placement of the flowers can be a bit finicky, so be careful. Hold <kbd>▶ Right</kbd> as the flowers are blooming to walk onto the bridge as soon as possible. Enter the next room on the right.
 
 In the second flower bridge room, go right towards the bridge. You will get an unavoidable encounter just before the bridge. Flee from the encounter with Aaron. After walking across the bridge, go up and towards the flowers. Throw the flowers upwards from the bottom ledge extending from the right. With the fourth flower in hand, throw it from the right and complete the bridge. After dropping the 4th flower, you can drop the stick for a small timesave later. Keep the stick in TPE.
 
@@ -299,7 +299,7 @@ In the long bridge room, Undyne will stop you for a cutscene, then throw spears 
 
 Two things worth noting: 1) Undyne’s spears have a bit of RNG involved with them, but the differences aren’t huge. 2) Frisk’s hitbox is weird; They can get hit slightly below their feet, and the majority of their head doesn’t really seem to have a hitbox.
 
-In the second room of the chase, literally just hold right to avoid the spears. After avoiding the spears and reaching the end, keep holding right so you will move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will come out of the grass and talk to you. Mash his text and then exit the room through the right.
+In the second room of the chase, literally just hold <kbd>▶ Right</kbd> to avoid the spears. After avoiding the spears and reaching the end, keep holding <kbd>▶ Right</kbd> so you will move as soon as the cutscene ends. After exiting the patch of grass, Monster Kid will come out of the grass and talk to you. Mash his text and then exit the room through the right.
 
 Don’t bother saving in the crystallized cheese room unless you have taken a lot of damage in the spears chase scene.
 
@@ -321,7 +321,7 @@ In the next room with the assorted bridges and talking flowers, go right, then h
 
 ### Onionsan Skip
 
-The next room is the Onion-san room. This is the first PCE skip of the run, and it is one of the most difficult PCEs. Walk into the room and head right. You will notice a tentacle rise out of the water under you. Watch this tentacle as you hold right. When the top of the tentacle reaches a little bit over the bottom of the land bridge you’re walking on, you will be on the trigger. It’s important to watch the tentacle, and to PCE when it reaches the top. If you PCE early, just buffer to the right and keep PCEing until you successfully PCE the cutscene. You will hear a ‘splash’ sound and can see the tentacle start to move down when you have successfully PCE’d the cutscene. After hearing the splash, immediately hold right and mash as the text comes up. If you stop or go too slow, you will softlock. See the exact frame you will hit the trigger in the image below.
+The next room is the Onion-san room. This is the first PCE skip of the run, and it is one of the most difficult PCEs. Walk into the room and head right. You will notice a tentacle rise out of the water under you. Watch this tentacle as you hold <kbd>▶ Right</kbd>. When the top of the tentacle reaches a little bit over the bottom of the land bridge you’re walking on, you will be on the trigger. It’s important to watch the tentacle, and to PCE when it reaches the top. If you PCE early, just buffer to the right and keep PCEing until you successfully PCE the cutscene. You will hear a ‘splash’ sound and can see the tentacle start to move down when you have successfully PCE’d the cutscene. After hearing the splash, immediately hold <kbd>▶ Right</kbd> and mash as the text comes up. If you stop or go too slow, you will softlock. See the exact frame you will hit the trigger in the image below.
 
 <img src='./Images/OnionsanSkip.png' alt="Onionsan Skip trigger" title="Onionsan Skip trigger"></img>
 
@@ -343,7 +343,7 @@ In the second rainy hallway room, walk downwards. Once you pass the talking flow
 
 In the room with the castle in the background, Wall Hump while moving right to gain a big speed boost. Exit through the right.
 
-In the next room with the ledge, walk to the right and meet Monster Kid right by the ledge. Talk to him and mash the text, then wait for him to talk again. After he talks again, mash his text. Walk up to him and overflow him. After successfully overflowing, close the Punch Card and hold right. You gain temporary noclip during this cutscene so be careful.
+In the next room with the ledge, walk to the right and meet Monster Kid right by the ledge. Talk to him and mash the text, then wait for him to talk again. After he talks again, mash his text. Walk up to him and overflow him. After successfully overflowing, close the Punch Card and hold <kbd>▶ Right</kbd>. You gain temporary noclip during this cutscene so be careful.
 
 ### Undyne Spear Maze
 
@@ -357,13 +357,13 @@ When you hear the spears strike and the “danger” sound plays, quickly open y
 
 The spears in the chase are fairly RNG-dependent, but you can easily manipulate where they appear. The game will try to predict where you will move and put spears there but it won’t account for if you’re moving into a wall or anything. So move against a wall and hold the directional key to walk into the wall while still progressing.
 
-When you reach the room transition after the large open platform, perform an OWW into the next room. This will put you into the wall, so press down+right to exit the wall, then count roughly 14 steps of movement to the right and turn around. If you missed the OWW, keep walking right until you see the third set of spears fade away, then walk back.
+When you reach the room transition after the large open platform, perform an OWW into the next room. This will put you into the wall, so press <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> to exit the wall, then count roughly 14 steps of movement to the right and turn around. If you missed the OWW, keep walking right until you see the third set of spears fade away, then walk back.
 
 If you went far enough, the spears will have stopped. Keep walking left until you activate the cutscene.
 
-After falling from the bridge you will get a short cutscene with unskippable text. Just mash Z and Enter.
+After falling from the bridge you will get a short cutscene with unskippable text. Just mash <kbd>Z</kbd> and <kbd>Enter</kbd>.
 
-After waking up on the pile of golden flowers, hold right and go right.
+After waking up on the pile of golden flowers, hold <kbd>▶ Right</kbd> and go right.
 
 ### Mad Dummy
 
@@ -381,7 +381,7 @@ After saving, proceed into the Mad Dummy room. Overflow one of the objects in th
 
 Mash the text but stop at the last textbox. Go down to the very bottom of the room, where you will see a sliver of Frisk’s feet (or the water ripple) underneath the textbox. Once you’re there, align yourself with a particular pixel. The specific pixel used is different for everyone based on reaction times, input delay, and audio delay. By adjusting this pixel, you can calibrate the timing of the skip to your particular setup and reaction times. The end goal of this part of the skip is to leave the room on the frame the battle starts.
 
-With the final textbox open, use a punch card and leave it open. This should close the textbox and start the pre-battle cutscene. Movement will be locked when your soul starts flashing, which is why the punch card needs to remain open. Once the punch card is open, hold Down and Left. Holding Down is important, as this prevents you from respawning on the room transition and softlocking. You’ll then want to close the punch card on a specific cue after the soul flashing, which again depends on setup, reaction time, and personal preference. A good cue to use is the start of the descending tone after the three “hit” sound effects. Another option is to use a timer program such as Flowtimer to consistently time the interval between closing Mad Dummy’s text and closing the punch card. Close the punch card on the cue while continuing to hold Down+Left until you exit the room and enter the Mad Dummy fight. If you enter the room to the left without entering the Mad Dummy fight, you closed the punch card too early or you were standing too far left.
+With the final textbox open, use a punch card and leave it open. This should close the textbox and start the pre-battle cutscene. Movement will be locked when your soul starts flashing, which is why the punch card needs to remain open. Once the punch card is open, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Holding <kbd>▼ Down</kbd> is important, as this prevents you from respawning on the room transition and softlocking. You’ll then want to close the punch card on a specific cue after the soul flashing, which again depends on setup, reaction time, and personal preference. A good cue to use is the start of the descending tone after the three “hit” sound effects. Another option is to use a timer program such as Flowtimer to consistently time the interval between closing Mad Dummy’s text and closing the punch card. Close the punch card on the cue while continuing to hold <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd> until you exit the room and enter the Mad Dummy fight. If you enter the room to the left without entering the Mad Dummy fight, you closed the punch card too early or you were standing too far left.
 
 Once you’re in the Mad Dummy fight, you’ll want to die as quickly as possible. Spare Mad Dummy on each turn. On the first turn, make sure to get hit 5 times and also make sure to hit Mad Dummy with bullets at least once. It’s possible to hit Mad Dummy with the bullets that come from the top of the screen, which saves a small amount of time but is RNG-dependent. On the second turn, make sure to get hit 3 times and die.
 
@@ -417,7 +417,7 @@ This skip can be performed fairly quickly right after entering the room. PCE the
 
 Alternatively, you can wrong warp into the room and open your punch card before the cutscene activates. You will gain movement back again after closing the punch card again. This method is slightly faster.
 
-With both methods, you can also use the few moments where Napstablook is leaving the room to wrong warp in the next room. After getting the skip, go right, mash 3 lines of text, then mash the last line of text after you walk a little bit past the sign. Hold up and right as you enter the transition, and let go afterward to perform the wrong warp.
+With both methods, you can also use the few moments where Napstablook is leaving the room to wrong warp in the next room. After getting the skip, go right, mash 3 lines of text, then mash the last line of text after you walk a little bit past the sign. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you enter the transition, and let go afterward to perform the wrong warp.
 
 ### Last Few Rooms of Waterfall
 
@@ -433,7 +433,7 @@ In the lantern room, interact with the lamps as you pass them so you can see whe
 
 ### Flowerflow
 
-In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by X and then Enter (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
+In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by <kbd>X</kbd> and then <kbd>Enter</kbd> (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
 
 Once the cutscene is over, walk left to where the path upwards will be. Optionally, you can info the punch card near the end of this part so that when the path appears, you will have text storage and will be able to OWW to the next room. Otherwise, wrong warp normally into the next room.
 
@@ -508,7 +508,7 @@ Once you begin the battle, end Undyne’s dialogue quickly after she turns you g
 
 Once Undyne turns your heart to red, flee from her. Be careful not to spare her.
 
-After fleeing, just hold right. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding right. Exit through the right. In the next room, just hold right again. Exit through the right.
+After fleeing, just hold <kbd>▶ Right</kbd>. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding <kbd>▶ Right</kbd>. Exit through the right. In the next room, just hold <kbd>▶ Right</kbd> again. Exit through the right.
 
 In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat and immediately leave the room. If you miss the PCE, you MUST water Undyne, or you will not be able to complete the ending.
 
@@ -534,7 +534,7 @@ In the room with the first set of conveyors, go left. You will get an unavoidabl
 
 ### Burnt Pan
 
-In the first vents room, walk up then to the right towards the vents. Don’t use the save point. PCE the trigger for the vent. After doing that, quickly close the Punch Card, and hold down and left. You will be launched out of bounds and below the gap between the two vents. There is a strat you can then do after closing the punch card. When you’re in mid-air, open the menu, go to Item, and select Info. If you succeed, you will have gotten text storage on the punch card info text box. When you get the Tsunderplane encounter, you can then close the text box either when the encounter bubble appears or when the screen starts flashing. This saves about a second.
+In the first vents room, walk up then to the right towards the vents. Don’t use the save point. PCE the trigger for the vent. After doing that, quickly close the Punch Card, and hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. You will be launched out of bounds and below the gap between the two vents. There is a strat you can then do after closing the punch card. When you’re in mid-air, open the menu, go to Item, and select Info. If you succeed, you will have gotten text storage on the punch card info text box. When you get the Tsunderplane encounter, you can then close the text box either when the encounter bubble appears or when the screen starts flashing. This saves about a second.
 
 Video demonstration:
 
@@ -542,7 +542,7 @@ Video demonstration:
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/qc-htBHom24" title="Tsunderslide Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-You must be below the gap between two vents when the vent cutscene ends. Walk down and right off screen until Frisk’s head is only visible, then just hold right. You will get an unavoidable encounter with Tsunderplane. Flee from the battle. Walk right under the trigger for the Burnt Pan room. Once you are under it, hit up to enter the room. If you miss the PCE on the vent, you can PCE the other vent by buffering 1 pixel left, and then holding down and right.
+You must be below the gap between two vents when the vent cutscene ends. Walk down and right off screen until Frisk’s head is only visible, then just hold <kbd>▶ Right</kbd>. You will get an unavoidable encounter with Tsunderplane. Flee from the battle. Walk right under the trigger for the Burnt Pan room. Once you are under it, hit <kbd>▲ Up</kbd> to enter the room. If you miss the PCE on the vent, you can PCE the other vent by buffering 1 pixel left, and then holding <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd>.
 
 <img src='./Images/LeftSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
 
@@ -552,17 +552,17 @@ After entering the Burnt Pan room, wait a little bit before walking onto the ven
 
 After returning to the room with the first set of vents, use the vent to the left.
 
-Go to the vent pointing upwards. PCE the trigger for the vent. You want to aim for the vent pointing to the left. After PCEing the trigger, hold up and left. Try to fly over the lava and not the floor that you're supposed to walk on. If you fly over the floor, you'll still hit the trigger and will be stopped mid-flight.
+Go to the vent pointing upwards. PCE the trigger for the vent. You want to aim for the vent pointing to the left. After PCEing the trigger, hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd>. Try to fly over the lava and not the floor that you're supposed to walk on. If you fly over the floor, you'll still hit the trigger and will be stopped mid-flight.
 
 <img src='./Images/BottomSideVentPCE.png' alt="Vent PCE trigger location" title="Vent PCE trigger location"></img>
 
 You can also PCE the second vent to skip the phone call trigger. There are two options for this, called Safe Strat 69 and Fast Strat 69.
 
-For Safe Strat 69, hold Up+Left briefly after PCEing the second vent, then let go of Up before you go off-screen. This will land you underneath the room transition and will give you movement during the phone call. This version is safer as it avoids the potential for softlocking that’s present with Fast Strat 69, as long as you let go of Up quickly enough.
+For Safe Strat 69, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd> briefly after PCEing the second vent, then let go of <kbd>▲ Up</kbd> before you go off-screen. This will land you underneath the room transition and will give you movement during the phone call. This version is safer as it avoids the potential for softlocking that’s present with Fast Strat 69, as long as you let go of <kbd>▲ Up</kbd> quickly enough.
 
-For Fast Strat 69, there’s a potential for a wrong warp into the next room if you perform the PCE’s optimally enough. You’ll need to continue holding Up+Left after the second vent PCE. If timed correctly (with extremely optimal PCE’s on both vents), you’ll warp downwards through the room transition, wrong warping into the next room.
+For Fast Strat 69, there’s a potential for a wrong warp into the next room if you perform the PCE’s optimally enough. You’ll need to continue holding <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd> after the second vent PCE. If timed correctly (with extremely optimal PCE’s on both vents), you’ll warp downwards through the room transition, wrong warping into the next room.
 
-If you didn’t clear the punchcard fast enough, you can potentially hit the room transition while in the wall with the cell phone call active. If this happens, you’ll softlock. However, you can avoid this softlock if you open the menu on the frame you land, as closing the menu will let you regain movement. You can press C/Ctrl+X/Shift at the same time to close the menu right after opening it. It’s always recommended to attempt the menu strat if you’re going for Fast Strat 69, as it loses no time and can save you from softlocking.
+If you didn’t clear the punchcard fast enough, you can potentially hit the room transition while in the wall with the cell phone call active. If this happens, you’ll softlock. However, you can avoid this softlock if you open the menu on the frame you land, as closing the menu will let you regain movement. You can press <kbd>C</kbd>/<kbd>Ctrl</kbd>+<kbd>X</kbd>/<kbd>Shift</kbd> at the same time to close the menu right after opening it. It’s always recommended to attempt the menu strat if you’re going for Fast Strat 69, as it loses no time and can save you from softlocking.
 
 ### Beowulf Skip
 
@@ -570,7 +570,7 @@ In the room with the lasers, if you are at 1-6 HP, you can do a strat known as b
 
 ### East/West Puzzle Skip
 
-You can completely skip the East / West shooting puzzles games that unlock the big door. Walk to the vent in the room and mash the notifications / phone calls you get along the way. When you are walking upwards, hug the wall to the left. This will align you for the skip. Open the menu on the trigger for the vent. Wait until the arrow is pointing up to use the Punch Card. After using the Punch Card, close it, and hold up. You will fly into the door and enter the next room.
+You can completely skip the East / West shooting puzzles games that unlock the big door. Walk to the vent in the room and mash the notifications / phone calls you get along the way. When you are walking upwards, hug the wall to the left. This will align you for the skip. Open the menu on the trigger for the vent. Wait until the arrow is pointing up to use the Punch Card. After using the Punch Card, close it, and hold <kbd>▲ Up</kbd>. You will fly into the door and enter the next room.
 
 <img src='./Images/EastWest.png' alt="East/West trigger location" title="East/West trigger location"></img>
 
@@ -602,23 +602,23 @@ Going into this room will give you back your menu. After going into the room to 
 
 ### Elevator Skip
 
-In the elevator, PCE the interface. To do this, simply hit C and Z at the same time, then open the Punch Card, and close the Punch Card. You will then be able to move when the elevator is changing floors. You can actually leave the room as soon as you select the floor you want to go to and arrive at that floor, so you can skip the elevator cutscene.
+In the elevator, PCE the interface. To do this, simply hit <kbd>C</kbd> and <kbd>Z</kbd> at the same time, then open the Punch Card, and close the Punch Card. You will then be able to move when the elevator is changing floors. You can actually leave the room as soon as you select the floor you want to go to and arrive at that floor, so you can skip the elevator cutscene.
 
 You can also overflow the interface for the same effect. Overflowing is more reliable.
 
 Go to Right Floor 2.
 
-Exit the elevator. Ignore Fire Hotsman and go left and exit the room. Simply hold left in Sans’ hot dog stand room. Exit left.
+Exit the elevator. Ignore Fire Hotsman and go left and exit the room. Simply hold <kbd>◀ Left</kbd> in Sans’ hot dog stand room. Exit left.
 
-In the long hallway room, hold down and left as you enter the room. Once you have reached the very bottom of the ground you can walk on, just hold left. Doing this will skip some notifications in the room. About ¼ of the way into the room, you will get an unavoidable encounter. Flee from the encounter, and continue through the room. Keep moving left and exit through the left.
+In the long hallway room, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> as you enter the room. Once you have reached the very bottom of the ground you can walk on, just hold <kbd>◀ Left</kbd>. Doing this will skip some notifications in the room. About ¼ of the way into the room, you will get an unavoidable encounter. Flee from the encounter, and continue through the room. Keep moving left and exit through the left.
 
 ### Three Switch Room Skip
 
-The next room is the Three Switch Room. There’s a somewhat amusing skip that you can perform in this room that will save a small amount of time. Hold up and left when you enter the room. Mash the phone call you get right before moving onto the moving floor. Once the phone call is done, move on to the moving floor. Hold up and left as you move on the moving floor. Hit the first two switches. Immediately after hitting the second switch, use the Punch Card. You will move while the Punch Card is up. Do not close the Punch Card until you are near the third switch. Close the Punch Card when you are in reach of the third switch, and activate the switch. If you let go of left while you open the Punch Card, the game will crash, so be aware. Hold down and left after moving off the moving floor and take the path leading to the left. By now you will likely be receiving multiple phone calls from Alphys. This is normal. Exit through the left to end the phone calls.
+The next room is the Three Switch Room. There’s a somewhat amusing skip that you can perform in this room that will save a small amount of time. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> when you enter the room. Mash the phone call you get right before moving onto the moving floor. Once the phone call is done, move on to the moving floor. Hold <kbd>▲ Up</kbd> and <kbd>◀ Left</kbd> as you move on the moving floor. Hit the first two switches. Immediately after hitting the second switch, use the Punch Card. You will move while the Punch Card is up. Do not close the Punch Card until you are near the third switch. Close the Punch Card when you are in reach of the third switch, and activate the switch. If you let go of <kbd>◀ Left</kbd> while you open the Punch Card, the game will crash, so be aware. Hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> after moving off the moving floor and take the path leading to the left. By now you will likely be receiving multiple phone calls from Alphys. This is normal. Exit through the left to end the phone calls.
 
 ### Vent Puzzle Room Skip
 
-Walk up and left after entering the room. Mash the notification and phone call before the vent. Walk onto the vent without hitting the switch. PCE the vent pointing left. After that, hold left. You need to be a bit quick here. After flying towards the other end of the room, you will land on the right of the path. Wiggle your way onto the path by pressing up and down while holding left. After getting onto the path, go left and exit the room. You can wrong warp into the next room to save a decent amount of time.
+Walk up and left after entering the room. Mash the notification and phone call before the vent. Walk onto the vent without hitting the switch. PCE the vent pointing left. After that, hold <kbd>◀ Left</kbd>. You need to be a bit quick here. After flying towards the other end of the room, you will land on the right of the path. Wiggle your way onto the path by pressing <kbd>▲ Up</kbd> and <kbd>▼ Down</kbd> while holding <kbd>◀ Left</kbd>. After getting onto the path, go left and exit the room. You can wrong warp into the next room to save a decent amount of time.
 
 <img src='./Images/VentPuzzleSkip.png' alt="Vent Puzzle Skip trigger location" title="Vent Puzzle Skip trigger location"></img>
 
@@ -638,7 +638,7 @@ There are multiple different ways to do news skip, and the method you can do dep
 
 #### Old News
 
-You can PCE the News Show trigger. However, it is completely black in the room, so you have no visual indication of where it will be. Thankfully, you can count Frisk’s steps to know exactly where it will be. Every time Frisk puts their foot down will mark one step. Exactly on the 6th step, you will hit the trigger. It’s a good idea to stop somewhere mid-6th step and to start buffering right and PCEing until you get it. Once you PCE the trigger, walk right, and approach the vent. Once you make it past the part where the force field will appear (see the image below), mash away text until Mettaton starts speaking and says “OUR TEN WONDERFUL VIEWERS ARE WAITING FOR YOU!!” This will be the last line of his dialogue. Once you have done that, step onto the vent, quickly close the text box, and hold up and right. You will be launched out of bounds. After that hold right and up until you see the exit of the room. Once you see it, walk into the trigger for the room transition which is at the top part of the exit.
+You can PCE the News Show trigger. However, it is completely black in the room, so you have no visual indication of where it will be. Thankfully, you can count Frisk’s steps to know exactly where it will be. Every time Frisk puts their foot down will mark one step. Exactly on the 6th step, you will hit the trigger. It’s a good idea to stop somewhere mid-6th step and to start buffering <kbd>▶ Right</kbd> and PCEing until you get it. Once you PCE the trigger, walk right, and approach the vent. Once you make it past the part where the force field will appear (see the image below), mash away text until Mettaton starts speaking and says “OUR TEN WONDERFUL VIEWERS ARE WAITING FOR YOU!!” This will be the last line of his dialogue. Once you have done that, step onto the vent, quickly close the text box, and hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd>. You will be launched out of bounds. After that hold <kbd>▶ Right</kbd> and <kbd>▲ Up</kbd> until you see the exit of the room. Once you see it, walk into the trigger for the room transition which is at the top part of the exit.
 
 Launching off the vent is unnecessary and only saves around a second. If you do not feel like taking the risk, simply continue walking right and go up at the turn, and go to the next room.
 
@@ -646,11 +646,11 @@ Launching off the vent is unnecessary and only saves around a second. If you do 
 
 #### Sirius Skip (OWW)
 
-Sirius Skip is the faster variant of News Skip that requires you perform Beowulf Skip to be at 1 HP. This skip involves PCAing one of the royal guards’ texts and using it to wrong warp into the news room. An easier way of setting up for the PCA is to mash the Royal Guards’ first text right away, unlike the standard Royal Guards skip. On the set of textboxes you get after the last notification (after the speed boost ends), PCA the text by opening and closing a punch card, use the third textbox to OWW into the next room, then open your menu before you have fully transitioned into the room. Once you are in the next room, your menu will be open. Use the punch card and a textbox will appear. Advance the text to the final textbox. When you are on the pixel seen in the image below, once again PCE the trigger and mash until you are on the text box where Alphys hangs up the phone. Note that you must use the menu button to close the menu, rather than X or Shift, and you must not use another punch card until you’re on the trigger.
+Sirius Skip is the faster variant of News Skip that requires you perform Beowulf Skip to be at 1 HP. This skip involves PCAing one of the royal guards’ texts and using it to wrong warp into the news room. An easier way of setting up for the PCA is to mash the Royal Guards’ first text right away, unlike the standard Royal Guards skip. On the set of textboxes you get after the last notification (after the speed boost ends), PCA the text by opening and closing a punch card, use the third textbox to OWW into the next room, then open your menu before you have fully transitioned into the room. Once you are in the next room, your menu will be open. Use the punch card and a textbox will appear. Advance the text to the final textbox. When you are on the pixel seen in the image below, once again PCE the trigger and mash until you are on the text box where Alphys hangs up the phone. Note that you must use the menu button to close the menu, rather than <kbd>X</kbd> or <kbd>Shift</kbd>, and you must not use another punch card until you’re on the trigger.
 
 <img src='./Images/SiriusSkip.png' alt="Sirius Skip trigger location" title="Sirius Skip trigger location"></img>
 
-By closing the final textbox once you are on the vent and holding up and right, you can be launched out of bounds to save even more time.
+By closing the final textbox once you are on the vent and holding <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd>, you can be launched out of bounds to save even more time.
 
 If you miss the OWW, you can save it by immediately walking out of the room, WWing back in with a punch card and then opening the menu during the transition.
 
@@ -660,19 +660,19 @@ Go to the elevator and enter it. Go to Left Floor 1.
 
 Repeat the same process as earlier with getting the menu back. Once you are in the elevator again, PCE the interface and go to Left Floor 3.
 
-After exiting the elevator, hold right and go to the next room. Hold right again in Muffet’s spider bake sale room. Go to the next room.
+After exiting the elevator, hold <kbd>▶ Right</kbd> and go to the next room. Hold <kbd>▶ Right</kbd> again in Muffet’s spider bake sale room. Go to the next room.
 
 ### North South Skip
 
-In the North South Puzzle room, walk right, mash a phone call with Alphys, and then ride the vent pointing right, then take the one pointing up, then take the one pointing right. This is where it gets tricky. You will need to PCE on the next vent facing upwards. You will be launching yourself to the upper right platform. You need to hold right as closing the Punch Card, and you will need to close the Punch Card very quickly. There is a 1 frame window to close the punch card and make the clip. If you are too slow, you won’t make it to the platform, and will need to try again. After you manage to PCE the first vent and fly to the upper right platform, do the same thing on the next vent facing upwards. You will need to launch yourself out of bounds. After launching yourself out of bounds, go up and right, above the gears. After getting near the door, walk on top of it and enter it.
+In the North South Puzzle room, walk right, mash a phone call with Alphys, and then ride the vent pointing right, then take the one pointing up, then take the one pointing right. This is where it gets tricky. You will need to PCE on the next vent facing upwards. You will be launching yourself to the upper right platform. You need to hold <kbd>▶ Right</kbd> as closing the Punch Card, and you will need to close the Punch Card very quickly. There is a 1 frame window to close the punch card and make the clip. If you are too slow, you won’t make it to the platform, and will need to try again. After you manage to PCE the first vent and fly to the upper right platform, do the same thing on the next vent facing upwards. You will need to launch yourself out of bounds. After launching yourself out of bounds, go up and right, above the gears. After getting near the door, walk on top of it and enter it.
 
-If you fail to launch yourself into the correct place, hold left and press up or down repeatedly to wiggle your way back onto a platform.
+If you fail to launch yourself into the correct place, hold <kbd>◀ Left</kbd> and press <kbd>▲ Up</kbd> or <kbd>▼ Down</kbd> repeatedly to wiggle your way back onto a platform.
 
 After walking through the top of the door, head up and go right towards the spider webs. Many runners overflow the save point and use it to wrong warp in to muffet’s room
 
 ### Muffet Skip
 
-Walk into the room. PCE the trigger for the short cutscene where the spider stops you. A good visual cue for this skip is that if you can’t see any of the purple wall to the left, you’re on the trigger. If you miss it, you can try again on the next one, which is about the same distance away from the web as the first one. Don’t mash away the text. Keep walking right. On the parts where the path narrows into one web, hold down and right against the bottom wall to get a small speed boost. Exit through the doorway on the right.
+Walk into the room. PCE the trigger for the short cutscene where the spider stops you. A good visual cue for this skip is that if you can’t see any of the purple wall to the left, you’re on the trigger. If you miss it, you can try again on the next one, which is about the same distance away from the web as the first one. Don’t mash away the text. Keep walking right. On the parts where the path narrows into one web, hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> against the bottom wall to get a small speed boost. Exit through the doorway on the right.
 
 <img src='./Images/MuffetSkip.png' alt="Muffet Skip trigger location" title="Muffet Skip trigger location"></img>
 
@@ -727,7 +727,7 @@ For the slider puzzle, you can overflow the puzzle twice to get extra bullets an
 
 You can also overflow the puzzle once to gain movement as you solve it. If you don’t do the double overflow, the key presses you will need to do are: **Up, Up, Left, Down, Left, Down, Left. Fire Twice.**
 
-If you have movement after the puzzle is completed, you can use the cutscene to wrong warp out of the room. Use the jingle from the puzzle as an audio cue and hold right and up against the wall, letting go of the arrow keys when you hit the room transition. You can also use the small amount of downtime to equip the burnt pan, which you will need for Asgore.
+If you have movement after the puzzle is completed, you can use the cutscene to wrong warp out of the room. Use the jingle from the puzzle as an audio cue and hold <kbd>▶ Right</kbd> and <kbd>▲ Up</kbd> against the wall, letting go of the arrow keys when you hit the room transition. You can also use the small amount of downtime to equip the burnt pan, which you will need for Asgore.
 
 ### After Core Puzzle
 
@@ -755,7 +755,7 @@ Walk up the path in the room and PCE the trigger for Mettaton. Watch his rectang
 
 ### Alphys Skip
 
-This is one of the most difficult PCEs in the run because of how inconsistent it is and that there is no clear visual indicator. Once you enter the hallway after Mettaton, hold up and right. Move down the hallway. Wait for the lights on the wall to go dark twice. Once they have done that, the lights will brighten up. Once the lights start to dim down from their brightest state, you will hit the trigger. The best visual indicator is the pattern along the left edge of the screen. This is a repeating pattern, but it will look like the image below when you hit the trigger.
+This is one of the most difficult PCEs in the run because of how inconsistent it is and that there is no clear visual indicator. Once you enter the hallway after Mettaton, hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd>. Move down the hallway. Wait for the lights on the wall to go dark twice. Once they have done that, the lights will brighten up. Once the lights start to dim down from their brightest state, you will hit the trigger. The best visual indicator is the pattern along the left edge of the screen. This is a repeating pattern, but it will look like the image below when you hit the trigger.
 
 <img src='./Images/AlphysElevatorSkip.png' alt="Alphys Skip trigger location" title="Alphys Skip trigger location"></img>
 
@@ -763,9 +763,9 @@ Once you PCE the trigger, continue to the right. Keep heading to the right when 
 
 ### Long Elevator Skip
 
-If you’re on the Switch version, simply exit the elevator without interacting with the panel (or wrong warp out) and you’ll get to New Home. Otherwise, you can PCE the elevator panel using C+Z or overflow the elevator panel. Overflowing is recommended due to being more consistent, as missing long elevator skip loses a large chunk of time. After doing this, exit the elevator or wrong warp out. Then go up to enter the next room.
+If you’re on the Switch version, simply exit the elevator without interacting with the panel (or wrong warp out) and you’ll get to New Home. Otherwise, you can PCE the elevator panel using <kbd>C</kbd>+<kbd>Z</kbd> or overflow the elevator panel. Overflowing is recommended due to being more consistent, as missing long elevator skip loses a large chunk of time. After doing this, exit the elevator or wrong warp out. Then go up to enter the next room.
 
-In the next long hallway, hold up and right. Just hold right once you are on the path. Wrong warping into the next room saves a large chunk of time.
+In the next long hallway, hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd>. Just hold <kbd>▶ Right</kbd> once you are on the path. Wrong warping into the next room saves a large chunk of time.
 
 In the next room, go up. Wrong warping into the next room saves another large chunk of time.
 In the New Home Entrance room, just head towards the doorway and enter it.
@@ -780,7 +780,7 @@ Go right once you enter New Home. Wrong warp into the hall to the right to save 
 
 As you pass by the yellow flowers, overflow one of them and get text storage. Use this text to gain movement when you hit the first Monstertale trigger near the key. It’s possible to reach the key before the encounter begins if done optimally.
 
-You can’t mash away the text during the Monstertale encounters, but you can still mash Z and Enter to end the encounter as soon as possible. After the Froggit encounter ends, grab the key and enter the last room in the hall, to the right of the key. Then immediately wrong warp out of this room.
+You can’t mash away the text during the Monstertale encounters, but you can still mash <kbd>Z</kbd> and <kbd>Enter</kbd> to end the encounter as soon as possible. After the Froggit encounter ends, grab the key and enter the last room in the hall, to the right of the key. Then immediately wrong warp out of this room.
 
 After returning to the hall, overflow another yellow flower, the one closest to the first door. You’ll want to use this text storage to gain movement during the second encounter, then immediately go back to the right and enter the first room. If done correctly, you will skip the second encounter entirely.
 
@@ -804,7 +804,7 @@ For the rest of Monstertale, just continue to the right and go through the rest 
 
 ### Judgement Hall
 
-Walk right in the Judgement hallway. **SAVE at the Judgement Hall save point.** This will be where you reload later. PCE the trigger for the Sans cutscene. After doing that, quickly close the Punch Card and walk right. Keep holding right until Sans’ silhouette is fully visible, then hold up and right. After entering the next hallway, immediately walk back out. Prepare for the next series of wrong warps.
+Walk right in the Judgement hallway. **SAVE at the Judgement Hall save point.** This will be where you reload later. PCE the trigger for the Sans cutscene. After doing that, quickly close the Punch Card and walk right. Keep holding <kbd>▶ Right</kbd> until Sans’ silhouette is fully visible, then hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd>. After entering the next hallway, immediately walk back out. Prepare for the next series of wrong warps.
 
 <img src='./Images/SansSkip.png' alt="Sans Skip trigger location" title="Sans Skip trigger location"></img>
 
@@ -840,13 +840,13 @@ Another rule of thumb is that a good Asgore fight will end before the music loop
 
 Asgore is by far the most difficult enemy to beat optimally. Don’t expect to beat him very quickly your first few times fighting him.
 
-After dealing the final blow, mash Asgore’s text. The first part where everything fades away has un-mashable text, but after that it is mashable. After mashing all of his text, hold left and hit FIGHT.
+After dealing the final blow, mash Asgore’s text. The first part where everything fades away has un-mashable text, but after that it is mashable. After mashing all of his text, hold <kbd>◀ Left</kbd> and hit FIGHT.
 
 Watch Asgore die and mash away Flowey’s text. Once the game closes, quickly relaunch it. You can start opening the game early to minimize the loading time, but make sure you don’t open it too early.
 
 ### Flowey
 
-Once the game relaunches, mash Z and Enter until Frisk appears. Walk up and interact with the save Point. Mash Z and Enter to end Flowey’s text as soon as possible. Begin the fight.
+Once the game relaunches, mash <kbd>Z</kbd> and <kbd>Enter</kbd> until Frisk appears. Walk up and interact with the save Point. Mash <kbd>Z</kbd> and <kbd>Enter</kbd> to end Flowey’s text as soon as possible. Begin the fight.
 
 From a speedrunning standpoint, Photoshop Flowey is mostly an autoscroller. The fight is fairly easy once you figure out how to dodge everything. Newer players might die to Flowey once during their 2nd or 3rd time fighting him, but after that it shouldn’t be too difficult.
 
@@ -858,12 +858,12 @@ Here is what you should do during each phase:
 
 - During the Spinning Knives phase, wait for the knives to move left or right. Move in the directions that the knives move, and go up to the very top of the screen on the side that the knives moved to. Wait around for an ACT button and hit it.
 - During the Tough Glove phase, move a little bit to the left and then move to the top of the screen. You will notice a circle of gloves come out of the very top. On the left side of the circle, the ACT button will appear. Stay there to hit it as soon as possible.
-- In the Ballet Shoes phase, simply hold right and hug the right side of the screen, and mash Z and Enter. The ACT button will appear from the right. Staying inside the stars above you will ensure that you hit it as soon as possible.
+- In the Ballet Shoes phase, simply hold <kbd>▶ Right</kbd> and hug the right side of the screen, and mash <kbd>Z</kbd> and <kbd>Enter</kbd>. The ACT button will appear from the right. Staying inside the stars above you will ensure that you hit it as soon as possible.
 - The book phase has a bit of RNG. There’s a 50/50 chance that the ACT button will come out of either side of the books, so it’s mostly a coin flip. You can just stay in the center and wait for the ACT button to appear. The ACT button will appear somewhere at the top portion of the area you can move in.
 - In the Pan Phase, the ACT button will fly out of the middle pan. Just stay above the middle pan and wait for the ACT button to fly out, and hit it.
-- The Gun Phase is a bit tricky. Move down to the bottom right of the screen and continue to hold down+right. Count the volley of bullets that the gun shoots. On the 8th volley of bullets, the gun will shoot the ACT button on the last shot. Hit the ACT button. Once the screen flashes and the gun shoots flowers, close the game.
+- The Gun Phase is a bit tricky. Move down to the bottom right of the screen and continue to hold <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd>. Count the volley of bullets that the gun shoots. On the 8th volley of bullets, the gun will shoot the ACT button on the last shot. Hit the ACT button. Once the screen flashes and the gun shoots flowers, close the game.
 
-Relaunch the game after closing it, or open the game early for a faster loading time. After relaunching the game, mash Z and Enter to clear Flowey’s text.
+Relaunch the game after closing it, or open the game early for a faster loading time. After relaunching the game, mash <kbd>Z</kbd> and <kbd>Enter</kbd> to clear Flowey’s text.
 
 For the last part of the fight, try to stay on the FIGHT button as much as possible. Try to stay within the rectangle so you can hit it as soon as possible.
 
@@ -877,7 +877,7 @@ After dealing the last blow to Flowey, mash his text. When he circles you with b
 
 There’s another reload you can do during the fadeout when Flowey dies. The game saves when the screen finishes fading to white and starts fading to black, so you can open another copy of the game to load up this save early and save a couple seconds.
 
-When you start to hear the wind sound effects, start to hold left for about a second, then mash Z and Enter to hit the FIGHT button. After Flowey’s text appears, close the game and relaunch it, or open the game early for a faster load.
+When you start to hear the wind sound effects, start to hold <kbd>◀ Left</kbd> for about a second, then mash <kbd>Z</kbd> and <kbd>Enter</kbd> to hit the FIGHT button. After Flowey’s text appears, close the game and relaunch it, or open the game early for a faster load.
 
 After launching the game, you will be in the final room with Flowey. Go up and around Flowey. Touch the Doorway and immediately close any other game clients, to prevent the game from progressing in those instances and overwriting your save. Keep the most recent instance open until you hear the “THUD” and the “UNDERTALE” text appears. Then close the game and relaunch it. Alternatively, you can open a new instance of the game early for a faster load time.
 
@@ -919,9 +919,9 @@ At the outside of Undyne’s house, talk to Papyrus. Select the first answer cho
 
 Inside Undyne’s house, mash a lot more text. When you regain movement after talking to Undyne by herself, go up and right and interact with the stool. Sit on the stool.
 
-Hold right and mash Undyne’s text. After Undyne throws the spear at the table and you pick it, keep holding right until the spear points at the box of tea bags. Hit Z or Enter immediately when the spear points at the box of tea bags.
+Hold <kbd>▶ Right</kbd> and mash Undyne’s text. After Undyne throws the spear at the table and you pick it, keep holding <kbd>▶ Right</kbd> until the spear points at the box of tea bags. Hit <kbd>Z</kbd> or <kbd>Enter</kbd> immediately when the spear points at the box of tea bags.
 
-The rest of this date is pretty much just mashing the text. Select the first option for whatever dialogue option comes up. Press Z and Enter to stir the noodles when prompted. Hold right when you are asked to turn up the heat.
+The rest of this date is pretty much just mashing the text. Select the first option for whatever dialogue option comes up. Press <kbd>Z</kbd> and <kbd>Enter</kbd> to stir the noodles when prompted. Hold <kbd>▶ Right</kbd> when you are asked to turn up the heat.
 
 When the house catches on fire and Undyne challenges you to a battle, mash the battle text and FIGHT her as soon as possible. Don’t worry about landing an accurate hit, just end the attack as soon as possible.
 
@@ -939,13 +939,13 @@ After riding the ferry to Hotland, once again avoid accidentally riding the ferr
 
 Go right to the doors of the lab. Interact with the door. Mash and choose the first option for the dialogue choice. Mash a bunch.
 
-In the first part of the date, if you mash fast enough, you can actually skip the part where the “DATING START” text builds up. It will just appear instead. There are three instances where this can happen, and they all involve pressing X or Shift on the correct frame.
+In the first part of the date, if you mash fast enough, you can actually skip the part where the “DATING START” text builds up. It will just appear instead. There are three instances where this can happen, and they all involve pressing <kbd>X</kbd> or <kbd>Shift</kbd> on the correct frame.
 
 The date is 99% just mashing. Always choose the first choice that comes up. The first choice is always faster.
 
 After mashing all the text and ending the date, you will end up in the garbage dump again. Simply go back to the Waterfall Ferry and go back to Hotland.
 
-Once you return to Hotland, go back to the lab. Enter the lab. Walk to the sliding door at the end of the lab with the note in front of it. Enter the sliding door doorway. Interact with the interface of the elevator. Don’t PCE it. Hold down during the cutscene so you can move out of it as soon as possible when you regain movement.
+Once you return to Hotland, go back to the lab. Enter the lab. Walk to the sliding door at the end of the lab with the note in front of it. Enter the sliding door doorway. Interact with the interface of the elevator. Don’t PCE it. Hold <kbd>▼ Down</kbd> during the cutscene so you can move out of it as soon as possible when you regain movement.
 
 ### True Lab
 
@@ -991,7 +991,7 @@ In the green key room, walk towards the bathtub. Interact with it once you reach
 
 Go left and exit left in the hallway. In the Lemon Bread Amalgamate room, go inside the doorway in the top wall and put the key into the keyhole in the room. Walk back out into the Lemon Bread Amalgamate room.
 
-If you’re using the Switch version, hold Up+Left to walk past Lemon Bread and skip the battle. If you're using the Xbox version, simply die to Lemon Bread as fast as possible. You'll reload to the autosave from just before the Lemon Bread fight and Lemon Bread will be gone.
+If you’re using the Switch version, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd> to walk past Lemon Bread and skip the battle. If you're using the Xbox version, simply die to Lemon Bread as fast as possible. You'll reload to the autosave from just before the Lemon Bread fight and Lemon Bread will be gone.
 
 Otherwise, go to the star and interact with it to start the Lemon Bread battle. ACTs for Lemonbread - hum, flex, unhug. Then spare. Go left and then wrong warp through the left exit into the Fridge room.
 
@@ -1021,7 +1021,7 @@ That was the last PCE of the run. You’ll still need the Punch Card for later, 
 
 ### Generator Skip
 
-In the generator room, you can overflow the generator to regain movement during the cutscene and cause Alphys’ text to overflow. Go up to the generator and overflow it. Press x once then press z while facing the generator. This will bring up a second text on top of the first text box. Mash and select “Yes” on the first text box. Then mash until you see the dialogue option appear on the second text box. Wait until Alphys begins to talk. Once Alphys’ text box appears, select “Yes” and mash away. Doing this will cause Alphys’ text to overflow and give you a much shorter string of dialogue.
+In the generator room, you can overflow the generator to regain movement during the cutscene and cause Alphys’ text to overflow. Go up to the generator and overflow it. Press <kbd>X</kbd> once then press <kbd>Z</kbd> while facing the generator. This will bring up a second text on top of the first text box. Mash and select “Yes” on the first text box. Then mash until you see the dialogue option appear on the second text box. Wait until Alphys begins to talk. Once Alphys’ text box appears, select “Yes” and mash away. Doing this will cause Alphys’ text to overflow and give you a much shorter string of dialogue.
 
 You can alternately use text corruption to speed this cutscene up even further. After performing the same steps above, wait for Alphys to walk on-screen and the amalgamates to start to leave and then drop an item (but not the pie or the punch card!). This will make the rest of Alphys' text last only one textbox each.
 
@@ -1041,7 +1041,7 @@ In the inactive elevator room, move towards the center, mash the phone call, and
 
 ### Another Rhombu Combu
 
-After the elevator cutscene ends, you will appear in front of the long elevator covered in vines. Hold right and go up into the next room.
+After the elevator cutscene ends, you will appear in front of the long elevator covered in vines. Hold <kbd>▶ Right</kbd> and go up into the next room.
 
 Go into the elevator to the left. After taking the elevator, go down into the Judgement Hallway. Walk all the way to the right. Perform another rhombu combu all the way to the barrier hallway.
 

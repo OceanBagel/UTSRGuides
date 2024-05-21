@@ -32,7 +32,7 @@ This was the first version of the game. Although this version has some extra gli
 
 ### Version Linux v1.001
 
-This version of Undertale was released for Linux users, but with modifications to the file name of the data, it can be used on Windows. This version is unique compared to the others due to one small change. In v1.0 and v1.001 and v1.05+, you cannot press z and enter at the same time. Holding one down will cancel out the other. However, in Linux v1.001, you can press both z and enter at the same time, and they will not cancel each other out. This makes mashing text away faster and more consistent. It also makes certain glitches more consistent. This is the fastest version of the game in glitched categories.
+This version of Undertale was released for Linux users, but with modifications to the file name of the data, it can be used on Windows. This version is unique compared to the others due to one small change. In v1.0 and v1.001 and v1.05+, you cannot press <kbd>Z</kbd> and <kbd>Enter</kbd> at the same time. Holding one down will cancel out the other. However, in Linux v1.001, you can press both <kbd>Z</kbd> and <kbd>Enter</kbd> at the same time, and they will not cancel each other out. This makes mashing text away faster and more consistent. It also makes certain glitches more consistent. This is the fastest version of the game in glitched categories.
 
 ### Versions v1.05, v1.06, and v1.08
 
@@ -73,7 +73,7 @@ Select Patches to Use: The patch file you downloaded.
 Select File to Patch: The file named "data.win" in the copy of the game files (for the data.win patch) or the file named "UNDERTALE.exe" (for the runner patch)
 Select Output File: The same file selected above. This will overwrite the file. Select "Yes" to replace the file.
 You’re done! Just launch the game through the file called “UNDERTALE.exe” inside the folder.
-How to test to see if the game is v1.001 Linux: In the name select screen, press and hold down Z. This should enter a letter in the name. With Z still held down, press enter. If another letter was entered into the name, that means everything is working.
+How to test to see if the game is v1.001 Linux: In the name select screen, press and hold down <kbd>Z</kbd>. This should enter a letter in the name. With <kbd>Z</kbd> still held down, press <kbd>Enter</kbd>. If another letter was entered into the name, that means everything is working.
 If you’re playing on a Linux OS, you can obtain this version by simply following the instructions of 1.001 Windows.
 
 ### Version v1.05
@@ -120,13 +120,13 @@ If you downloaded v1.06+, take the files out of the Steam folder and put them in
 
 The punch card exploit is a game-breaking exploit that defines Neutral and True Pacifist. To perform this exploit, you will need to acquire a punch card, which you can get from the nice cream man in Waterfall. The Punch Card can be used in many different ways, but the term "PCE" is generally only used to refer to cutscene skips using the punch card. Knowing how to do these can save minutes off your run.
 
-To perform this trick, you will first need to know the exact pixel for a cutscene trigger. You will then need to menu buffer (pressing Ctrl and an arrow key on the same frame to move 1 pixel with the menu open) onto the pixel. Next, open and close a punch card. You’ll be able to move while the cutscene is going.
+To perform this trick, you will first need to know the exact pixel for a cutscene trigger. You will then need to menu buffer (pressing <kbd>Ctrl</kbd> and an arrow key on the same frame to move 1 pixel with the menu open) onto the pixel. Next, open and close a punch card. You’ll be able to move while the cutscene is going.
 
 ### Wrong Warps
 
 Wrong warping is the act of using a punch card or closing a text box on a room transition, which teleports you to the ‘default position’ of the room. The default position varies between rooms, but in rooms with save points it’s generally right next to the save point.
 
-To perform this trick, you will first need to know the exact pixel for a room transition trigger. You will then need to get on that pixel, walk up to a wall, and open your menu. Press Z twice while preparing to hold arrow keys. You will need to hold one arrow key in the direction of a wall, and another arrow key in the direction of the room transition. Press Z once more to use the Punch Card, and release the arrow keys. You are now in the room transition, and will need to close the Punch Card before the room finishes transitioning or a softlock will occur. The Punch Card can be closed with Z, X, Enter, or Shift, so mashing those keys will prevent a softlock.
+To perform this trick, you will first need to know the exact pixel for a room transition trigger. You will then need to get on that pixel, walk up to a wall, and open your menu. Press <kbd>Z</kbd> twice while preparing to hold arrow keys. You will need to hold one arrow key in the direction of a wall, and another arrow key in the direction of the room transition. Press <kbd>Z</kbd> once more to use the Punch Card, and release the arrow keys. You are now in the room transition, and will need to close the Punch Card before the room finishes transitioning or a softlock will occur. The Punch Card can be closed with <kbd>Z</kbd>, <kbd>X</kbd>, <kbd>Enter</kbd>, or <kbd>Shift</kbd>, so mashing those keys will prevent a softlock.
 
 A wrong warp can fail in three different ways. If the wrong warp occurs and a softlock also occurs, it means that the Punch Card was not closed. If the room transition occurs but a wrong warp does not happen, it means that the arrow keys were not released. If the room transition does not start, it means that either you are not on the correct pixel to wrong warp or you were not holding the arrow keys when you opened the punch card.
 
@@ -134,9 +134,9 @@ A wrong warp can fail in three different ways. If the wrong warp occurs and a so
 
 Text storage is a glitch where you gain movement while a text box is open, which gives the appearance of the text leaving the text box. This can be useful in many ways, mainly due to the fact that a text box with text storage acts almost exactly like a punch card, allowing you to perform cutscene skips and wrong warps.
 
-Although text storage in itself hasn’t been patched in recent versions, overflows will not work in versions 1.05 and up. This is due to the input system not allowing 2 consecutive presses of the same key type (Z/Enter, X/Shift, C/Ctrl). However, this limitation can be bypassed on PS4 and Xbox versions by using the console’s pause menu as a buffer between in-game frames, allowing overflows to be possible on these versions.
+Although text storage in itself hasn’t been patched in recent versions, overflows will not work in versions 1.05 and up. This is due to the input system not allowing 2 consecutive presses of the same key type (<kbd>Z</kbd>/<kbd>Enter</kbd>, <kbd>X</kbd>/<kbd>Shift</kbd>, <kbd>C</kbd>/<kbd>Ctrl</kbd>). However, this limitation can be bypassed on PS4 and Xbox versions by using the console’s pause menu as a buffer between in-game frames, allowing overflows to be possible on these versions.
 
-To perform this trick, walk up to an object. Next, open your menu, go to the punch card and select “use”. Then, press Z or Enter. 1 frame later, press the opposite key. If you have succeeded, your punch card will be open over the text box. Close the punch card, and you will gain movement with the text box open. Since this game runs at 30 frames per second, you only have a 1/30th of a second to time it, so it will take some practice to get consistent at.
+To perform this trick, walk up to an object. Next, open your menu, go to the punch card and select “use”. Then, press <kbd>Z</kbd> or <kbd>Enter</kbd>. 1 frame later, press the opposite key. If you have succeeded, your punch card will be open over the text box. Close the punch card, and you will gain movement with the text box open. Since this game runs at 30 frames per second, you only have a 1/30th of a second to time it, so it will take some practice to get consistent at.
 
 You can also perform wrong warps with text storage. Simply walk up to a room transition, holding an arrow key next to the nearest wall, and close the text box once you reach the transition. Make sure to let go of the arrow keys beforehand or else the wrong warp will fail.
 
