@@ -270,7 +270,14 @@ Walk into the room and begin moving up the path. PCE the first trigger. You will
 
 In terms of actually killing Undyne, there aren't really any tips. The arrow attacks are the same every time so you can memorize them, but other than that you just want to hit her with the ballet shoes until she dies. Once you get her health down to 0 and she starts shimmering, that is effectively a cutscene and you can switch to sparing her.
 
-There is a harder strat called Pacifist Kindergarten. 
+There is a harder strat called Pacifist Kindergarten. To perform pacifist kindergarten, you will do a variant on the kindergarten strat. This variant is significantly easier than the strategy in TPE because you have much more HP. Undyne is programmed so that if after a certain number of turns she hasn't been damaged, she will drop her defense significantly. It ends up being about 15 seconds faster to trigger this state if you use Kindergarten to trigger it more quickly. To perform the strat, do the following.
+
+- Challenge Undyne four times, getting hit by one of her bullets each time.
+- Spare Undyne and dodge the difficult "Kindergarten" attack
+- Continue to spare Undyne (do not flee) through the red soul phase and the following green soul phase
+- Once the last green soul phase ends, spare her one more time
+- Undyne's defense has dropped and you are now able to do 330 damage to her with a triple. Continue to fight her until she reaches 0 HP and starts her dying cutscene
+- Switch back to sparing Undyne while her death cutscene plays
 
 There are more wrong warps you can do after Undyne, but they only save a small amount of time. 
 
@@ -601,7 +608,7 @@ Requirements:
 
 Ride the Long Elevator down (overflowing it if you can), then wrong warp out. If you don't wrong warp out and you did Alphys Elevator Skip previously, you will have to mash through a whole bunch of Alphys Text.
 
-Wrong warp into Mettaton's room. For some reason if you enter normally, you're pushed out so this wrong warp is mandatory
+Wrong warp into Mettaton's room. For some reason if you enter normally, you're pushed out; so this wrong warp is mandatory
 
 Leave to the south, go to the bridge, and grind out a single encounter. After this, skip Mettaton. This time Alphys Elevator skip is not mandatory, though it does still save time. 
 
@@ -612,7 +619,7 @@ At the top left of the following room, there is an elevator that allows you to s
 > This is strongly similar to the Neutral part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
 
 Requirements:
-- Rather complex, but 0 kills works.
+- Multiple different potential requirements, however the one we're going for requires getting 0 kills.
 
 This is identical to the Neutral part of the true pacifist route, with the following differences
 - Flowey does not appear at all, including the fight at the end
@@ -645,3 +652,5 @@ The Asgore fight and Flowey encounter are exactly the same as in the previous en
 > This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
 
 The ONLY difference between this and TPE as described in that link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
+
+End your timer on closing the "Everyone is waiting for us" textbox from toriel.
