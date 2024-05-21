@@ -166,7 +166,7 @@ Regardless, continue onwards, as you would in neutral, through the Onionsans roo
 
 #### Mad Dummy
 
-Because Mad Dummy Skip requires a save, you cannot do it during this ending. Instead, you have to do the older 5-cycle strat. If you're particularly used to mad dummy, the astronaut food provides a convenient healing source that only loses a handful of frames. 
+Because Mad Dummy Skip requires a save, you cannot do it during this ending. Instead, you have to do the older 5-cycle strat. If you're particularly used to mad dummy skip, the astronaut food provides a convenient healing source that only loses a handful of frames. 
 
 Walk into the Mad Dummy cutscene. If you'd like, you can do something similar to the first part of the mad dummy screen, where you walk downwards to scroll the screen. However this doesn't save very much time at all and requires a particularly quick overflow.
 
@@ -258,7 +258,7 @@ PCE the first trigger, quickly PCE the second trigger, then walk into the second
 
 ##### Method 4 (hard)
 
-This is the same as Onedyne in neutral. If you already know onedyne, you should continue to implement it here, but if not I would just stick to method 3 which is only slightly slower in terms of speed. 
+This is the same as Onedyne in neutral. If you already know onedyne, you should continue to implement it here, but if not I would just stick to method 3 which is only slightly slower. 
 
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. After this, walk through the second room. Continue onto the third room, walk right until undyne catches you, and then kill her. This method saves a few seconds over method 3. A video guide for this method can be seen below.
 
@@ -270,25 +270,23 @@ Walk into the room and begin moving up the path. PCE the first trigger. You will
 
 In terms of actually killing Undyne, there aren't really any tips. The arrow attacks are the same every time so you can memorize them, but other than that you just want to hit her with the ballet shoes until she dies. Once you get her health down to 0 and she starts shimmering, that is effectively a cutscene and you can switch to sparing her.
 
-<!-- ##### Pacifist Kindergarten
-
-There is a harder strat called Pacifist Kindergarten. TODO describe pacifist kindergarten. -->
+There is a harder strat called Pacifist Kindergarten. 
 
 There are more wrong warps you can do after Undyne, but they only save a small amount of time. 
 
 ### Hotland
 
-Get very used to doing hotland. You will pass through hotland a bunch during the game, and it's always the same as neutral.
+Get very used to doing hotland. You will pass through hotland a bunch during the game, and it's always the same as Neutral.
 
-If I transcribed the whole Hotland section over from neutral every time, this doc would be a thousand pages long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland) to the Neutral guide's section on Hotland.
+If I transcribed the whole Hotland section over from neutral every time, this guide would be extremely long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland) to the Neutral guide's section on Hotland.
 
-When you encounter Vulkin, kill it if your EXP is HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
+When you encounter Vulkin, kill it if your EXP was HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
 
-After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero if your EXP is LOW (<630), or if you're unsure.
+After activating the first cutscene in Core, but before getting your menu back, go to the Burgerpants shop and buy a Legendary Hero if your EXP was LOW (<630). If you didn't check your EXP or don't remember what it was, it loses around 2 seconds to just buy the hero every time.
 
 #### Mettaton
 
-Mettaton consists of two phases. During the first phase, Mettaton is invulnerable. Once you hit the second phase he will be vulnerable to attack.  Before the fight, you can PCE the trigger and walk to the other side of the room, but this can be slightly risky as there's a chance the moving platform will push you out of the room. Once Mettaton says "Attack of the killer robot!", clear that text and then open the punch card.
+Mettaton consists of two phases. During the first phase, Mettaton is invulnerable. Once you hit the second phase he will be vulnerable to attack.  Before the fight, you can PCE the trigger and walk to the other side of the room, but this can be slightly difficult as there's a chance the moving platform will push you out of the room. Once Mettaton says "Attack of the killer robot!", clear that text and then open the punch card.
 
 ##### First Phase
 
@@ -296,8 +294,8 @@ Mettaton consists of two phases. During the first phase, Mettaton is invulnerabl
 - During the second attack, SPARE and don't get hit.
 - During the third attack, SPARE and don't get hit.
 - During the fourth attack, SPARE and don't get hit. The fourth attack will be the first one to have a bomb. 
-- If you have a legendary hero, you should use it now. Otherwise, SPARE again.
-- Finally, ACT and select the "Yellow" option and the fight will begin.
+- For the fifth attack, if you have a legendary hero, you should use it now. Otherwise, SPARE again.
+- Finally for the sixth attack, ACT and select the "Yellow" option and the fight will begin.
 
 ##### Second Phase.
 
@@ -313,7 +311,7 @@ Once Mettaton is over, you will have the punch card open. Wait until Alphys star
 
 #### Alphys Elevator Skip.
 
-In All Major Endings, there are some endings where Alphys Elevator skip must be done, some where it must not be done, and some where it doesn't matter. In this ending, it doesn't matter. I would still recommend doing it because it's fast, but don't worry if you miss it. Here is the description.
+In All Major Endings, there are some endings where Alphys Elevator skip must be done, some where it must not be done, and some where it doesn't matter. In this ending, it doesn't matter. I would still recommend doing it because it's fast, but don't worry if you miss it. Here is the description:
 
 This is one of the most difficult PCEs in the run because of how inconsistent it is and that there is no clear visual indicator. Once you enter the hallway after Mettaton, hold up and right. Move down the hallway. Wait for the lights on the wall to go dark twice. Once they have done that, the lights will brighten up. Once the lights start to dim down from their brightest state, you will hit the trigger. The best visual indicator is the pattern along the left edge of the screen. This is a repeating pattern, but it will look like the image below when you hit the trigger.
 
@@ -325,11 +323,11 @@ There’s a slightly faster version of this skip that involves clearing the text
 
 #### Long Elevator skip.
 
-You can do long elevator skip like normal, but since you're still in no-save, there is another option. If after doing long elevator skip, you reenter the elevator, then ride it down and back up glitchless, this will create an autosave, which you will reload to if you die to Asgore. This takes a long time, so it's not recommended. 
+You can do long elevator skip like normal, but since you're still in no-save, there is another option. If after doing long elevator skip, you reenter the elevator, then ride it down and back up glitchless, this will create an autosave, which you will reload to if you die to Asgore. This takes a long time, so it's not recommended, but it is an option if you struggle with Asgore. 
 
 ### New Home
 
-The first New Home of the run is the same boring slog as in Neutral. Subsequent New Homes are different, and I will describe those differences when we get to them. For now though, just do what you always do.
+The first New Home of the run is the same boring slog as in Neutral. Subsequent New Homes are different, and I will describe those differences when we get to them. For now though, just do what you would do in a Neutral run.
 
 #### Judgement Hall
 
@@ -374,12 +372,12 @@ After this, continue on to the Papyrus fight and kick his butt into the stratosp
 
 ### Waterfall
 
-Waterfall has a handfull of different routes that make effectively summarizing difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall alt="USRC Guides - Genocide | Waterfall")  is the relevant section fro the geno guide.
+Waterfall has a handfull of different routes that make effectively summarizing it difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall alt="USRC Guides - Genocide | Waterfall")  is the relevant section fro the geno guide.
 
 ### Hotland
 
 The route through hotland is the same as the geno route. As a recap
-- Perform Early Burnt Pan (TODO when geno guide is complete, copy paste that to here)
+- Perform Early Burnt Pan.
 - Kill Vulkin
 - Kill Tsunderplane
 - Kill Royal Guards
@@ -458,7 +456,7 @@ In this attack, the hitbox that spawns the fireballs is bigger than the actual f
 
 There is an even faster strategy that can potentially lead to 9 hands. Every time there’s a hand attack, there’s a 50/50 chance that a hand will spawn from the bottom. This hand does 3 damage instead of the usual 4. By hitting three bottom hands before reaching 7 or lower HP, you can get up to 9 hands total. If you only manage to hit two bottom hands, you still get a setup for 8 hands and if you only manage to hit one bottom hand, you get a setup for 7 hands. This is the most optimal way to do the Toriel fight RTA, if you’re able to react to the attack patterns fast enough.
 
-This is all the same as Neutral. However, once Toriel says "I know you want to go home, but...", mash to kill her. Mash through her text and continue forward. 
+This is all the same as Neutral. However, once Toriel says "I know you want to go home, but...", switch to the Fight" button and mash to kill her. Mash through her text and continue forward. 
 
 You will not see Flowey at the end of ruins like you would normally. Simply walk through that room.
 
@@ -481,7 +479,7 @@ As previously described, you can take a hit from the first attack to save a smal
 
 In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
-In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall) as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. On 1.001, the stick drop strats will save more time than they do in Neutral because you are doing Early Ballet Shoes.
+In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall) as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. On 1.0-1.001, the stick drop strats will save more time than they do in Neutral because you are doing Early Ballet Shoes.
 
 #### The Punch Card and Ballet Shoes
 
@@ -489,7 +487,7 @@ Grab the punch card and Ballet Shoes just like you did during the Papyrus ending
 
 #### Undyne Part 1
 
-The first part of Undyne is the same as Neutral, but with one caveat. Because we will be saving in Hotland later on with the intent to reload and kill Undyne later, it is imperative to the route that you do not miss the cutscene skip for Undyne falling down. Because of this, the "Safe One-Cycle" strat is recommended more strongly than it is in Neutral. 
+The first part of Undyne is the same as Neutral, but with one caveat. Because we will be saving in Hotland later on with the intent to reload and kill Undyne later, it is imperative to the route that you do not miss the cutscene skip for Undyne falling down in the water cooler room. Because of this, the "Safe One-Cycle" strat is recommended more strongly than it is in Neutral. 
 
 First Trigger:
 
@@ -507,7 +505,7 @@ Upon entering the room, walk up the path leading towards the rock structure. Run
 Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
 Go to the second part below.
 
-It is still fully possible to do one of the other strategies described, however doing so is taking on somewhat more risk than it would be in other categories. 
+It is still fully possible to do one of the other strategies described, however doing so is taking on somewhat more risk than it would be in other categories since you aren't able to safety save in the Undyne arena. 
 
 #### Undyne Part 2
 
@@ -527,7 +525,7 @@ In the room with the water cooler, PCE the cutscene with Undyne collapsing on th
 
 #### LEBP
 
-LEBP, or "late early burnt pan" is a strategy for AME and True 100% that allows you to fight Undyne with the Pan. This should only be done if you successfully PCE'd the Undyne water cutscene. Play through the game until you recieve the burnt pan normally. Make sure not to kill Vulkin because you are still setting up for dog ending. Equip the pan immediately. Wrong warp out of the pan room into the previous room, then **<span style="color: orange">SAVE</span>** at that room's save point. Continue as normal.
+LEBP, or "late early burnt pan" is a strategy for AME and True 100% that allows you to fight Undyne with the Pan. **This should only be done if you successfully PCE'd the Undyne water cutscene.** Play through the game until you recieve the burnt pan normally. Make sure not to kill Vulkin because you are still setting up for dog ending. Equip the pan immediately. Wrong warp out of the pan room into the previous room, then **<span style="color: orange">SAVE</span>** at that room's save point. Continue as normal.
 
 ### The Rest of the Ending
 
@@ -548,9 +546,10 @@ Requirements:
 
 ### Undyne
 
-You could reload to one of a few places, depending on what exactly happened in the previous ending. Regardless, make your way back to the Undyne fight. If you are coming from the Magma Chamber, almost every room will have a useful wrong warp. <!--TODO pictures for the wrong warp.--> Also of note if you are coming from Magma Chamber is that the Undyne Water Trigger will be skipped. It is easiest to do this by overflowing the water cooler and using the stored text, however if you are on 1.02+ this is not possible and you will have to PCE it instead. <!--TODO pictures of the PCE -->
+You could reload to one of a few places, depending on what exactly happened in the previous ending. Regardless, make your way back to the Undyne fight. If you are coming from the Magma Chamber, almost every room will have a useful wrong warp. zx
+Also of note if you are coming from Magma Chamber is that the Undyne Water Trigger will be skipped. It is easiest to do this by overflowing the water cooler and using the stored text, however if you are on 1.02+ this is not possible and you will have to PCE it instead. You can set up this PCE easily by running into the left-facing wall at the very top of the room, then walking down to the middle of the room, then buffering left once and opening the punch card.
 
-Once you are at the Undyne fight, attack Undyne until she dies. If you missed the water trigger and had to reload to before you have done any damage, you can do the previously described "Pacifist Kindergarten" strat. Otherwise, just melt Undyne with the Burnt Pan. Remember that everything after you set her HP to 0 is a cutscene and you can switch to sparing her at that point.
+Once you are at the Undyne fight, attack Undyne until she dies. If you missed the water trigger and had to reload to before you obtained the Burnt Pan, you can do the previously described "Pacifist Kindergarten" strat. Otherwise, just melt Undyne with the Burnt Pan. Remember that everything after you set her HP to 0 is a cutscene and you can switch to sparing her at that point.
 
 ### Hotland
 Another hotland that is identical to Neutral. Make sure you don't kill Vulkin as we are still on dog ending, but otherwise proceed as normal.
