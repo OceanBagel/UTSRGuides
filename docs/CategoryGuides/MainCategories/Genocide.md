@@ -178,9 +178,11 @@ Possible Random Encounters:
 - Icecap & Jerry: 56.67%
 - Icecap, Chilldrake, & Jerry: 43.33%
 
-In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold <kbd>▶ Right</kbd> as the screen slides back to you, and proceed into Snowdin.
+In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold <kbd>◀ Left</kbd> as the screen slides back to you, and leave out the door on the left side of the room to reset the room.
 
-Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, enter & exit Snowdin and grind again. Repeat until you reach 16 kills.
+Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, leave and reenter Snowdin out the left door and grind again. Repeat until you have 13 or 14 kills.
+
+Once you have 13 or more kills, leave and reenter, then cross over to the right side of the room and grind out another encounter. If you get lucky, this will be the final encounter and you can immediately leave and proceed to the Papyrus fight. If you get unlucky, you will need to get one more encounter. Do this by leaving and re-entering out the right side of the room, then grinding the final encounter.
 
 When you get a Triple encounter, FIGHT the Icecap first. Then, after Chilldrake's attack, menu down to FIGHT Chilldrake. Accidentally fighting Jerry wastes a turn.
 
