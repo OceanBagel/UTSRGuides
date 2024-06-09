@@ -14,3 +14,4 @@
     * [All Major Endings](/CategoryGuides/MiscCategories/AllMajorEndings.md "UTSR Guides - All Major Endings")
     * [Neutral Glitchless No Aborted Genocide](/CategoryGuides/MiscCategories/NeutralGlitchlessNoAbortedGenocide.md "UTSR Guides - Neutral Glitchless No Aborted Genocide")
   * Category Extensions
+    * [Early Punch Card Early Game/Neutral](/CategoryGuides/ExtensionCategories/EarlyPunchCardEarlyGameNeutral.md "UTSR Guides - Early Punch Card Early Game/Neutral")
