@@ -1,5 +1,7 @@
 # Early Punch Card Early Game/Neutral
 
+<img src='./Images/UTSRGuidesHeader.png'></img>
+
 ## Introduction  
 
 Early Punch Card Early Game is a Category Extension where you start at the beginning of ruins with a save file with the Punch Card in your inventory, and end when entering the Punch Card Room in Waterfall. This category is quite short, with the world record clocking in at just over 14 minutes, and contains many glitches throughout the game. Because of the difficulty of the run, it is not recommended for new runners.
