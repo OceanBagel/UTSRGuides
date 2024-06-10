@@ -10,22 +10,6 @@ Early Punch Card Neutral is a Category Extension similar to Early Punch Card Ear
 
 The save files for this category can be found at this link: [Save File](https://www.speedrun.com/undertalecategoryextensions/resources/ki8vk)
 
-## Punch Card Tech
-
-Before starting a run, it is important to recognize that many of the skips in early punch card early game use a technique with the punch card that is different from the technique used in other glitched categories. This guide will briefly discuss the differences between a standard PCE and a PCE Slide
-
-### PCE (Punch Card Exploit)
-
-To perform this trick, you will first need to know the exact pixel for a cutscene trigger. You will then need to menu buffer (pressing Ctrl and an arrow key on the same frame to move 1 pixel with the menu open) onto the pixel. Next, open and close a punch card. You’ll be able to move while the cutscene is active.
-
-### PCE Slide
-
-To perform this trick, you will first need to know the exact pixel for a cutscene trigger. You will then need to move to the pixel before the trigger. Next, open and close a punch card while holding an arrow in the direction of the cutscene trigger. The cutscene will activate when you slide into the trigger. You’ll be able to move while the cutscene is active.
-
-For each individual trick, either a PCE Slide or a regular PCE will be able to skip the cutscene, but not both. You will need to familiarize yourself with what each trick requires, but as a general rule, most, but not all, of the skips in Ruins and Snowdin require PCE Slides, while most of the skips in Waterfall and beyond will require regular PCEs.
-
-It will also be important to familiarize yourself with Overflows and Wrong Warps, as both will be used in the run. Guides for this tech can be found on the main page of the guide.
-
 ## Ruins
 
 Unlike most Undertale categories, Early Punch Card Early Game begins upon selecting continue off of a save file. As such, there is also not the standard 6 second wait after starting the game before you can move. Make sure that you are holding right once you select continue so that you may move immediately. Hold right and enter the room with flowey.
