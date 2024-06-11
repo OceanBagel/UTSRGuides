@@ -649,8 +649,8 @@ The Asgore fight and Flowey encounter are exactly the same as in the previous en
 
 ## True Pacifist Ending
 
-> This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
+> This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifist "USRC Guides - True Pacifist") speedrun.
 
 The ONLY difference between this and TPE as described in that link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
 
-End your timer on closing the "Everyone is waiting for us" textbox from toriel.
+***End your timer on closing the "Everyone is waiting for us" textbox from toriel.***
