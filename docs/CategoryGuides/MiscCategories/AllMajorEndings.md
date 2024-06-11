@@ -616,7 +616,7 @@ At the top left of the following room, there is an elevator that allows you to s
 
 ## Family Ending
 
-> This is strongly similar to the Neutral part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifst alt="USRC Guides - True Pacifist") speedrun.
+> This is strongly similar to the Neutral part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifist "UTSR Guides - True Pacifist") speedrun.
 
 Requirements:
 - Multiple different potential requirements, however the one we're going for requires getting 0 kills.
