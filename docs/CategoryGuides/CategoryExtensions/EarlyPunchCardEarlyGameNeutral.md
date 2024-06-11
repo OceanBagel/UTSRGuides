@@ -379,6 +379,6 @@ Continue past the room with the cheese, optionally wrong warping into the next r
 
 After reaching the Punch Card room, the Early Punch Card Early Game route ends, and the Early Punch Card Neutral route converges with the rest of the guide. A guide for the neutral route can be seen at the following link
 
-[this](/GeneralGuides/GeneralGuide?id=main-categories "The Punch Card").
+[here](/CategoryGuides/MainCategories/Nuetral?id=the-punch-card "Neutral guide Punch Card Section).
 
 Skip to the section titled “The Punch Card” and continue from there.
