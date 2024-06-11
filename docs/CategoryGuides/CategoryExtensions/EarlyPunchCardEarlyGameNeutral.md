@@ -8,13 +8,16 @@ Early Punch Card Early Game is a Category Extension where you start at the begin
 
 Early Punch Card Neutral is a Category Extension similar to Early Punch Card Early Game, but with the main difference being that it ends after completing the Neutral ending. The Early Punch Card Neutral route follows the Early Punch Card Early Game route until after spears 1, then converges with the Neutral route for the rest of the run. An expert runner in Early Punch Card Neutral could expect a time under 50 minutes, while a good estimate for a run in Early Punch Card Neutral would be about 4-5 minutes faster than your Neutral time.
 
-The save files for this category can be found at this link: [Save File](https://www.speedrun.com/undertalecategoryextensions/resources/ki8vk)
+The save files for this category can be found [here](https://www.speedrun.com/undertalecategoryextensions/resources/ki8vk).
 
 ## Ruins
+
+> New strats for an old area
 
 Unlike most Undertale categories, Early Punch Card Early Game begins upon selecting continue off of a save file. As such, there is also not the standard 6 second wait after starting the game before you can move. Make sure that you are holding right once you select continue so that you may move immediately. Hold right and enter the room with flowey.
 
 ### Flowey Skip
+
 The encounter with the first flowey can be skipped with a PCE slide. PCE slide onto the trigger and start to mash away the text. When you are on the last text box, enter the room transition on the bottom while holding against one of the invisible walls. The last text box reads: “Ready? Here we go!”
 
 Room Layout and Walls in Flowey Room:
@@ -32,6 +35,7 @@ Pixel before flowey cutscene trigger:
 After exiting the flowey room, re-enter the room. Assuming you got the trick, flowey will no longer be where he should be. Instead, Toriel will appear in the room after a few seconds. If flowey is still there, the last textbox was not closed, and you can attempt the trick again. Note: There will be a different amount of text boxes upon attempting the trick again, so be careful. If the screen is black upon reentry, you were not holding against a wall when walking out.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/kIr-PrXlY_8" title="Flowey Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -48,6 +52,7 @@ Walk towards the exit at the bottom right of the room. If an enemy is encountere
 Warp out of the room into the One Rock Room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ozUr8t1g0Dc" title="Pitfall Room PCE Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -55,6 +60,7 @@ Video Demonstration:
 In the one rock room, push the rock to the end of the path until the rock is at the end of the path. After the rock is at the end of the path, hold right and open and close the Punch Card. This has the effect of skipping Toriel’s phone call in this room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/IjnWoT7K5Gc" title="One Rock Room Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -62,6 +68,7 @@ Video Demonstration:
 There is an optional strategy in the maze room where you PCE the maze, and hold Up+Right to get to the end of the room. This strat is quite precise, as it requires a quick close of the punch card in order to avoid a softlock, though it can save about a second if done quickly.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/FdwPnYM-r2A" title="Pitfall Maze Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -71,6 +78,7 @@ After completing the maze, enter the three rock room. Ignore the top 2 rocks. Ta
 Optionally, in this room you can overflow the rock to get text storage on the third time interacting with the rock, and close the text after walking right a bit to save some time and increase the chance of getting a rock skip.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/E_AMjAEtCe4" title="3 Rock Room Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -86,6 +94,7 @@ In the next room, simply walk to the end and mash away Toriel’s text. There’
 In the room with the 6 pit traps, overflow the sign, continue to the top right trap. When you enter the trap close the trap and hold Up and Right to exit the room, bypassing the switch in the room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VlzSkS7f5xE" title="6 Pit Room Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -99,6 +108,7 @@ Talk to Toriel in the living room. Count how many choicers she gives you. On the
 There is a very slight optimization in talking to toriel that can save a bit under a second. By overflowing and then immediately again talking to Toriel, you will replace the second string of dialogue with a copy of the first, reducing the total number of text boxes needed to mash.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Bt548IvcNGM" title="Toriel Text Optimization [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -115,6 +125,7 @@ Pixel before the Toriel fight Trigger:
 </p>
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/YUkYug1jFds" title="Toriel Cutscene Skip Setup Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -145,17 +156,21 @@ After Toriel stops talking, just mash Z and Enter. When the battle starts fading
 After the fight ends, wait for toriel to start talking. You should have the punch card open. Close the punch card once toriel’s dialogue opens and walk out of the room. Walk back into the room, and wrong warp past the long hallway. Wrong Warp once more past flowey, and touch the door to leave ruins
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ggrGhPvFiLg" title="Toriel Cutscene Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Snowdin
 
+> Lots of cool puzzles to skip
+
 ### Sans Skip
 
 Wrong warp into the room with the sans cutscene either by overflowing the hidden camera or manually Wrong Warping. PCE Slide onto the cutscene trigger, close the Punch Card, and continue to the end of the room. Unlike in other categories, DO NOT SAVE at the save point and do not remove the stick from the box.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/oCIcMWmTZzY" title="Sans Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -165,6 +180,7 @@ Continue into the room with the Sans and Papyrus cutscene. You cannot skip this 
 In the Doggo room, overflow the sign and skip the cutscene starting the doggo fight. Continue right and exit the room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/npeDX_49UcE" title="Doggo Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -180,6 +196,7 @@ Pixel for PCE Slide:
 </p>
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/KItyW8k2BdA" title="Electric Maze Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -187,6 +204,7 @@ Video Demonstration:
 There is an alternate strat for this room that is a tiny bit slower but much safer version of the Electric maze skip. After mashing through the first cutscene, buffer or walk left 2 pixels, then PCE Slide to the left, you should have the punch card open and dialogue from papyrus. Close the punch card, and continue right through the entire room, as the triggers for the cutscene are now disabled.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/-Vy8XbQBGy4" title="Electric Maze Skip Alternate Strat Demonstration [Early Punch Card]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -198,6 +216,7 @@ In the room with the ball game, cross the bridge and continue down and to the ri
 In the papyrus puzzle room, mash through the first cutscene, and walk to the paper on the ground. Overflow the paper, and close the punch card quickly so that the puzzle is still open. You should still have movement. Walk to the right and close the puzzle when papyrus starts talking
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/WKiy9nrhE-Y" title="Crossword Puzzle Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -205,6 +224,7 @@ Video Demonstration:
 There is an alternate strat for this room that is a tiny bit slower but much safer version of the Papyrus Puzzle Skip. After mashing through the first cutscene, buffer or walk left 3 pixels, then PCE Slide to the left, you should have the punch card open and dialogue from papyrus. Close the punch card, and continue right through the entire room, as the triggers for the cutscene are now disabled. Additionally, you can PCA the text and close the third text box during the room transition for a substantial wrong warp
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vH8SOYBeYVg" title="Word Search Puzzle Skip Alternate Strat Demonstration [Early Punch Card]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -216,6 +236,7 @@ Continue right through the room with the cold spaghetti. Don’t bother saving, 
 In the Snow puzzle room, immediately head to the switch to the top right of the room. Overflow the switch. After that you should encounter the lesser dog. Flee from him. Head downwards and cross the bridge. The Dog Couple cutscene will begin. Close the text box and exit the room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/2UIJvkJDGhc" title="Dog Marriage Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -227,6 +248,7 @@ In the first XO tile puzzle room, turn the Xs into Os and hit the switch, then w
 As an advanced strat, after overflowing the sign, walk into the papyrus cutscene before touching the second X. Once papyrus starts talking, close the text box and finish the rest of the puzzle. Mash through papyrus’ text until he says “Nyeh heh heh” close the text during the room transition for a wrong warp.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gqUGbgdKJ3I" title="XO Puzzle #1 Advanced Strat Demonstration [Early Punch Card]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -236,6 +258,7 @@ In the second XO tile puzzle room, go to the first tree on the top of the room a
 As an advanced strat, overflow the switch in the tree and use the text to gain movement during the cutscene where papyrus walks to you and starts talking. While you cannot activate the switch during this cutscene, as doing so will result in a softlock, you can instead line yourself up on the pixel before the button, preferably on the right side as it is faster, and then PCE slide on the button once papyrus is done talking, saving yourself the time it would take to setup the pixel, and a few frames in movement.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/L_z_GAF3ZEk" title="XO Puzzle #2 Advanced Strat Demonstration [Early Punch Card]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -291,6 +314,7 @@ If you mess up and fall after triggering the bridge, walk back up and just go ac
 Overflow a snow poff in the Greater Dog room, and use it to skip the Greater dog fight. Wrong Warp into the next room.
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/quzOXOlOHoQ" title="Greater Dog Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -321,6 +345,8 @@ After choosing the second choice, Papyrus will give up on fighting you and spare
 
 ## Waterfall
 
+> A short section with a few more skips before reaching the punch card room.
+
 ### The Beginning of Waterfall
 
 Keep walking right. Don’t save.
@@ -339,6 +365,7 @@ In the telescope puzzle room, go right and skip the telescope. Head upwards at t
 Alternatively, you can overflow the door and perform a cutscene warp with it. A video demonstration can be seen below
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/uQ1vORCf1XI" title="Waterfall Door Cutscene Warp Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -346,12 +373,15 @@ Video Demonstration:
 Overflow a sign and close it after walking onto the wooden platform. When you step on the platform, close the text and hold right to move at double speed
 
 ### Spears 1 Skip (PCE)
+
 In the spears 1 room, you can PCE the cutscene to get movement during the cutscene. This saves a few seconds, but also has the side effect of changing the angle that undyne will throw her spears at you. You will likely need to use a different dodging pattern to be able to fully dodge the spears because of this change
 
 Pixel for the Spears 1 skip trigger:
+
 <img src='./Images/EarlyPunchCardPixelForTheSpears1SkipTrigger.png' alt="Pixel For The Spears 1 Skip Trigger" title="Pixel For The Spears 1 Skip Trigger"></img>
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Py7HzM6aeq4" title="Spears 1 Skip Demonstration With Movement [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -359,26 +389,25 @@ Video Demonstration:
 As an advanced strat in this room, you can info the punch card just as the cutscene for spears 1 ends, and use the second text box to wrong warp, saving about 2 seconds
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/kR83nUSpTEo" title="Spears 1 Skip Advanced Strat Demonstration [Early Punch Card]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 In the second room of the chase, literally just hold right to avoid the spears. After avoiding the spears and reaching the end, keep holding right so you will move as soon as the cutscene ends. After exiting the patch of grass, PCE Slide past the monster kid trigger and exit the next room. If you wish to wrong warp out of this room, ensure that you do it on the first attempt, because skipping the cutscene makes the room push you out if attempting to re-enter the room.
 
-Pixel for the PCE Slide past Monster Kid
+Pixel for the PCE Slide past Monster Kid:
+
 <img src='./Images/EarlyPunchCardPixelForThePCESlidePastMonsterKid.png' alt="Pixel For The PCE Slide Past Monster Kid" title="Pixel For The PCE Slide Past Monster Kid"></img>
 
 Video Demonstration:
+
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/g4pOxjsqkBU" title="Monster Kid Cutscene Skip Demonstration [EPC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Continue past the room with the cheese, optionally wrong warping into the next room. Walk into the nice cream room and end your timer.
 
-***STOP THE TIMER WHEN TOUCHING THE DOOR THAT LEADS TO THE NICE CREAM MAN’S SHOP.***
+After reaching the Punch Card room, the Early Punch Card Early Game route ends and the Early Punch Card Neutral route converges with the rest of the guide, which you can find [here](/CategoryGuides/MainCategories/Neutral?id=the-punch-card "Neutral guide punch card section").
 
-After reaching the Punch Card room, the Early Punch Card Early Game route ends, and the Early Punch Card Neutral route converges with the rest of the guide. A guide for the neutral route can be seen at the following link
-
-[here](/CategoryGuides/MainCategories/Nuetral?id=the-punch-card "Neutral guide Punch Card Section).
-
-Skip to the section titled “The Punch Card” and continue from there.
+***STOP THE TIMER WHEN TOUCHING THE DOOR THAT LEADS TO THE NICE CREAM MAN’S SHOP*** if you're running Early Punch Card Early Game.
