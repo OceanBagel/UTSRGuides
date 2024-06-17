@@ -234,7 +234,7 @@ In the next room, go right and go down the bridge. Exit downwards.
 
 In the next room with the assorted bridges and talking flowers, go to the right at the turn and head downwards. Turn left onto the bridge heading left. Before entering into the room on the left, grind out an encounter. You will get an encounter of two scripted Moldsmals. FIGHT both of them; they both require one hit in the green to kill.
 
-After the encounter, exit left. Interact with the Ballet Shoes hidden in the center of the grass and pick them up. Equip the Ballet Shoes (if you used the phone for the Sea-grass Skip, remember to menu back to Items and avoid making an accidental phone call). After doing so, go back right and exit to the right.
+After the encounter, exit left. Interact with the Ballet Shoes hidden in the center of the grass and pick them up. Equip the Ballet Shoes. After doing so, go back right and exit to the right.
 
 If you are having a hard time managing your health through enemy encounters, this makes for an opportune time to equip the Tutu as well. If you're only using the Tutu for Undyne, wait until just before her battle.
 Go down and right once returning to the room. After reaching a turn that leads upward, you will get one of four encounters:
