@@ -335,7 +335,7 @@ Select ACT and CHECK Papyrus. Mash away the text. Papyrus’ speech bubble conta
 
 If you accidentally use SPARE instead of CHECK, Papyrus will use his blue attack which can lose upwards of 12 seconds.
 
-After throwing the Checking, purposely run into the bones and take damage. Repeat this for 2 more turns. On the 3rd turn you will be put at 1 HP, and Papyrus will send you to his garage.
+After Checking, purposely run into the bones and take damage. Repeat this for 2 more turns. On the 3rd turn you will be put at 1 HP, and Papyrus will send you to his garage.
 
 After being sent back to Papyrus’ garage, head back to him and mash his text again. Once you are in the fight with him, spare him instead Checking, and purposely get knocked down to 1 HP. Repeat this process one more time.
 
