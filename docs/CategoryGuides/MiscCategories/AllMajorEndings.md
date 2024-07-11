@@ -168,7 +168,7 @@ Regardless, continue onwards, as you would in neutral, through the Onionsans roo
 
 Because Mad Dummy Skip requires a save, you cannot do it during this ending. Instead, you have to do the older 5-cycle strat. If you're particularly used to mad dummy skip, the astronaut food provides a convenient healing source that only loses a handful of frames. 
 
-Walk into the Mad Dummy cutscene. If you'd like, you can do something similar to the first part of the mad dummy screen, where you walk downwards to scroll the screen. However this doesn't save very much time at all and requires a particularly quick overflow.
+Walk into the Mad Dummy cutscene. If you'd like, you can do something similar to the first part of the mad dummy skip, where you walk downwards to scroll the screen. However this doesn't save very much time at all and requires a particularly quick overflow.
 
 Mash the text from the Mad Dummy cutscene and begin the battle.
 
@@ -182,7 +182,7 @@ There is a way to complete the first phase of Mad Dummy in 5 attacks. Consult th
 
 You don’t need to hit the dummy in the rocket stages. After the battle, mash Napstablook’s text and proceed upwards.
 
-After this, continue through waterfall as normal. The most important skips and tricks will be recapped here. For more detailm consult [the Neutral Guide](/CategoryGuides/MainCategories/Neutral?id=Waterfall).
+After this, continue through waterfall as normal. The most important skips and tricks will be recapped here. For more details consult [the Neutral Guide](/CategoryGuides/MainCategories/Neutral?id=Waterfall).
 
 #### Napstablook Skip
 
@@ -314,7 +314,7 @@ Mettaton consists of two phases. During the first phase, Mettaton is invulnerabl
 
 A perfect fight will end after attack 5. It is always faster to destroy robots when they appear, and to get as many hits on Mettaton's heart as possible when it appears.
 
-Once Mettaton is over, you will have the punch card open. Wait until Alphys starts talking, then clsoe it and leaves the room
+Once Mettaton is over, you will have the punch card open. Wait until Alphys starts talking, then close it and leaves the room
 
 #### Alphys Elevator Skip.
 
@@ -379,7 +379,7 @@ After this, continue on to the Papyrus fight and kick his butt into the stratosp
 
 ### Waterfall
 
-Waterfall has a handfull of different routes that make effectively summarizing it difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall alt="USRC Guides - Genocide | Waterfall")  is the relevant section fro the geno guide.
+Waterfall has a handfull of different routes that make effectively summarizing it difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall)  is the relevant section fro the geno guide.
 
 ### Hotland
 
@@ -651,6 +651,6 @@ The Asgore fight and Flowey encounter are exactly the same as in the previous en
 
 > This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifist "UTSR Guides - True Pacifist") speedrun.
 
-The ONLY difference between this and TPE as described in that link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
+The ONLY difference between this and TPE as described by link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
 
 ***End your timer on closing the "Everyone is waiting for us" textbox from toriel.***
