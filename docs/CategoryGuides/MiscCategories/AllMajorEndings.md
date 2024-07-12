@@ -80,7 +80,7 @@ Requirements:
 
 ### Ruins
 
-Ruins routing is identical to genocide. For in-depth details check out the [Genocide Guide](/CategoryGuides/MainCategories/Genocide?id=Ruins).
+Ruins routing is identical to genocide. For in-depth details check out the [Genocide Guide](/CategoryGuides/MainCategories/Genocide?id=Ruins "UTSR Guides - Genocide").
 
 Overview:
 - Goal is 20 Kills
@@ -154,7 +154,7 @@ Continue onwards and fight Papyrus. You will want to spare him, however the fast
 
 In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
-In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall) as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. Dropping the stick is an option, but only really worth doing if you don't have any healing items.
+In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall "UTSR Guides - Neutral") as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. Dropping the stick is an option, but only really worth doing if you don't have any healing items.
 
 #### The Punch Card and Ballet Shoes
 
@@ -182,7 +182,7 @@ There is a way to complete the first phase of Mad Dummy in 5 attacks. Consult th
 
 You don’t need to hit the dummy in the rocket stages. After the battle, mash Napstablook’s text and proceed upwards.
 
-After this, continue through waterfall as normal. The most important skips and tricks will be recapped here. For more details consult [the Neutral Guide](/CategoryGuides/MainCategories/Neutral?id=Waterfall).
+After this, continue through waterfall as normal. The most important skips and tricks will be recapped here. For more details, consult [the Neutral Guide](/CategoryGuides/MainCategories/Neutral?id=Waterfall "UTSR Guides - Neutral").
 
 #### Napstablook Skip
 
@@ -285,7 +285,7 @@ There are more wrong warps you can do after Undyne, but they only save a small a
 
 Get very used to doing hotland. You will pass through hotland a bunch during the game, and it's always the same as Neutral.
 
-If I transcribed the whole Hotland section over from neutral every time, this guide would be extremely long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland) to the Neutral guide's section on Hotland.
+If I transcribed the whole Hotland section over from neutral every time, this guide would be extremely long. [Here's the link](/CategoryGuides/MainCategories/Neutral?id=Hotland "UTSR Guides - Neutral") to the Neutral guide's section on Hotland.
 
 When you encounter Vulkin, kill it if your EXP was HIGH (>=630). You should level up. If you don't, you misremembered your EXP and will have to buy a Hero later.
 
@@ -379,7 +379,7 @@ After this, continue on to the Papyrus fight and kick his butt into the stratosp
 
 ### Waterfall
 
-Waterfall has a handfull of different routes that make effectively summarizing it difficult. [Here](/CategoryGuides/MainCategories/Genocide?id=Waterfall)  is the relevant section fro the geno guide.
+Waterfall has a handfull of different routes that make effectively summarizing it difficult. Consult the [Genocide guide](/CategoryGuides/MainCategories/Genocide?id=Waterfall "UTSR Guides - Genocide") for more information.
 
 ### Hotland
 
@@ -486,7 +486,7 @@ As previously described, you can take a hit from the first attack to save a smal
 
 In the Waterfall and falling rocks room, hold right until you get to the middle of the waterfall, then press up a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
-In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall) as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. On 1.0-1.001, the stick drop strats will save more time than they do in Neutral because you are doing Early Ballet Shoes.
+In the next room, perform [Sea Grass Skip](/CategoryGuides/MainCategories/Neutral?id=Waterfall "UTSR Guides - Neutral") as you normally would. Continue as normal through the 2 bridge puzzle rooms, the telescope room, spears 1, and Gaster. On 1.0-1.001, the stick drop strats will save more time than they do in Neutral because you are doing Early Ballet Shoes.
 
 #### The Punch Card and Ballet Shoes
 
@@ -651,6 +651,6 @@ The Asgore fight and Flowey encounter are exactly the same as in the previous en
 
 > This is effectively identical to the post-Flowey part of the [True Pacifist](/CategoryGuides/MainCategories/TruePacifist "UTSR Guides - True Pacifist") speedrun.
 
-The ONLY difference between this and TPE as described by link is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
+The ONLY difference between this and TPE as described in the True Pacifist guide is that you start at Core End instead of Judgement hall. Other than that, everything is exactly the same.
 
 ***End your timer on closing the "Everyone is waiting for us" textbox from toriel.***
