@@ -528,27 +528,26 @@ After entering the Laser Hallway, head up and right. Walk into the trigger and m
 
 ### Core Puzzle
 
-In first room of the Core maze, go left. In the next room, go up. In the next room, go left.
+In first room of the Core maze, you can choose to take a safety save at the save point in preparation for the Mettaton fight, but it is not necessary.
+After saving (or not), go left. In the next room, go up, and then left.
 
 Complete the slider puzzle. The key presses you will need to do are:
 
 - **Up, Up, Left, Down, Left, Down, Left. Fire Twice.**
 
-Return to the first room of the with the save point. Go right, then up, then right again. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right.
-
-In the last core room, a safety save is a considerable choice, but not necessary. After saving (or not), go into the doorway.
+After getting out of the room with the puzzle, go up, then right, then right again, then down and then finally right. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right and go into the doorway.
 
 Walk up to Mettaton and begin the cutscene. Mash all the text. Once the music ends, the battle will begin.
 
 ### Mettaton EX Battle
 
 For the first phase, complete the phase as follows.
-- Turn 1: Spare, then mash through the etxt. Do not overmash and shoot mettaton, or you will lose several seconds to dialog.
+- Turn 1: Spare, then mash through the text. Do not overmash and shoot mettaton, or you will lose several seconds to dialog.
 - Turn 2: Spare.
 - Turn 3: Spare.
 - Turn 4: Spare. You will know you are on turn 4 because it will be the first attack to feature a bomb.
-- Turn 5: Equip the Cowboy Hat. YOu will get a phone call from Alphys on this turn.
-- Turn 6: Go to you ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
+- Turn 5: Equip the Cowboy Hat. You will get a phone call from Alphys on this turn.
+- Turn 6: Go to your ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
 
 For the second phase, you simply want to attack Mettaton with the Pan, making sure to complete certain attacks as quickly as possible.
 - Attack 2 has robots raining down from the screen. The attack will end slightly faster if you destroy themn all.
