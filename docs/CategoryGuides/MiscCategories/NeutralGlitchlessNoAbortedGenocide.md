@@ -420,7 +420,7 @@ In the Royal Guards room, walk to the left. You will eventually get stopped by t
 
 You want to kill the royal guards. You can kill them in either order, but each one will require a perfect hit to one-shot.
 
-After sparing the Royal Guards, go left, then up, then right. Enter the next room to the right.
+After killing both Royal Guards, go left, then up, then right. Enter the next room to the right.
 
 ### News Show
 
