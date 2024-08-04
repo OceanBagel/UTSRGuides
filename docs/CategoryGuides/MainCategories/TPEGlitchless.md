@@ -4,7 +4,7 @@
 
 ## Introduction
 
-TPE Glitchless, or True Pacifist Ending Glitchless, is a popular category great for people of all skill levels. It is not very difficult to obtain a good time, and does not contain all of the glitches that are included in the glitched categories of Undertale. It is the longest of the 5 main categories, with the world record clocking in at about an hour and 48 minutes. New runners can expect to get a first run time of around 2 hours and 30 minutes, while intermediate runners will have first run times around 2 hours and 10 minutes. Advanced runners will be able to complete TPE Glitchless in under 2 hours.
+TPE Glitchless, or True Pacifist Ending Glitchless, is a popular category great for people of all skill levels. It is not very difficult to obtain a good time, and does not contain all of the glitches that are included in the glitched categories of Undertale. It is the longest of the 5 main categories, with the world record clocking in at around an hour and 46 minutes. New runners can expect to get a first run time of around 2 hours and 30 minutes, while intermediate runners will have first run times around 2 hours and 10 minutes. Advanced runners will be able to complete TPE Glitchless in under 2 hours.
 
 This guide contains several route variations. More advanced routes will be marked with <span style="color:red">red text</span>. If you’re just starting out, it’s safe to ignore these portions of the guide.
 
