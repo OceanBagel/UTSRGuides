@@ -554,21 +554,20 @@ After entering the Laser Hallway, head up and right. Walk into the trigger and m
 
 ### Core Puzzle
 
-In first room of the Core maze, go left. In the next room, go up. In the next room, go left.
+In first room of the Core maze, you can choose to take a safety save at the save point in preparation for the Mettaton fight, but it is not necessary.
+After saving (or not), go left. In the next room, go up, and then left.
 
 Complete the slider puzzle. The key presses you will need to do are:
 
 - **Up, Up, Left, Down, Left, Down, Left. Fire Twice.**
 
-Return to the first room of the with the save point. Go right, then up, then right again. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right.
-
-In the last core room, a safety save is a considerable choice, but not necessary. After saving (or not), go into the doorway.
+After getting out of the room with the puzzle, go up, then right, then right again, then down and then finally right. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right and go into the doorway.
 
 Walk up to Mettaton and begin the cutscene. Mash all the text. Once the music ends, the battle will begin.
 
 ### Mettaton EX Battle
 
-For the first phase, simply Spare Mettaton and mash his text. On the first attack, make sure you don’t keep mashing after clearing the last textbox or else you’ll shoot Mettaton and lose several seconds. It’s very important that you do not take damage in the first phase. Once you get a phone call from Alphys, go to you ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
+For the first phase, simply Spare Mettaton and mash his text. On the first attack, make sure you don’t keep mashing after clearing the last textbox or else you’ll shoot Mettaton and lose several seconds. It’s very important that you do not take damage in the first phase. Once you get a phone call from Alphys, go to your ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
 
 <span style="color:red">If you’re doing the Essay Skip Skip route (i.e. you skipped picking up the ribbon in Ruins), skip to the next red paragraph.</span> Otherwise, you’ll have 5 equippable items that you’ve been carrying around for the whole run. In order to spare Mettaton as quickly as possible, you need to get his ratings up to 12,000 or higher. Each equippable item raises the rating by 1500, which can get the ratings up to about 11,500. For the other 500, you will need to shoot obstacles and/or take damage.
 
@@ -588,7 +587,7 @@ In order to finish the fight optimally, perform the following actions:
 If you do the battle fast enough, you should skip the Essay turn. If you didn’t get to 12,000 ratings, type “hotfinenticute” for your essay to get 360 ratings, or “legs” to get 350, then throw the stick for 700 ratings.
 
 <div style="color:red">
-If you’re doing the Essay Skip Skip route, you’ll only have 4 equippable items and you’ll have to make up the rest byhitting additional obstacles, the essay, and throwing the stick. When you get to the essay, you can save time by making your essay 1 character long if you have enough ratings to afford the lower reward (80 ratings). Keep in mind that throwing the stick earns 700 points.
+If you’re doing the Essay Skip Skip route, you’ll only have 4 equippable items and you’ll have to make up the rest by hitting additional obstacles, the essay, and throwing the stick. When you get to the essay, you can save time by making your essay 1 character long if you have enough ratings to afford the lower reward (80 ratings). Keep in mind that throwing the stick earns 700 points.
 
 1. First turn: Equip the Mandana (ITEM > <kbd>▼ Down</kbd> > <kbd>Z</kbd>) and shoot the legs repeatedly. You can shoot the legs faster by taking intentional damage and shooting while inside the legs.
 2. Second turn: Equip the Old Tutu (ITEM > <kbd>▼ Down</kbd> > <kbd>▶ Right</kbd> > <kbd>Z</kbd>) and shoot all 8 robots. You can do this by going to the top corner and shooting four times and then go to the opposite bottom corner and shoot 4 times.
