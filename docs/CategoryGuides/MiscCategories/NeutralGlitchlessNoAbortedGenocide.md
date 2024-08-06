@@ -550,7 +550,7 @@ For the first phase, complete the phase as follows.
 - Turn 6: Go to your ACT menu and select Mettaton, then select Turn. Mash the text for the cutscene, and then the second phase will begin.
 
 For the second phase, you simply want to attack Mettaton with the Pan, making sure to complete certain attacks as quickly as possible.
-- Attack 2 has robots raining down from the screen. The attack will end slightly faster if you destroy themn all.
+- Attack 2 has robots raining down from the screen. The attack will end slightly faster if you destroy them all.
 - Attack 4 also has robots, again try to destroy them all.
 - Attack 5 is an essay. It is slightly faster to type one character, but it is slightly more fun to type something silly.
 - Attack 6 involves Mettaton's heart. Hit it as much as you can while staying alive to try and make the turn end faster.
