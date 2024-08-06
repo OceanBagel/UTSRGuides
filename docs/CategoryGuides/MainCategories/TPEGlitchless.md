@@ -554,14 +554,14 @@ After entering the Laser Hallway, head up and right. Walk into the trigger and m
 
 ### Core Puzzle
 
-In first room of the Core maze, you can choose to take a safety save at the save point in preparation for the Mettaton fight, but it is not necessary.
+In first room of the Core maze, you can choose to take a safety heal at the save point in preparation for the Mettaton fight, if you want to get your HP up, but there will be another save point later right before Mettaton, and it is not necessary.
 After saving (or not), go left. In the next room, go up, and then left.
 
 Complete the slider puzzle. The key presses you will need to do are:
 
 - **Up, Up, Left, Down, Left, Down, Left. Fire Twice.**
 
-After getting out of the room with the puzzle, go up, then right, then right again, then down and then finally right. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. Exit through the right and go into the doorway.
+After getting out of the room with the puzzle, go up, then right, then right again, then down and then finally right. This will put you in a room with a long bridge. Walk across the bridge. Near the middle of it you will get an unavoidable encounter. Flee from the encounter and continue to the right. In the final room before Mettaton, a safety save is a considerable choice if you are worried about dying to Mettaton, but not necessary. After saving (or not), go up into the doorway.
 
 Walk up to Mettaton and begin the cutscene. Mash all the text. Once the music ends, the battle will begin.
 
