@@ -56,7 +56,7 @@ Right click "Undertale" in your library. Choose "properties." Select the "Betas"
 
 ### Version v1.001 Windows
 
-Right click "Undertale" in your library. Choose "properties." Select the "Betas" tab. Click on the box below "Select the beta you would like to opt into:" and choose "old_version_101 -" Steam should download the old version of the game.
+Right click "Undertale" in your library. Choose "properties." Select the "Betas" tab. Click the dropdown in the top right corner and choose the one labeled "old_version_101 - old_version_101". Steam should download the old version of the game.
 
 ### Version v1.001 Linux
 
@@ -64,40 +64,43 @@ If you're using the Linux operating system, follow the same instructions above f
 
 This version can be a bit tricky to acquire on a Windows PC, but it shouldn’t take too long. Follow these instructions:
 
-Download v1.001 windows through the method above. Put all the files from the Undertale Steam folder (usually found at “C:\Program Files (x86)\Steam\steamapps\common\Undertale”) into a folder on your desktop.
-Delete a file called “steam_api.dll” that’s inside the folder.
-Download the 1.001 Linux on Windows patches here and download Floating IPS here.
-There are two patches in the patch folder. The runner patch is optional but you can’t perform some Linux-only glitches without it and there is no disadvantage to applying it, so it’s strongly suggested to apply both patches.
-Run Floating IPS and click “Apply Patch”. Then follow the prompts:
-Select Patches to Use: The patch file you downloaded.
-Select File to Patch: The file named "data.win" in the copy of the game files (for the data.win patch) or the file named "UNDERTALE.exe" (for the runner patch)
-Select Output File: The same file selected above. This will overwrite the file. Select "Yes" to replace the file.
-You’re done! Just launch the game through the file called “UNDERTALE.exe” inside the folder.
-How to test to see if the game is v1.001 Linux: In the name select screen, press and hold down <kbd>Z</kbd>. This should enter a letter in the name. With <kbd>Z</kbd> still held down, press <kbd>Enter</kbd>. If another letter was entered into the name, that means everything is working.
-If you’re playing on a Linux OS, you can obtain this version by simply following the instructions of 1.001 Windows.
+1. Make sure you've run Undertale through Steam at least once.
+2. Install 1.001 Windows through Steam by opening Steam, right-clicking Undertale. going to Properties, Betas, then clicking the dropdown in the top right corner and selecting the one labeled "old_version_101 - old_version_101". Allow Steam to update the game before continuing.
+3. Disconnect your copy of 1.001 Windows by going to `C:\Program Files (x86)\Steam\steamapps\common\Undertale` and copying every file except for the ones named `UNDERTALE.exe`, `data.win`, and `steam_api.dll`, then creating a new folder somewhere else and pasting the copied files into the new folder. NOTE: the game path must only contain ASCII characters, so it cannot contain characters such as Japanese characters, Cyrillic characters, or characters with accent marks. This includes your username, if you created the new folder within your user folder.
+4. Open the Steam console by navigating to [steam://nav/console](steam://nav/console) in a web browser.
+5. Enter the following command into the Steam console: `download_depot 391540 391544 3991795236625517204`
+6. Press Enter, then wait for the game to download. When the game finishes downloading, navigate to the folder `C:\Program Files (x86)\Steam\steamapps\content\app_391540\depot_391544\assets` and copy the file named `game.unx`. Then navigate back to the folder you created in step 3, paste the `game.unx` file, and rename `game.unx` to `data.win`.
+7. Copy the file named `UNDERTALE.exe` from [this zip file](https://www.speedrun.com/static/resource/795rz.zip "speedrun.com - 1.001 Linux on Windows runner and installation instructions") and paste it into the folder created in step 3.
+8. Run the game from the newly copied `UNDERTALE.exe`, which you will need to use to run the game instead of the Steam shortcut. Check that you've successfully installed 1.001 Linux by playing until you create save data and then searching the folder `%localappdata%` for a folder named `UNDERTALE_linux_steamver`. This is the save folder for 1.001 Linux, and if it was created with your save data then that means you've successfully installed 1.001 Linux on Windows.
+
+If you’re playing on a Linux OS, you can obtain this version by simply following the same instructions as 1.001 Windows above.
 
 ### Version v1.05
 
 This version can only be legitimately acquired through the use of the Steam console. Due to this, there is a patch available to convert 1.08 to 1.05.
 
-Download v1.08 through Steam. Put all the files from the Undertale Steam folder (usually found at “C:\Program Files (x86)\Steam\steamapps\common\Undertale”) into a folder on your desktop.
-Delete a file called “steam_api.dll” that’s inside the folder.
-Download the 1.05 patch here and download Floating IPS here.
-Run Floating IPS and click “Apply Patch”. Then follow the prompts:
-Select Patches to Use: The patch file you downloaded.
-Select File to Patch: The file named "data.win" in the copy of the game files.
-Select Output File: The same file selected above. This will overwrite the file. Select "Yes" to replace the file.
-You’re done! Just launch the game through the file called “UNDERTALE.exe” inside the folder.
-How to see if you have v1.05: the main menu should say “Undertale v1.05…” at the bottom.
+1. Download v1.08 through Steam. Put all the files from the Undertale Steam folder (usually found at `C:\Program Files (x86)\Steam\steamapps\common\Undertale`) into a new folder.
+2. Delete the file called `steam_api.dll` that’s inside the folder.
+3. Download [the 1.05 patch](https://www.speedrun.com/static/resource/bjdp7.zip "speedrun.com - Downpatch 1.08 to 1.05").
+4. Open the website [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/ "marcobledo.com - RomPatcher") (or another patching tool like Floating IPS) and do the following:
+- ROM file: Choose the file named `data.win` in the copy of the game files
+- Patch file: Choose the file `108_to_105_undertale.bps`
+- Check to make sure you see a green check mark next to the CRC32 line. If you see the green check mark then move on to the next step. If you see red text and a warning "Source ROM checksum mismatch" then don't proceed to step 4. This means you're patching the wrong files and you'll need to get an unmodified copy of Undertale 1.08 Windows from Steam.
+- Click "Apply patch" and then save the patched file in your game folder, overwriting the existing `data.win`.
+
+You’re done! Just launch the game through the file called `UNDERTALE.exe` inside the folder.
 
 If you instead want to download v1.05 directly through the Steam console instead of using the patch, follow these instructions:
-Launch Steam with the console by navigating to steam://nav/console in a web browser.
-In the Steam console, enter the following command:
-download_depot 395140 395141 1584494420689681079
-Wait for the game to download. If it says Downloading depot 395141, that means you did it right. Be patient.
-When the game finishes downloading, it will be in the folder listed below. The contents of this folder are deleted when you download to it again, so make sure you move what you want out of this folder.
-C:\Program Files (x86)\Steam\steamapps\content\app_395140\depot_395141
-Make sure to delete the file steam_api.dll after you move these files out, because otherwise this file might try and connect you to whatever version Steam thinks you have rather than the version you downloaded.
+
+1. Make sure you've run Undertale through Steam at least once.
+2. Install 1.08 Windows through Steam by opting out of any betas, if applicable. Allow Steam to fully install the game before continuing.
+3. Disconnect your copy of 1.08 by going to `C:\Program Files (x86)\Steam\steamapps\common\Undertale` and copying every file except for the ones named `data.win` and `steam_api.dll`, then creating a new folder somewhere else and pasting the copied files into the new folder. NOTE: the game path must only contain ASCII characters, so it cannot contain characters such as Japanese characters, Cyrillic characters, or characters with accent marks. This includes your username, if you created the new folder within your user folder.
+4. Open the Steam console by navigating to [steam://nav/console](steam://nav/console) in a web browser.
+5. Enter the following command into the Steam console: `download_depot 395140 395141 1584494420689681079`
+6. Press Enter, then wait for the game to download. When the game finishes downloading, navigate to the folder `C:\Program Files (x86)\Steam\steamapps\content\app_391540\depot_391541` and copy the file named `data.win`. Then navigate back to the folder you created in step 3 and paste the `data.win` file.
+8. Run the game from `UNDERTALE.exe` in the newly created folder, which you will need to use to run the game instead of the Steam shortcut.
+
+How to see if you have v1.05: the main menu should say "Undertale v1.05" at the bottom.
 
 ### Versions v1.06+
 
@@ -107,12 +110,17 @@ There is no time difference between version v1.06 and any future PC versions of 
 
 If you’re using a Steam version of Undertale, starting up the game will load Steam by default and have it check for updates. This makes reloading the game slower and can result in your game version being “updated” if the version you’re using doesn’t match what Steam thinks you should have. A way around this is to disconnect the game from Steam, which can be done by following the instructions below.
 
-Navigate to the following folder: C:\Program Files (x86)\Steam\steamapps\common\Undertale
-If you downloaded v1.0: Use 7zip or similar software to extract the UNDERTALE.exe file into a folder on your desktop. Do not extract it into the Steam folder. Go into the new folder and delete a file called "steam_api.dll" Launch Undertale from the Undertale.exe inside the folder, not from your library on Steam.
-If you downloaded v1.001, take the files out of the Steam folder and put them into a folder on your desktop. Go into the folder and locate a file called "steam_api.dll" and delete it.
-For v1.001 Linux, if you followed the instructions for acquiring it above, your steam_api.dll file should already be deleted.
-For v1.05, if you followed the instructions for acquiring it in the previous section, your steam_api.dll file should already be deleted.
-If you downloaded v1.06+, take the files out of the Steam folder and put them into a folder on your desktop. Go into the folder and locate a file called "steam_api.dll" and delete it.
+Navigate to the following folder: `C:\Program Files (x86)\Steam\steamapps\common\Undertale`
+
+If you downloaded v1.0: Use 7zip or similar software to extract the `UNDERTALE.exe` file into a new folder. Do not extract it into the Steam folder. Go into the new folder and delete a file called `steam_api.dll`. Launch Undertale from the `UNDERTALE.exe` inside the folder, not from your library on Steam.
+
+If you downloaded v1.001, take the files out of the Steam folder and put them into a new folder. Go into the folder and locate a file called `steam_api.dll` and delete it.
+
+For v1.001 Linux on Windows, if you followed the instructions for acquiring it above, your `steam_api.dll` file should already be deleted.
+
+For v1.05, if you followed the instructions for acquiring it in the previous section, your `steam_api.dll` file should already be deleted.
+
+If you downloaded v1.06+, take the files out of the Steam folder and put them into a new folder. Go into the folder and locate a file called `steam_api.dll` and delete it.
 
 ## Exploits and Glitches
 
