@@ -555,6 +555,7 @@ After entering the Laser Hallway, head up and right. Walk into the trigger and m
 ### Core Puzzle
 
 In first room of the Core maze, you can choose to take a safety heal at the save point in preparation for the Mettaton fight, if you want to get your HP up, but there will be another save point later right before Mettaton, and it is not necessary.
+
 After saving (or not), go left. In the next room, go up, and then left.
 
 Complete the slider puzzle. The key presses you will need to do are:
