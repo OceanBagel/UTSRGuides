@@ -278,7 +278,7 @@ As already stated in the Debug Mode section of the guide, using Debug Mode is no
 One of the exceptions for editing data.win is the half speed automasher mod.
 The half speed automasher adds the abilty to mash at 7.5 tbps, half of the fastest speed to mash text, by just holding a hotkey (space by default, see readme.txt in the automasher zip file to see how to change that hotkey).
 The goal of the half speed automasher is to increase the accessibility of Undertale speedrunning by allowing people who would be unable to mash for accessibility reasons to be able to use an automasher during normal runs.
-You can find the link to the half speed automasher, as well as installation instructions [this](https://www.speedrun.com/static/resource/t5gqu.zip?v=7ef12e1 "Link").
+You can find the link to the half speed automasher, as well as installation instructions [here](https://www.speedrun.com/static/resource/t5gqu.zip?v=7ef12e1 "Link").
 
 ## Categories
 
