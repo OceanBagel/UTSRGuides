@@ -273,13 +273,6 @@ The only categories that have an exception to this rule are the New Game+ catego
 
 As already stated in the Debug Mode section of the guide, using Debug Mode is not allowed in speedruns. To acquire Debug Mode, you must edit a value manually within the game. Editing your files is not allowed. Along with this, Debug Mode opens the window for potential cheating or run assistance. Even if you have Debug Mode enabled and don’t use any of the features, the game will still be manipulated and the game will show hidden values during certain fights, which gives an unfair advantage. Before doing a run, you must make sure you are using the regular, unedited data.win. There are very few exceptions to this, so make sure you read through the rules before you start.
 
-### Half Speed Automasher
-
-One of the exceptions for editing data.win is the half speed automasher mod.
-The half speed automasher adds the abilty to mash at 7.5 tbps, half of the fastest speed to mash text, by just holding a hotkey (space by default, see readme.txt in the automasher zip file to see how to change that hotkey).
-The goal of the half speed automasher is to increase the accessibility of Undertale speedrunning by allowing people who would be unable to mash for accessibility reasons to be able to use an automasher during normal runs.
-You can find the link to the half speed automasher, as well as installation instructions [this](https://www.speedrun.com/static/resource/t5gqu.zip?v=7ef12e1 "Link").
-
 ## Categories
 
 This section will cover the categories that currently have category guides on the UTSR Guides page. If you're planning on running a category that's not listed here, you can check the top runs on speedrun.com, the Guides section of the Undertale speedrun.com page, or ask in the UTSRC Discord server.
