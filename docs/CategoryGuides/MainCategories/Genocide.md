@@ -12,7 +12,7 @@ The Genocide category focuses on optimally killing all the monsters necessary fo
 
 > Kills Required: 20
 
-### Handholding
+### Handholding / Toriel Skip
 
 After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible.
 
