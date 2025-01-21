@@ -24,7 +24,7 @@ After being hit, prepare your mashing once again. Once Toriel appears, mash away
 
 You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as you are able to. After mashing away Toriel's text, follow her upwards into the next room.
 
-### The beginning of Ruins
+### The beginning of Ruins / Toriel Skip
 
 In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold <kbd>▲ Up</kbd>. You don’t need to move left or right to enter the door.
 
@@ -33,6 +33,34 @@ This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>�
 In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
 In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+
+Alternatively, you can do Toriel Skip.
+
+Toriel Skip saves around 30 seconds, due to skipping the dummy room, and the handholding room.
+
+When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+
+From here, there are 3 methods you can do:
+
+1. The double overflow method - Advance to Toriel's last textbox, hold right, and do two consecutive z/enter inputs, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+
+3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text 
+
+A few miscellaneous points:
+
+If you enter the next room normally, you either didn't mash fast enough or you didn't release right soon enough.
+
+If you softlock, you either overmashed and interacted with Toriel a second time or your final z/enter input was a frame late and you didn't mash fast enough.
+
+If you don't release right, the mashing becomes frame perfect.
+
+If your final z/enter press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
+
+If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
+
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order x > z > lshift > enter, rolling/sliding across the three keys on the left and then pressing enter at the end.
 
 This next room is the hardest room in the game. Walk right and mash away toriel’s text.
 
