@@ -12,7 +12,7 @@ Neutral, also known as Any%, is the game’s most popular and most competitive c
 
 > The most RNG intensive part of the game.
 
-After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible. Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey and begin his dialogue. Mash the text and begin the battle.W
+After hitting “Yes” at the name selection, you should hold <kbd>▶ Right</kbd>, so you can start moving as soon as possible. Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey and begin his dialogue. Mash the text and begin the battle.
 
 Mash away the text as soon as Flowey talks to you. After Flowey winks, you won’t be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
@@ -491,14 +491,7 @@ Wrong Warp Position:
 
 #### Safe One Cycle Undyne (1 PCE + 1 Wrong Warp)
 
-There 2 methods: 
-1. TNT Method - easier than normal method. Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. Optionally, PCE the first trigger & call toriel after the "NGAAAHHH" textbox is not on screen, then menu back to ITEM. If done right, undyne's text will be courpted, saving a bit of time. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game. Once you have PCE’d the second trigger, line up in the pixel show below, press c, then z twice fairly quickly, wait for the textbox to complete whilst the punch card is open, and hold up+left & when you're ready press z whilst holding up-left.
-
-Pixel Lineup:
-
-<img src='./Images/SafeOneCycleTNT.png' alt="Safe One Cycle Undynbe TNT Pixel" title="Safe One Cycle Undynbe TNT Pixel"></img>
-
-2. Normal Method - Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. Optionally, PCE the first trigger & call toriel after the "NGAAAHHH" textbox is not on screen, then menu back to ITEM. If done right, undyne's text will be courpted, saving a bit of time. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
 Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
 Go to the second part below.
 
