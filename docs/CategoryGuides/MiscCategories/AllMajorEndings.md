@@ -249,19 +249,11 @@ Run into both triggers, as you would in glitchless.
 
 PCE the first trigger, then run into the second trigger. This will save just a couple of seconds over method 1.
 
-##### Method 3
-PCE the first trigger, PCE the 2nd trigger & once you have PCE’d the second trigger, line up in the pixel show below, press c, then z twice fairly quickly, wait for the textbox to complete whilst the punch card is open, and hold up+left & when you're ready press z whilst holding up-left. if done right, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
-Go to the second part below.
-
-Pixel Lineup:
-
-<img src='./Images/SafeOneCycleTNT.png' alt="Safe One Cycle Undynbe TNT Pixel" title="Safe One Cycle Undynbe TNT Pixel"></img>
-
-##### Method 4 (medium)
+##### Method 3 (medium)
 
 PCE the first trigger, quickly PCE the second trigger, then walk into the second room. Let Undyne catch you, then kill her. Go back down to the first room and wrong warp into the second room. This saves about 20 seconds over method 3.
 
-##### Method 5 (hard)
+##### Method 4 (hard)
 
 This is the same as Onedyne in neutral. If you already know onedyne, you should continue to implement it here, but if not I would just stick to method 3 which is only slightly slower. 
 
