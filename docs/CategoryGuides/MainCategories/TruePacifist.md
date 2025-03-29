@@ -499,16 +499,26 @@ Wrong Warp Position:
 
 <img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
-#### Safe One Cycle Undyne (1 PCE + 1 Wrong Warp)
+#### Safe One Cycle Undyne (1 PCE + 1 TNT)
 
-Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
-Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
-Go to the second part below.
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene.
+
+Optionally, you can also PCE this trigger, mash through until after the "NGAAAHHH" dialogue, and then call Toriel before mashing the rest of the dialogue. This saves a little time due to corrupting Undyne's text, but doesn't change the rest of the strat.
+
+Mash through Undyne's remaining dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game. Once you have PCE’d the second trigger, line up in the spot shown below. Note that the pixels will be different if you reload into the room than entering the room from the side.
+
+<img src='./Images/SafeOneCycleTNT.png'></img>
+
+Once you are in the above position, open the menu and then press <kbd>Z</kbd> three times quickly. This will open the punch card and skip Undyne's first textbox. Then, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, wait for Undyne's second textbox to complete, and press <kbd>Z</kbd> one more time to close the punch card, regain movement, and advance to Undyne's third textbox. This technique is called TNT, and it allows you to get a wrong warp much easier than the other methods.
+
+When you appear in the next room, you will be at the other end of the hallway. Immediately go up and into the next hallway. Go to the second part below.
 
 #### Quick Once Cycle Undyne (2 PCE’s + 1 wrong warp)
 
 Walk into the room and begin walking up the path. PCE the first trigger. After successfully PCEing the first trigger, immediately go to the second trigger. You will have a small amount of time to know where you are before the screen pans upwards. The time save here is dependent on how fast you PCE the second trigger. If you don’t manage to PCE the trigger before the screen stops on Undyne, stop attempting and just mash the dialogue in the cutscene. If you run into the trigger, your run is over (unless you’re okay with a huge time loss).
+
 If you manage to PCE the second trigger quick enough, walk into the rock structure and walk back out. Mash through the cutscene and wrong warp into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out).
+
 In this version you skip the screen panning up to Undyne. This can save either a couple of seconds or less than a second depending on how fast you do it.
 
 Go to the second part below.
@@ -516,6 +526,7 @@ Go to the second part below.
 #### Onedyne (2 PCEs + 1 weird wrong warp + Cutscene skip)
 
 Note: This version is more difficult than the other two versions.
+
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. This method saves 20 seconds over one-cycle. A video guide for this method can be seen below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">

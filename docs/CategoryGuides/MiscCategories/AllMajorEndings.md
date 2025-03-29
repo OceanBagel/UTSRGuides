@@ -505,11 +505,17 @@ Wrong Warp Position:
 
 <img src='./Images/UndyneWrongWarp.png' alt="Undyne wrong warp position" title="Undyne wrong warp position"></img>
 
-Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene. Mash the dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game.
+Upon entering the room, walk up the path leading towards the rock structure. Run into the trigger and trigger the cutscene.
 
-Once you have PCE’d the second trigger, walk into the rock structure, then walk back out. Then, wrong warp back into the rock structure (if you fail the wrong warp and don’t softlock, just walk back out). After wrong warping into the structure, you will appear at the end of the first hallway. Immediately go up and into the next hallway.
+Optionally, you can also PCE this trigger, mash through until after the "NGAAAHHH" dialogue, and then call Toriel before mashing the rest of the dialogue. This saves a little time due to corrupting Undyne's text, but doesn't change the rest of the strat.
 
-Go to the second part below.
+Mash through Undyne's remaining dialogue. After the cutscene ends and you regain movement, go down and right and save quickly. Then attempt to PCE the second trigger. If you fail to PCE the trigger and accidentally hit it, restart the game. Once you have PCE’d the second trigger, line up in the spot shown below. Note that the pixels will be different if you reload into the room than entering the room from the side.
+
+<img src='./Images/SafeOneCycleTNT.png'></img>
+
+Once you are in the above position, open the menu and then press <kbd>Z</kbd> three times quickly. This will open the punch card and skip Undyne's first textbox. Then, hold <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, wait for Undyne's second textbox to complete, and press <kbd>Z</kbd> one more time to close the punch card, regain movement, and advance to Undyne's third textbox. This technique is called TNT, and it allows you to get a wrong warp much easier than the other methods.
+
+When you appear in the next room, you will be at the other end of the hallway. Immediately go up and into the next hallway. Go to the second part below.
 
 It is still fully possible to do one of the other strategies described, however doing so is taking on somewhat more risk than it would be in other categories since you aren't able to safety save in the Undyne arena. 
 
