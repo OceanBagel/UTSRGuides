@@ -247,6 +247,10 @@ Sans battle: 5F
 Undyne the Undying battle: 5C
 Remember: You are not allowed to use Debug Mode for a normal run. Debug mode is not allowed for speedruns. It is only a tool for practicing skips.
 
+## Practice Mod
+
+Another way to practice is by using the [practice mod](https://github.com/fixylol/UndertalePracticeMod/releases). it provides stuff such as savestates, flag/inventory editing, enabling debug mode & so much more. if you want to practice undertale speedruns, this is the mod for you.
+
 ## Preparation before a speedrun
 
 You’ll need to do a few things before you're ready to speedrun Undertale.
