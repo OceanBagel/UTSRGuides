@@ -399,11 +399,7 @@ After this, you are at 9 kills and want to grind until you have at least 20. At 
 
 ### New Home
 
-New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
-
-Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
-
-After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
+New home is the same as neutral/TPE glitchless, except with mashable text in monstertale/judgment hall. No other diffrences.
 
 ### Flowey
 
@@ -539,13 +535,19 @@ In the room with the water cooler, PCE the cutscene with Undyne collapsing on th
 
 LEBP, or "late early burnt pan" is a strategy for AME and True 100% that allows you to fight Undyne with the Pan. **This should only be done if you successfully PCE'd the Undyne water cutscene.** Play through the game until you recieve the burnt pan normally. Make sure not to kill Vulkin because you are still setting up for dog ending. Equip the pan immediately. Wrong warp out of the pan room into the previous room, then **<span style="color: orange">SAVE</span>** at that room's save point. Continue as normal.
 
-### The Rest of the Ending
+### Hotland
 
-The rest of this ending is identical to the Neutral route, except for the following things
+Hotland is identical to the Neutral route, except for the following things
 - Do not save anywhere.
 - There is a useful backup for if you miss the Mettaton EX PCE. Start the battle as quickly as possible, then immediately die. This will reload you to the CORE puzzle due to Undertale's hidden "autosave" mechanic.
-- Complete Monstertale as described previously in the Alphys Ending.
-- After fighting Asgore, you will be placed in the final room of the game, just as in Alphys ending. You still want to wait to reload until you see the title screen, because that will shorten Flowey's text even more.
+
+### New Home
+New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
+
+Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
+
+After this head to the right side. You can try to get text storage and use it on the encounter like you would in a normal new home. Once you grab second key, head back to the center room like you would normally and unlock the gate. Continue through new home and asgore as normal.
+After fighting Asgore, you will be placed in the final room of the game, just as in Alphys ending. You still want to wait to reload until you see the title screen, because that will shorten Flowey's text even more.
 
 ## Mettaton Ending
 
@@ -573,7 +575,7 @@ In this route we skip mettaton, but we would like to be able to fight him later.
 
 ### New Home
 
-Finish Monstertale as in the Alphys and Undyne Endings. **<span style="color: orange">SAVE</span>** in Judgement Hall. Continue through the Asgore fight as normal.  At this point Flowey's dialog is as short as it can get, so you should reload as soon as you touch the door in the final room of the game rather than waiting for the logo to appear.
+Finish Monstertale as in the Undyne Ending. **<span style="color: orange">SAVE</span>** in Judgement Hall. Continue through the Asgore fight as normal.  At this point Flowey's dialog is as short as it can get, so you should reload as soon as you touch the door in the final room of the game rather than waiting for the logo to appear.
 
 ## Dog Ending
 
