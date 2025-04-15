@@ -95,7 +95,7 @@ Overview:
 
 ### Snowdin
 
-Snowdin is the point in our run where we will diverge from the genocide route. Unfortunately, we are not able to kill all of the monsters in Snowdin because doing so would make the Nice Cream Man disappear, forcing us to complete Genocide without the punch card. Because of this, we will save immediately before exhausting the Snowdin kill count, then continue on with the papyrus ending.
+Snowdin is the point in our run where we will diverge from the genocide route. Unfortunately, we are not able to kill all of the monsters in Snowdin because doing so would make the Nice Cream Man disappear, forcing us to complete the Papyrus ending without the punch card. Because of this, we will save immediately before exhausting the Snowdin kill count, then continue on with the papyrus ending.
 
 #### Snowdin Forest
 
