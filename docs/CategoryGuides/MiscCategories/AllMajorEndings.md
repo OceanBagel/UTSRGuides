@@ -542,6 +542,7 @@ Hotland is identical to the Neutral route, except for the following things
 - There is a useful backup for if you miss the Mettaton EX PCE. Start the battle as quickly as possible, then immediately die. This will reload you to the CORE puzzle due to Undertale's hidden "autosave" mechanic.
 
 ### New Home
+
 New Home is slightly different. Because you can mash through the text, magolor skip is no longer fast, and it is instead faster to do left side first.
 
 Wrong warp into the room on the left. You can PCE slide the next encounter, but don’t bother trying to get text storage for it. After the encounter, grab the key from the kitchen and wrong warp out. You can also overflow the key for an overflow wrong warp. 
@@ -567,6 +568,7 @@ Also of note if you are coming from Magma Chamber is that the Undyne Water Trigg
 Once you are at the Undyne fight, attack Undyne until she dies. If you missed the water trigger and had to reload to before you obtained the Burnt Pan, you can do the previously described "Pacifist Kindergarten" strat. Otherwise, just melt Undyne with the Burnt Pan. Remember that everything after you set her HP to 0 is a cutscene and you can switch to sparing her at that point.
 
 ### Hotland
+
 Another Hotland that is identical to Neutral. Make sure you don't kill Vulkin as we are still on dog ending, but otherwise proceed as normal.
 
 ### Core
