@@ -34,7 +34,7 @@ In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away
 
 In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
-Alternatively, you can do Toriel Skip.
+Alternatively, you can do Toriel Skip. Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for begginers to do Toriel Skip.
 
 Toriel Skip saves around 30 seconds, due to skipping the dummy room, and the handholding room.
 

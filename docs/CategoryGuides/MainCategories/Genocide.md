@@ -36,7 +36,7 @@ In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away
 
 In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
-Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog.
+Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for begginers to do Toriel Skip.
 
 Toriel Skip saves around 25 seconds, due to skipping the dummy room, the handholding room, and the first frog. This is less time than in other categories due to being at a lower level on the first encounter grind.
 
