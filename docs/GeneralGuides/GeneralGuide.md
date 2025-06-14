@@ -187,9 +187,13 @@ You will first need to disconnect Undertale from Steam (if you already did this,
 Next, locate your data.win. This file will be in your Undertale folder. You will need a hex value editor, like HxD. After finding your data.win, open it up with your hex editor, and change this value from 00 to 01:
 
 Version 1.0 - 725B24
+
 Version 1.001 (Non-Linux) - 725D8C
+
 Version 1.001 Linux - 725DDC
+
 Version 1.05+ - 7748C4
+
 You can use Control + G to search for the specific value.
 
 If you're trying to enable debug mode on a modded version of Undertale (such as the Automasher Mod), these hex addresses may not work. Alternatively, you can enable debug mode using UndertaleModTool.
@@ -233,18 +237,29 @@ Asgore’s and Mad Dummy’s battles will be altered slightly. Asgore will have 
 By using the ‘Home’ key in Debug, you can initiate a battle depending on what your ‘battle group’ is set to. Every battle in Undertale is assigned a specific battle group number. You can edit a value in the data.win to change your battle group, so that whenever you hit your Home key, you will begin the battle on the spot. This is useful for practicing difficult battles. Here’s the values you have to change to set the battle group:
 
 Version 1.0 - 9EB444
+
 Version 1.001 (Non-Linux) - 9F553C or 9EB414
+
 Version 1.001 Linux - 9EB918
+
 Version 1.05 - BD7CE4
+
 Version 1.05a - BD7D2C
+
 Version 1.06 - BD8200
+
 Version 1.08 - BD7810
+
 Here are some useful values you can set the battle group to:
 
 Asgore battle: 65
+
 Asriel battle: FF
+
 Sans battle: 5F
+
 Undyne the Undying battle: 5C
+
 Remember: You are not allowed to use Debug Mode for a normal run. Debug mode is not allowed for speedruns. It is only a tool for practicing skips.
 
 ## Practice Mod
