@@ -96,7 +96,7 @@ If you instead want to download v1.05 directly through the Steam console instead
 2. Install 1.08 Windows through Steam by opting out of any betas, if applicable. Allow Steam to fully install the game before continuing.
 3. Disconnect your copy of 1.08 by going to `C:\Program Files (x86)\Steam\steamapps\common\Undertale` and copying every file except for the ones named `data.win` and `steam_api.dll`, then creating a new folder somewhere else and pasting the copied files into the new folder. NOTE: the game path must only contain ASCII characters, so it cannot contain characters such as Japanese characters, Cyrillic characters, or characters with accent marks. This includes your username, if you created the new folder within your user folder.
 4. Open the Steam console by navigating to [steam://nav/console](steam://nav/console) in a web browser.
-5. Enter the following command into the Steam console: `download_depot 395140 395141 1584494420689681079`
+5. Enter the following command into the Steam console: `download_depot 391540 391541 1584494420689681079`
 6. Press Enter, then wait for the game to download. When the game finishes downloading, navigate to the folder `C:\Program Files (x86)\Steam\steamapps\content\app_391540\depot_391541` and copy the file named `data.win`. Then navigate back to the folder you created in step 3 and paste the `data.win` file.
 8. Run the game from `UNDERTALE.exe` in the newly created folder, which you will need to use to run the game instead of the Steam shortcut.
 
