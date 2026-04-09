@@ -20,7 +20,7 @@ Walk down the hallway to the right. Enter the doorway. Walk up towards Flowey an
 
 Mash away the text as soon as Flowey talks to you. After Flowey winks, you won’t be able to mash the text away. Instead, repeatedly press <kbd>Z</kbd> and <kbd>Enter</kbd>, so you will end the text as soon as it reaches the end.
 
-After Flowey winks, you will want to position yourself a little bit to the right of the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
+After Flowey winks, you will want to go all the way to the top left corner. Being here will ensure that you get hit by the bullets friendliness pellets as soon as possible.
 
 After being hit by the friendliness pellets, hold <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd>. Moving to the bottom left corner and holding down the <kbd>▼ Down</kbd> and <kbd>◀ Left</kbd> arrow keys will make the circle attack hit you quicker than normal.
 
