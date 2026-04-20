@@ -345,7 +345,6 @@ This guide is based on the Undertale General Guide, which in turn was based on R
 - WinterStormSRL
 - OceanBagel
 - willyjwillyj
-- Shay
 - Silver
 - TommyeAsY
 - Galaxtic
