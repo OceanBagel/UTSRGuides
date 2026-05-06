@@ -10,8 +10,8 @@
     * [Genocide](/CategoryGuides/MainCategories/Genocide.md "UTSR Guides - Genocide")
     * [Neutral Glitchless](/CategoryGuides/MainCategories/NeutralGlitchless.md "UTSR Guides - Neutral Glitchless")
     * [TPE Glitchless](/CategoryGuides/MainCategories/TPEGlitchless.md "UTSR Guides - TPE Glitchless")
+    * [All Major Endings](/CategoryGuides/MainCategories/AllMajorEndings.md "UTSR Guides - All Major Endings")
+    * [Neutral Glitchless No Aborted Genocide](/CategoryGuides/MainCategories/NeutralGlitchlessNoAbortedGenocide.md "UTSR Guides - Neutral Glitchless No Aborted Genocide")
   * Misc Categories
-    * [All Major Endings](/CategoryGuides/MiscCategories/AllMajorEndings.md "UTSR Guides - All Major Endings")
-    * [Neutral Glitchless No Aborted Genocide](/CategoryGuides/MiscCategories/NeutralGlitchlessNoAbortedGenocide.md "UTSR Guides - Neutral Glitchless No Aborted Genocide")
   * Category Extensions
     * [Early Punch Card Early Game/Neutral](/CategoryGuides/CategoryExtensions/EarlyPunchCardEarlyGameNeutral.md "UTSR Guides - Early Punch Card Early Game/Neutral")
