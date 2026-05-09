@@ -59,7 +59,7 @@ In the room with the single rock, you will receive two phone calls at the beginn
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
-In the next room with the pit puzzle, simply navigate through the pit traps. If you don't know the pattern, fall through the floor and observe the path through the leaves. Be careful not to fall in this room because it wastes a big chunk of time. Don't grind for an encounter in this room, proceed to the next room.
+In the next room with the cracked tile maze, simply navigate through the pit traps. If you don't know the pattern, fall through the floor and observe the path through the leaves. Be careful not to fall in this room because it wastes a big chunk of time. Don't grind for an encounter in this room, proceed to the next room.
 
 ### Second Half Ruins
 
@@ -71,13 +71,15 @@ Possible Random Encounters:
 - Froggit x2: 15%
 - Moldsmal x2: 10%
 
-In the room with the three rocks, position yourself to the right of the bottom rock. Talk to the rock three times until it reaches the end and lowers the spikes. Walk to the right until the spikes rise again, turn around, and talk to the rock for a fourth time to lower the spikes permanently. Grind for an encounter. After ending the encounter, enter into the cheese room and walk back into the Three Rock room.
+In the room with the three rocks, grind encounters at the very start of the room until you have 13 or more kills. Each time after ending the encounter, enter into the cracked tile maze room and walk back into the three rock room. If you continue through the room without getting these kills, you may get an encounter too early and waste some time moving through the room.
 
 The best encounter you can get in this room is a Froggit/Whimsun. Kill the Whimsun first so you can get the frog attacks with the Froggit.
 
-You will get encounters with varying amounts of Moldsmals. FIGHT the moldsmals the same way you would fight a Froggit. A single Moldsmal is the worst encounter you can get in this room.
+You may get encounters with varying amounts of Moldsmals. FIGHT the moldsmals the same way you would fight a Froggit. A single Moldsmal is the worst encounter you can get in this room.
 
 You may also encounter two Froggits. Kill one of them first so you can get frog attacks from the other.
+
+Once you've finished to 13 or more kills, and have re-entered the room with the three rocks again, position yourself to the right of the bottom rock. Talk to the rock three times until it reaches the end and lowers the spikes. Walk to the right until the spikes rise again, turn around, and talk to the rock for a fourth time to lower the spikes permanently. Grind for an encounter at the end of the room. After ending the encounter, enter into the cheese room and walk back into the three rock room.
 
 Grind encounters until you reach 20 kills. If you are in an encounter and get your 20th kill, flee from the remaining monsters. Exit into the cheese room.
 
