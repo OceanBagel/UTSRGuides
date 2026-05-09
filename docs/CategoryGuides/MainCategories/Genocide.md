@@ -87,7 +87,7 @@ In the room with the single rock, you will receive two phone calls at the beginn
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
-In the next room with the pit puzzle, simply navigate through the pit traps. If you don't know the pattern, fall through the floor and observe the path through the leaves. Be careful not to fall in this room because it wastes a big chunk of time. Don't grind for an encounter in this room, proceed to the next room.
+In the next room with the cracked tile maze, simply navigate through the pit traps. If you don't know the pattern, fall through the floor and observe the path through the leaves. Be careful not to fall in this room because it wastes a big chunk of time. Don't grind for an encounter in this room, proceed to the next room.
 
 ### Second Half Ruins
 
@@ -99,13 +99,15 @@ Possible Random Encounters:
 - Froggit x2: 15%
 - Moldsmal x2: 10%
 
-In the room with the three rocks, position yourself to the right of the bottom rock. Talk to the rock three times until it reaches the end and lowers the spikes. Walk to the right until the spikes rise again, turn around, and talk to the rock for a fourth time to lower the spikes permanently. Grind for an encounter. After ending the encounter, enter into the cheese room and walk back into the Three Rock room.
+In the room with the three rocks, grind encounters at the very start of the room until you have 13 or more kills. Each time after ending the encounter, enter into the cracked tile maze room and walk back into the three rock room. If you continue through the room without getting these kills, you may get an encounter too early and waste some time moving through the room.
 
 The best encounter you can get in this room is a Froggit/Whimsun. Kill the Whimsun first so you can get the frog attacks with the Froggit.
 
-You will get encounters with varying amounts of Moldsmals. FIGHT the moldsmals the same way you would fight a Froggit. A single Moldsmal is the worst encounter you can get in this room.
+You may get encounters with varying amounts of Moldsmals. FIGHT the moldsmals the same way you would fight a Froggit. A single Moldsmal is the worst encounter you can get in this room.
 
 You may also encounter two Froggits. Kill one of them first so you can get frog attacks from the other.
+
+Once you've finished to 13 or more kills, and have re-entered the room with the three rocks again, position yourself to the right of the bottom rock. Talk to the rock three times until it reaches the end and lowers the spikes. Walk to the right until the spikes rise again, turn around, and talk to the rock for a fourth time to lower the spikes permanently. Grind for an encounter at the end of the room. After ending the encounter, enter into the cheese room and walk back into the three rock room.
 
 Grind encounters until you reach 20 kills. If you are in an encounter and get your 20th kill, flee from the remaining monsters. Exit into the cheese room.
 
@@ -440,7 +442,7 @@ In the room you arrive at, go right. In the next room, go right again and exit r
 
 Once you arrive at the room with the vents, ride the vents and go to the right. Once you arrive at the long platform at the right of the room, go right and go up at the turn. Go inside the doorway at the end of the platform. 
 
-There is an OWW you can perform on the doorway that is incredibly risky and carries a high risk of softlocking the game. To perform the OWW, line up Frisk with the transition (their feet will be lined up with the thin line on the floor), press <kbd>▲ Up</kbd> & <kbd>◀ Left</kbd>/<kbd>▶ Right</kbd> (whichever direction the door is from where you lined up) into the transition & interact with the door at the same time, close the textbox quickly, and release the arrow keys. If done correctly, you should spawn directly below the save point in the next room. If you do not close the textbox in time, you will softlock. Be careful when you close the textbox to not accidentally interact with the door a second time, as you will softlock.
+There is an OWW you can perform on the doorway that is incredibly risky as it carries a high chance of softlocking the game and saves less than a second even if done optimally. To perform the OWW, line up Frisk with the transition (their feet will be lined up with the thin line on the floor), press <kbd>▲ Up</kbd> & <kbd>◀ Left</kbd>/<kbd>▶ Right</kbd> (whichever direction the door is from where you lined up) into the transition & interact with the door at the same time, close the textbox quickly, and release the arrow keys. If done correctly, you should spawn directly below the save point in the next room. If you do not close the textbox in time, you will softlock. Be careful when you close the textbox to not accidentally interact with the door a second time, as you will softlock.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/8kvDfuvFLg8" title="Genocide North South Door Wrong Warp Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -568,6 +570,6 @@ In Asgore's throne room, walk up and trigger the cutscene. You won't have to use
 
 Mash Asgore's text. Once the battle begins, mash his text. Mash Flowey's text after Asgore dies. When Flowey dies, Chara will appear.
 
-Chara talks very slowly. Incredibly slowly. You can't mash away their text but you want to end the text as soon as you can. So spam <kbd>Z</kbd> / <kbd>Enter</kbd> when the text is about to finish. Prepare your timer when the dialogue choice appears. Select ‘Erase’ or ‘Do not’ (which one you pick doesn't matter but ‘Erase’ will be faster to select).
+Chara talks very slowly. Incredibly slowly. You can't mash away their text but you want to end the text as soon as you can. So spam <kbd>Z</kbd> / <kbd>Enter</kbd> when the text is about to finish. Prepare your timer when the dialogue choice appears. Select ‘Erase’ or ‘Do not’ (which one you pick doesn't matter).
 
 ***STOP YOUR TIMER WHEN YOU SELECT ‘ERASE’ OR ‘DO NOT’ ON CHARA'S DIALOGUE CHOICE!***
