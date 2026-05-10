@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Neutral, also known as Any%, is the game’s most popular and most competitive category. It is also one of the most difficult, containing many frame-perfect and pixel-perfect tricks. It is the shortest category of the main 5 categories, with the world record clocking in at just over 50 minutes.
+Neutral, also known as Any%, is the game’s most popular and most competitive category. It is also one of the most difficult, containing many frame-perfect and pixel-perfect tricks. It is the shortest of the three main endings, with the world record clocking in at just over 50 minutes.
 
 ***Timing starts on "YES" on name confirmation.***
 
