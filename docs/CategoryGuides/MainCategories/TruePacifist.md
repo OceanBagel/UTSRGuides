@@ -930,7 +930,7 @@ After completing the Neutral Ending, which is one of the requirements for the Tr
 
 ### Wrong Warps
 
-If you saved in the correct spot, you will appear at the beginning of the Judgement hallway. Walk to through the doorway above you. Walk into the elevator. Go down to the room with the entrance to the Long elevator. Walk into the long elevator.
+If you saved in the correct spot, you will appear at the beginning of the Judgement hallway. Walk through the doorway above you. Walk into the elevator. Go down to the room with the entrance to the Long elevator. Walk into the long elevator.
 
 If you’re not using the Switch version, PCE or Overflow the interface again, then wrong warp out. If you are using the Switch version, wrong warp back out immediately.
 
