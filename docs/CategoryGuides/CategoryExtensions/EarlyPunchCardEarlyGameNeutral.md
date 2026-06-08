@@ -269,13 +269,33 @@ The next room is the Colored tile puzzle room. Walk across the bridge and mash P
 
 This is a simple, yet somewhat difficult, trick due to it requiring a pixel perfect position. This trick saves 4-5 seconds due to skipping the bridge cutscene after the ice puzzle.
 
-There are 4 ways to do this trick, with increasing levels of precision required.
+There are 5 ways to do this trick, with increasing levels of precision required.
 
 The first method is known as glitchless ice puzzle, and is very simple. Note that as you don’t do the bridge cutscene skip it does lose 5 seconds. It can be done by following the path below.
 
 <img src='./Images/GlitchlessIcePuzzle.png' alt="Path for glitchless ice puzzle" title="Path for glitchless ice puzzle"></img>
 
-The second method is known as just Ice Puzzle Skip, and can be performed by following the steps below.
+The 2nd method is known as Snowgrave, which is an easier and slightly slower version of Icebreaker (see method 3), losing ~0.3 seconds to it. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. Afterwards, follow the path shown below, and stop on the first pixel that activates the second-to-last tile.
+
+<img src='./Images/SnowgraveRoute.png' alt="Snowgrave Ice Puzzle Skip Route" title="Snowgrave Ice Puzzle Skip Route"></img>
+
+From here, hold <kbd>▶ Right</kbd> to move to the final tile, and while sliding, start holding <kbd>▼ Down</kbd>. When you start sliding again, let go of <kbd>▼ Down</kbd> so you're only holding <kbd>▶ Right</kbd>. This will skip the bridge cutscene.
+
+The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. You then hold <kbd>▶ Right</kbd>, <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, <kbd>▲ Up</kbd>, and <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd>. You then have to release <kbd>◀ Left</kbd> for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
+
+<img src='./Images/IPSFirstPixelTopTile.png' alt="First pixel that activates the top tile" title="First pixel that activates the top tile"></img>
+
+Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
+
+If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel. 
+
+Video demonstration:
+
+<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lNrOhW_F-TE" title="Icebreaker Backup Strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+The 4th method is known as just Ice Puzzle Skip, and can be performed by following the steps below.
 
 The route you will take can be seen in Picture A.
 
@@ -289,21 +309,7 @@ You can use your menu to ‘buffer’ your steps. Basically use your menu to sto
 
 After being in the right position, press <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> on the same frame. Alternatively you can open the menu, hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> with the menu open, and close the menu. You will slide to the pressure plate. While you are sliding, let go of the <kbd>▼ Down</kbd> arrow key, and only hold <kbd>▶ Right</kbd>. If done correctly, you will skip the bridge building cutscene, and slide across the bridge like normal.
 
-The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. You then hold <kbd>▶ Right</kbd>, <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, <kbd>▲ Up</kbd>, and <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd>. You then have to release <kbd>◀ Left</kbd> for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
-
-<img src='./Images/IPSFirstPixelTopTile.png' alt="First pixel that activates the top tile" title="First pixel that activates the top tile"></img>
-
-Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
-
-If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel.
-
-Video demonstration:
-
-<div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lNrOhW_F-TE" title="Icebreaker Backup Strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-The fourth method is known as Masochist Ice Puzzle. This is a very difficult strat that saves only 0.5 seconds. It is not recommended to attempt this trick in runs, as it requires multiple pixel perfect setups and difficult movement. The route for Masochist Ice Puzzle skip, along with the rest of the Ice Puzzle variants can be seen in the following video demonstration.
+The fifth method is known as Masochist Ice Puzzle. This is a very difficult strat that saves only 0.5 seconds. It is not recommended to attempt this trick in runs, as it requires multiple pixel perfect setups and difficult movement. The route for Masochist Ice Puzzle skip, along with the rest of the Ice Puzzle variants can be seen in the following video demonstration.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/P5Iv7FLZ1dI" title="Ice Puzzle Strat Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
