@@ -299,7 +299,7 @@ The next room contains a major skip called Sea-grass Skip (SGS). This skip saves
 
 There are 3 methods to perform SGS.
 
-The first method i    s known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap <kbd>▶ Right</kbd> or menu buffer <kbd>▶ Right</kbd>. You’ll know you’ve gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
+The first method is known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap <kbd>▶ Right</kbd> or menu buffer <kbd>▶ Right</kbd>. You’ll know you’ve gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
 
 <img src='./Images/SGSAlignment.png' alt="Sea Grass Skip alignment" title="Sea Grass Skip alignment"></img>
 
