@@ -217,7 +217,7 @@ The third method is known as Icebreaker, and is performed similarly to ice puzzl
 
 Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
 
-If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel. 
+If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel.
 
 Video demonstration:
 
@@ -543,7 +543,7 @@ After entering the second hallway, you will need to walk to a specific position 
 
 <img src='./Images/UndyneBattleStoppingPoint.png' alt="Undyne battle stopping point" title="Undyne battle stopping point"></img>
 
-Once you begin the battle, end Undyne’s dialogue quickly after she turns you green. Move to ACT and challenge Undyne. Challenging Undyne will make her spear attacks move faster, thus making the attacks end sooner. Attempt to dodge Undyne’s spears as much as possible. Getting hit slows down Undyne’s spear attacks a bit. Keep challenging her for three turns, then move to spare and spare her. On the last turn, take damage to go down to 1-6HP. This is necessary for a skip later.
+Once you begin the battle, end Undyne’s dialogue quickly after she turns you green. Move to ACT and challenge Undyne. Challenging Undyne will make her spear attacks move faster, thus making the attacks end sooner. Attempt to dodge Undyne’s spears as much as possible. Getting hit slows down Undyne’s spear attacks a bit. Keep challenging her for three turns, then move to MERCY and spare her. On the last turn, take damage to go down to 1-6HP. This is necessary for a skip later.
 
 Once Undyne turns your heart to red, flee from her. Be careful not to spare her.
 
