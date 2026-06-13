@@ -50,9 +50,9 @@ From here, there are 3 methods you can do:
 
 A few miscellaneous points:
 
-If you enter the next room normally, you either didn't mash fast enough or you didn't release right soon enough.
+If you enter the next room normally, you either didn't mash fast enough or you didn't release <kbd>▶ Right</kbd> soon enough.
 
-If you softlock, you either overmashed and interacted with Toriel a second time, or your final <kbd>Z</kbd>/<kbd>Enter</kbd> input was a frame late and you didn't mash fast enough.
+If you go back into the dummy room from the next room, you will be misaligned and the Toriel Skip will not work. You will need to leave the dummy room from the left door and re-enter it normally.
 
 If you don't release right, the mashing becomes frame perfect.
 
