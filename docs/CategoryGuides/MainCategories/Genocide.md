@@ -48,7 +48,7 @@ From here, there are 3 methods you can do:
 
 2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
 
-3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text 
+3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text
 
 A few miscellaneous points:
 
@@ -175,7 +175,7 @@ In the next room, cross the bridge, head down & right, squeeze between the tree 
 
 In the cold spaghetti room, don't get distracted by the spaghetti and don't save. Exit right.
 
-In the Snow Puzzle room, go down and right to the bridge. Grind an encounter on the bridge. Don't walk too far and trigger the cutscene. Kill whatever you encounter except Jerry. If you encounter Jerry, spare him immediately. This does not end the Genocide route. 
+In the Snow Puzzle room, go down and right to the bridge. Grind an encounter on the bridge. Don't walk too far and trigger the cutscene. Kill whatever you encounter except Jerry. If you encounter Jerry, spare him immediately. This does not end the Genocide route.
 
 After finishing an encounter, go right to encounter Dogamy & Dogaressa. Mash through the Dog Lovers text and begin the battle. Once the battle begins, select FIGHT and target Dogaressa.
 
@@ -440,7 +440,7 @@ In the next few rooms just hold <kbd>▶ Right</kbd>. Once you arrive at the ele
 
 In the room you arrive at, go right. In the next room, go right again and exit right.
 
-Once you arrive at the room with the vents, ride the vents and go to the right. Once you arrive at the long platform at the right of the room, go right and go up at the turn. Go inside the doorway at the end of the platform. 
+Once you arrive at the room with the vents, ride the vents and go to the right. Once you arrive at the long platform at the right of the room, go right and go up at the turn. Go inside the doorway at the end of the platform.
 
 There is an OWW you can perform on the doorway that is incredibly risky as it carries a high chance of softlocking the game and saves less than a second even if done optimally. To perform the OWW, line up Frisk with the room transition (their feet will be lined up with the thin line on the floor) facing left. Start or continue holding <kbd>◀ Left</kbd>. Now press <kbd>▲ Up</kbd> and <kbd>Z</kbd> at the same time. Close the textbox quickly (<kbd>X</kbd> + <kbd>Z</kbd>). Release the arrow keys before the screen turns black. If done correctly, you should spawn directly below the save point in the next room. If you do not close the textbox in time, you will softlock. Be careful when you close the textbox to not accidentally interact with the door a second time, as this will also cause a softlock.
 
@@ -518,7 +518,7 @@ Once you enter the room, walk up and trigger the cutscene with Mettaton (make su
 
 In the long hallway, go up and go right at the turn. Keep going right until you reach the elevator. Interact with the elevator to open it and walk inside.
 
-Inside the elevator, interact with the interface. Hold <kbd>▼ Down</kbd> and wait for the elevator to reach the top. Once the door opens you should move down if you are holding <kbd>▼ Down</kbd>. Exit the elevator
+Inside the elevator, interact with the interface. Hold <kbd>▼ Down</kbd> and wait for the elevator to reach the top. Once the door opens you should move down if you are holding <kbd>▼ Down</kbd>. Exit the elevator.
 
 If you are running on the Nintendo Switch, you can perform the Long Elevator skip by simply entering the elevator and immediately exiting. No need to interact with the interface at all.
 
