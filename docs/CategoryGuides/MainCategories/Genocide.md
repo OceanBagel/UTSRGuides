@@ -436,13 +436,13 @@ In the next room you will encounter the royal guards. Mash their text and begin 
 
 After killing the Royal Guards, ride the vents and exit through the right.
 
-In the next few rooms just hold <kbd>▶ Right</kbd>. Once you arrive at the elevator, interact with the door and go inside. Interact with the elevator interface and go to left floor 3.
+In the next few rooms just hold <kbd>▶ Right</kbd>. Once you arrive at the elevator, interact with the door and go inside. Interact with the elevator interface and go to Left Floor 3.
 
 In the room you arrive at, go right. In the next room, go right again and exit right.
 
 Once you arrive at the room with the vents, ride the vents and go to the right. Once you arrive at the long platform at the right of the room, go right and go up at the turn. Go inside the doorway at the end of the platform. 
 
-There is an OWW you can perform on the doorway that is incredibly risky as it carries a high chance of softlocking the game and saves less than a second even if done optimally. To perform the OWW, line up Frisk with the transition (their feet will be lined up with the thin line on the floor), press <kbd>▲ Up</kbd> & <kbd>◀ Left</kbd>/<kbd>▶ Right</kbd> (whichever direction the door is from where you lined up) into the transition & interact with the door at the same time, close the textbox quickly, and release the arrow keys. If done correctly, you should spawn directly below the save point in the next room. If you do not close the textbox in time, you will softlock. Be careful when you close the textbox to not accidentally interact with the door a second time, as you will softlock.
+There is an OWW you can perform on the doorway that is incredibly risky as it carries a high chance of softlocking the game and saves less than a second even if done optimally. To perform the OWW, line up Frisk with the room transition (their feet will be lined up with the thin line on the floor) facing left. Start or continue holding <kbd>◀ Left</kbd>. Now press <kbd>▲ Up</kbd> and <kbd>Z</kbd> at the same time. Close the textbox quickly (<kbd>X</kbd> + <kbd>Z</kbd>). Release the arrow keys before the screen turns black. If done correctly, you should spawn directly below the save point in the next room. If you do not close the textbox in time, you will softlock. Be careful when you close the textbox to not accidentally interact with the door a second time, as this will also cause a softlock.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/8kvDfuvFLg8" title="Genocide North South Door Wrong Warp Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
