@@ -48,7 +48,7 @@ From here, there are 3 methods you can do:
 
 2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
 
-3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text
+3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
 
 A few miscellaneous points:
 
