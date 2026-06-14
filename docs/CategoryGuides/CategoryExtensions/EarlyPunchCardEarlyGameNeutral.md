@@ -287,7 +287,7 @@ The third method is known as Icebreaker, and is performed similarly to ice puzzl
 
 Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
 
-If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel. 
+If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel.
 
 Video demonstration:
 
