@@ -62,7 +62,7 @@ If your final <kbd>Z</kbd>/<kbd>Enter</kbd> press was a frame late (Toriel will 
 
 If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
 
-Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>; rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>, rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
 
 This next room is the hardest room in the game. Walk right and mash away toriel’s text.
 
