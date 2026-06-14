@@ -54,13 +54,15 @@ If you enter the next room normally, you either didn't mash fast enough or you d
 
 If you go back into the dummy room from the next room, you will be misaligned and the Toriel Skip will not work. You will need to leave the dummy room from the left door and re-enter it normally.
 
+If you softlock, you either overmashed and interacted with Toriel a second time, or your final <kbd>Z</kbd>/<kbd>Enter</kbd> input was a frame late and you didn't mash fast enough.
+
 If you don't release right, the mashing becomes frame perfect.
 
 If your final <kbd>Z</kbd>/<kbd>Enter</kbd> press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
 
 If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
 
-Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>; rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>, rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
 
 This next room is the hardest room in the game. Walk right and mash away toriel’s text.
 
