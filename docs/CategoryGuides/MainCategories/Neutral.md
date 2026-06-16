@@ -191,25 +191,17 @@ The next room is the Colored tile puzzle room. Walk across the bridge and mash P
 
 This is a simple, yet somewhat difficult, trick due to it requiring a pixel perfect position. This trick saves 4-5 seconds due to skipping the bridge cutscene after the ice puzzle.
 
-There are 4 ways to do this trick, with increasing levels of precision required.
+There are 5 ways to do this trick, with increasing levels of precision required.
 
 The first method is known as glitchless ice puzzle, and is very simple. Note that as you don’t do the bridge cutscene skip it does lose 5 seconds. It can be done by following the path below.
 
 <img src='./Images/GlitchlessIcePuzzle.png' alt="Path for glitchless ice puzzle" title="Path for glitchless ice puzzle"></img>
 
-The second method is known as just Ice Puzzle Skip, and can be performed by following the steps below.
+The 2nd method is known as Snowgrave, which is an easier and slightly slower version of Icebreaker (see method 3), losing ~0.3 seconds to it. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. Afterwards, follow the path shown below, and stop on the first pixel that activates the second-to-last tile.
 
-The route you will take can be seen in Picture A.
+<img src='./Images/SnowgraveRoute.png' alt="Snowgrave Ice Puzzle Skip Route" title="Snowgrave Ice Puzzle Skip Route"></img>
 
-<img src='./Images/IcePuzzleSkip.png' alt="Path for standard ice puzzle skip" title="Path for standard ice puzzle skip"></img>
-
-On the second to last tile, stop on the very bottom of that tile then slide to the right.
-
-Once you arrive at the last tile, you should be in a position similar to Picture B. From that position, you will need to move two pixels to the left. The position you will need to be in will look like Picture C.
-
-You can use your menu to ‘buffer’ your steps. Basically use your menu to stop yourself. Hit a direction + the menu button at the same time. Alternatively, you can just move left two pixels without menu buffering, but menu buffering makes it much more consistent.
-
-After being in the right position, press <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> on the same frame. Alternatively you can open the menu, hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> with the menu open, and close the menu. You will slide to the pressure plate. While you are sliding, let go of the <kbd>▼ Down</kbd> arrow key, and only hold <kbd>▶ Right</kbd>. If done correctly, you will skip the bridge building cutscene, and slide across the bridge like normal.
+From here, hold <kbd>▶ Right</kbd> to move to the final tile, and while sliding, start holding <kbd>▼ Down</kbd>. When you start sliding again, let go of <kbd>▼ Down</kbd> so you're only holding <kbd>▶ Right</kbd>. This will skip the bridge cutscene.
 
 The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. You then hold <kbd>▶ Right</kbd>, <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, <kbd>▲ Up</kbd>, and <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd>. You then have to release <kbd>◀ Left</kbd> for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
 
@@ -225,7 +217,21 @@ Video demonstration:
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/lNrOhW_F-TE" title="Icebreaker Backup Strat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-The fourth method is known as Masochist Ice Puzzle. This is a very difficult strat that saves only 0.5 seconds. It is not recommended to attempt this trick in runs, as it requires multiple pixel perfect setups and difficult movement. The route for Masochist Ice Puzzle skip, along with the rest of the Ice Puzzle variants can be seen in the following video demonstration.
+The 4th method is known as just Ice Puzzle Skip, and can be performed by following the steps below.
+
+The route you will take can be seen in Picture A.
+
+<img src='./Images/IcePuzzleSkip.png' alt="Path for standard ice puzzle skip" title="Path for standard ice puzzle skip"></img>
+
+On the second to last tile, stop on the very bottom of that tile then slide to the right.
+
+Once you arrive at the last tile, you should be in a position similar to Picture B. From that position, you will need to move two pixels to the left. The position you will need to be in will look like Picture C.
+
+You can use your menu to ‘buffer’ your steps. Basically use your menu to stop yourself. Hit a direction + the menu button at the same time. Alternatively, you can just move left two pixels without menu buffering, but menu buffering makes it much more consistent.
+
+After being in the right position, press <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> on the same frame. Alternatively you can open the menu, hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> with the menu open, and close the menu. You will slide to the pressure plate. While you are sliding, let go of the <kbd>▼ Down</kbd> arrow key, and only hold <kbd>▶ Right</kbd>. If done correctly, you will skip the bridge building cutscene, and slide across the bridge like normal.
+
+The fifth method is known as Masochist Ice Puzzle. This is a very difficult strat that saves only 0.5 seconds. It is not recommended to attempt this trick in runs, as it requires multiple pixel perfect setups and difficult movement. The route for Masochist Ice Puzzle skip, along with the rest of the Ice Puzzle variants can be seen in the following video demonstration.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/P5Iv7FLZ1dI" title="Ice Puzzle Strat Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -289,9 +295,9 @@ The first method is known as the 5 Buffer Method. To perform this method, first 
 
 Next, press <kbd>Ctrl</kbd>+<kbd>▶ Right</kbd>+<kbd>Enter</kbd> all on the same frame to move to the right, open your menu, and select the highlighted menu option, and then mash <kbd>Z</kbd>/<kbd>Enter</kbd> to use the cell phone. You only have 5 frames between moving right and the cutscene starting, so you need to perform this quickly. If you performed SGS correctly, you’ll see text on the screen as the camera pans to Undyne. Mash away this text and continue to the right, making sure to stay on the lower half of the path to avoid running into the save point.
 
-The second method is known as the 1 Buffer Setup. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
+The second method is known as the 1 Buffer Setup or Safe SGS. When you enter the room, move up only 2 pixels. Then start the papyrus cutscene. After the cutscene ends, hold <kbd>▼ Down</kbd> until you hit the wall. You will then be lined up perfectly so that the next buffer in any direction will trigger the seagrass cutscene. Perform the buffer the same way as the previous setup. This method saves time due to requiring less buffers, and is considered to be safer.
 
-The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding <kbd>▶ Right</kbd>. After walking 5-8 frames, press <kbd>C</kbd>+<kbd>Z</kbd> and then <kbd>Enter</kbd>, or <kbd>Ctrl</kbd>+<kbd>Enter</kbd> and then <kbd>Z</kbd>. This method only saves a second over the previous 2.
+The third method, the fastest but also the most difficult, is known as the 0 Buffer Setup or Sad SGS. When you enter the room, walk all the way to the top. Walk into the papyrus cutscene, and mash away his text. Continue holding <kbd>▶ Right</kbd>. After walking 5-8 frames, press <kbd>C</kbd>+<kbd>Z</kbd> and then <kbd>Enter</kbd>, or <kbd>Ctrl</kbd>+<kbd>Enter</kbd> and then <kbd>Z</kbd>. This method only saves a second over the previous 2.
 
 After performing the skip, mash away Papyrus’s text and exit the room.
 
@@ -503,7 +509,7 @@ Once you are in the above position, open the menu and then press <kbd>Z</kbd> th
 
 When you appear in the next room, you will be at the other end of the hallway. Immediately go up and into the next hallway. Go to the second part below.
 
-#### Quick Once Cycle Undyne (2 PCEs + 1 wrong warp)
+#### Quick One Cycle Undyne (2 PCEs + 1 wrong warp)
 
 Walk into the room and begin walking up the path. PCE the first trigger. After successfully PCEing the first trigger, immediately go to the second trigger. You will have a small amount of time to know where you are before the screen pans upwards. The time save here is dependent on how fast you PCE the second trigger. If you don’t manage to PCE the trigger before the screen stops on Undyne, stop attempting and just mash the dialogue in the cutscene. If you run into the trigger, your run is over (unless you’re okay with a huge time loss).
 
