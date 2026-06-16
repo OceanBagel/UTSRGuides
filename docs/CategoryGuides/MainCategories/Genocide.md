@@ -36,46 +36,46 @@ In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away
 
 In the next room, mash away Toriel's text and follow her. You will encounter a Froggit. Hit the Froggit with a critical attack for 20 or more damage to increase your LV to 2; if you hit the Froggit for 19 or less, it's a reset. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
-Alternatively, you can do Toriel Skip. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for beginners to do Toriel Skip.
+Alternatively, you can do **Toriel Skip**. Note that in Genocide, Toriel Skip also skips the first frog. Also Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for beginners to do Toriel Skip.
 
 Toriel Skip saves around 25 seconds, due to skipping the dummy room, the handholding room, and the first frog. This is less time than in other categories due to being at a lower level on the first encounter grind.
 
-When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+When entering the dummy room, mash Toriel's text and then hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> until you're right next to Toriel. Mash until the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time). Hold right and do two consecutive <kbd>Z</kbd>/<kbd>Enter</kbd> inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info). This moves you one pixel to the right inside of Toriel.
 
 From here, there are 3 methods you can do:
 
-1. The double overflow method - Advance to Toriel's last textbox, hold right, and do two consecutive z/enter inputs, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+1. The double overflow method - Advance to Toriel's last textbox. Hold <kbd>▶ Right</kbd> and do two consecutive <kbd>Z</kbd>/<kbd>Enter</kbd> inputs. Then mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
 
-2. The tap method - Release right and clear Toriel's text Press z or enter and then right on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+2. The tap method - Release <kbd>▶ Right</kbd> and clear Toriel's text. Press <kbd>Z</kbd> or <kbd>Enter</kbd> and then <kbd>▶ Right</kbd> on consecutive frames. Then mash away Toriel's text (two textboxes) and let go of <kbd>▶ Right</kbd> before you finish mashing her text.
 
-3. The menu method - Release right and clear Toriel's text, open the menu, hold right, then press one of x, c, shift, or ctrl and then one of z or enter on consecutive frames, mash away Toriel's text (two textboxes) and let go of right before you finish mashing her text.
+3. The menu method - Release <kbd>▶ Right</kbd> and clear Toriel's text. Open the menu, start holding <kbd>▶ Right</kbd>, then press either <kbd>C</kbd>, <kbd>Ctrl</kbd>, <kbd>X</kbd> or <kbd>Shift</kbd> to close the menu. In the next frame, press <kbd>Z</kbd> or <kbd>Enter</kbd>, then mash away Toriel's text (two textboxes) and let go of <kbd>▶ Right</kbd> before you finish mashing her text.
 
 A few miscellaneous points:
 
-If you enter the next room normally, you either didn't mash fast enough or you didn't release right soon enough.
+If you enter the next room normally, you either didn't mash fast enough or you didn't release <kbd>▶ Right</kbd> soon enough.
 
-If you softlock, you either overmashed and interacted with Toriel a second time or your final z/enter input was a frame late and you didn't mash fast enough.
+If you go back into the dummy room from the next room, you will be misaligned and the Toriel Skip will not work. You will need to leave the dummy room from the left door and re-enter it normally.
 
-If you don't release right, the mashing becomes frame perfect.
+If you don't release <kbd>▶ Right</kbd>, the mashing becomes frame perfect.
 
-If your final z/enter press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
+If your final <kbd>Z</kbd>/<kbd>Enter</kbd> press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
 
 If you make the correct inputs, you have 3 possible frames to clear the text and successfully wrong warp.
 
-Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order x > z > lshift > enter, rolling/sliding across the three keys on the left and then pressing enter at the end.
+Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>; rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
 
-This next room is the hardest room in the game. Walk right and mash away Toriel's text.
+This next room is the hardest room in the game. Walk right and mash away Toriel’s text.
 
 ### First Half Ruins
 
 Possible Random Encounters:
 
 - Froggit: 50%
-- Whimsun:  50%
+- Whimsun: 50%
 
 In the first room with the leaves, you will get a phone call at the very beginning. Don't save at the save point, go down & right towards the next room. Begin wall humping right next to the exit to get an encounter.
 
-- If you get a Whimsun, FIGHT it and mash <kbd>Z</kbd> & <kbd>Enter</kbd>. Any hit will kill it immediately.
+- If you get a Whimsun, FIGHT it and mash <kbd>Z</kbd> and <kbd>Enter</kbd>. Any hit will kill it immediately.
 - If you get a Froggit, land one accurate hit on it. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> when it begins to attack. If you get the frog attack, you will run into the frog and end the turn early. If you get the flies attack, simply dodge the flies. After enduring the attack, finish it off with a semi-accurate hit.
   - You can predict the Froggit's attack based on what it says. “Meow” and “Hop Hop” = Flies attack, “Ribbit” = Frog attack, “Croak” = 50% chance for either attack. Overall, you have a ~40% chance to get a Frog Attack.
 
@@ -83,7 +83,7 @@ After ending the encounter, go into the next room and begin Wall Humping immedia
 
 After grinding out 9 kills, go to the 2nd room with the cracked floor, fall into the pit, and head through the door on the right. Grind out one more encounter for a total of 10 kills before going to the next room.
 
-In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> & <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 11 kills. Exit the room.
+In the room with the single rock, you will receive two phone calls at the beginning. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> into the rock to push it onto the switch. You will receive a third phone call, then grind out another encounter for a total of 11 kills. Exit the room.
 
 You can skip the third phone call by reading the sign along the top wall before pushing the rock. This saves a small amount of time.
 
@@ -141,7 +141,7 @@ After leaving the hallway, head left through the foyer and into the living room.
 
 Follow Toriel downstairs and mash her text when she stops you. When you reach the end of the hallway, start the battle with Toriel.
 
-When Toriel's battle begins, Mash <kbd>Z</kbd> & <kbd>Enter</kbd> to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing <kbd>Z</kbd> & <kbd>Enter</kbd> to finish her text. After her heart breaks, hold <kbd>▲ Up</kbd> & exit the hallway. Continue holding <kbd>▲ Up</kbd> through the next room. Walk up to Flowey.
+When Toriel's battle begins, Mash <kbd>Z</kbd> and <kbd>Enter</kbd> to FIGHT & hit her as soon as possible. Any attack will one-shot her. Continue mashing <kbd>Z</kbd> and <kbd>Enter</kbd> to finish her text. After her heart breaks, hold <kbd>▲ Up</kbd> and exit the hallway. Continue holding <kbd>▲ Up</kbd> through the next room. Walk up to Flowey.
 
 Mash Flowey's text, then enter the door behind him to leave the ruins.
 
@@ -159,9 +159,9 @@ In the next room, mash through the cutscene and then proceed right down the path
 
 Head right in Doggo's room until Doggo appears from his house. Mash the text and begin the fight.
 
-FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely taking damage. FIGHT Doggo again and mash <kbd>Z</kbd> & <kbd>Enter</kbd> when hitting him. Your accuracy does not matter.
+FIGHT Doggo and hit him with a very accurate hit. Doggo will use a slow sword attack that requires you to be completely still to dodge. You can speed up the attack by running into the sword and purposely taking damage. FIGHT Doggo again and mash <kbd>Z</kbd> and <kbd>Enter</kbd> when hitting him. Your accuracy does not matter.
 
-**DOGGO DOES NOT COUNT TOWARDS THE KILL COUNT.**
+**DOGGO DOES NOT COUNT TOWARDS THE KILL COUNT** (but you need to kill him).
 
 After killing Doggo, exit right.
 
@@ -175,29 +175,29 @@ In the next room, cross the bridge, head down & right, squeeze between the tree 
 
 In the cold spaghetti room, don't get distracted by the spaghetti and don't save. Exit right.
 
-In the Snow Puzzle room, go down and right to the bridge. Grind an encounter on the bridge. Don't walk too far and trigger the cutscene. Kill whatever you encounter except Jerry. If you encounter Jerry, spare him immediately. This does not end the Genocide route.
+In the Snow Puzzle room, go down and right to the bridge. Grind an encounter on the bridge. Don't walk too far and trigger the cutscene. Kill whatever you encounter except Jerry. If you encounter Jerry, spare him immediately. This does thankfully not end the Genocide route.
 
-After finishing an encounter, go right to encounter Dogamy & Dogaressa. Mash through the Dog Lovers text and begin the battle. Once the battle begins, select FIGHT and target Dogaressa.
+After finishing an encounter, go right to encounter Dogamy & Dogaressa. Mash through the Dog Lovers text and begin the battle. Once the battle begins, select FIGHT and target Dogaressa (the second one).
 
 It will take a hit in the green, a hit in the yellow, and a hit in the red of the bar to kill Dogaressa. Once Dogaressa is dead, Dogamy will take one accurate hit to kill. FIGHT Dogamy and execute him.
 
-**DOGAMY & DOGARESSA DO NOT COUNT TOWARDS THE KILL COUNT.**
+**DOGAMY & DOGARESSA DO NOT COUNT TOWARDS THE KILL COUNT** (but you need to kill them).
 
 After the battle, proceed downwards to the next room.
 
-In the first XO puzzle room, go right and exit right.
+In the first XO puzzle room, go right and exit right (Flowey already solved it).
 
 In the second XO puzzle room, go right and exit right once more.
 
 In the Color Tile puzzle room, go right and then mash through the cutscene. Exit right.
 
-In the Ice puzzle room, don't worry about touching the X's. Just go straight to the switch and across the bridge. Enter the next room on the right.
+In the Ice puzzle room, don't worry about touching the **X**s. Just go straight to the switch and across the bridge. Enter the next room on the right.
 
 Walk to the right and go to the snow poff blocking the exit to the room. Try to not get caught on any other snow poffs on the way there. Watch the cutscene and begin the battle with Greater Dog. You will need 2 accurate hits and one inaccurate hit to kill Greater Dog.
 
-Hold <kbd>▼ Down</kbd> for all of Greater Dog's attacks. If you get an attack with a sleeping dog at the bottom of the frame, run into the dog to end the attack early. If you get a spear attack, dodge the spear. The sleeping dog attack is around 5 seconds faster.
+Hold <kbd>▼ Down</kbd> for all of Greater Dog's attacks. If you get an attack with a sleeping dog at the bottom of the frame, run into the dog to end the attack early (Dogskip). If you get a spear attack, dodge the spear. The sleeping dog attack is around 5 seconds faster.
 
-**GREATER DOG DOES NOT COUNT TOWARDS THE KILL COUNT.**
+**GREATER DOG DOES NOT COUNT TOWARDS THE KILL COUNT** (but you do need to kill him).
 
 After killing Greater Dog, walk right and exit the room.
 
@@ -210,7 +210,7 @@ Possible Random Encounters:
 
 In the Gauntlet of Terror room walk across the bridge and trigger the last cutscene of the Forest. Mash through the cutscene, hold <kbd>◀ Left</kbd> as the screen slides back to you, and leave out the door on the left side of the room to reset the room.
 
-Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, leave and reenter Snowdin out the left door and grind again. Repeat until you have 13 or 14 kills.
+Immediately walk back into the Gauntlet of Terror Room and start grinding for encounters. Depending on the encounter you got before the Dog Lovers, you should be at 4 or 5 kills (up to 6 or 7 if you went for the Snowman Pieces). After each encounter, leave and re-enter Snowdin out the left door and grind again. Repeat until you have 13 or 14 kills.
 
 Once you have 13 or more kills, leave and reenter, then cross over to the right side of the room and grind out another encounter. If you get lucky, this will be the final encounter and you can immediately leave and proceed to the Papyrus fight. If you get unlucky, you will need to get one more encounter. Do this by leaving and re-entering out the right side of the room, then grinding the final encounter.
 
@@ -228,7 +228,7 @@ There's a strat in the Papyrus boss room that can save some time after the fight
 
 Once the silhouettes of both Frisk and Papyrus appear, Papyrus will begin to talk. Mash all the text and begin the battle.
 
-Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die. When you regain movement, walk right and enter Waterfall.
+Immediately FIGHT Papyrus and hit him. Any hit will kill him. After hitting Papyrus, wait for him to die and skip his dialogue. When you regain movement, walk right and enter Waterfall.
 
 ## Waterfall
 
@@ -240,11 +240,11 @@ Keep walking right. Don't save.
 
 In the Waterfall room, walk straight and exit right.
 
-If you need some extra protection, there's a hidden entrance in the middle of the waterfall. Inside the waterfall, you will find the Tutu. The Tutu is a nice boost in defense and lessens the damage you will take. However, grabbing the Tutu wastes time and reduces your chances of fleeing successfully. Due to this, it is advised to hold off on equipping the Tutu for now.
+If you need some extra protection, there's a hidden entrance in the middle of the waterfall. Inside the waterfall, you will find the Old Tutu. The Tutu is a nice boost in defense and lessens the damage you will take. However, grabbing the Tutu wastes time and reduces your chances of fleeing successfully. Due to this, it is advised to hold off on equipping the Tutu for now.
 
-The next room contains a major skip called Sea-grass Skip (SGS). This skip saves 30 seconds, and involves using an item or the cell phone in a 5 frame window before a cutscene starts, allowing you to skip the cutscene.
+In the next room there is a long cutscene of Undyne watching for you. There is a major skip called **Sea-grass Skip** (SGS) which saves 30 seconds. It involves using an item or the cell phone in a 5 frame window before a cutscene starts, allowing you to skip the cutscene.
 
-There are 3 methods to perform SGS.
+There are 3 methods to perform SGS:
 
 The first method is known as the 5 Buffer Method. To perform this method, first enter the room and start the cutscene as normal. It saves 7-8 frames to walk all the way to the top before entering the papyrus cutscene. After Papyrus walks away, move 5 pixels to the right. You can either tap <kbd>▶ Right</kbd> or menu buffer <kbd>▶ Right</kbd>. You'll know you've gone far enough when the gem on the wall is aligned with the left edge of the screen, as shown in the image below.
 
@@ -272,11 +272,11 @@ Because of this, it's recommended to kill the first Aaron with two yellow hits. 
 
 Cross the bridge, head up, cross over the river on the flower bridge, and head through the doorway at the top.
 
-In the telescope puzzle room, skip the telescope and head upwards towards the secret exit. You will get a scripted encounter with Woshua. FIGHT Woshua and dispatch them with a green hit followed by a red hit. Exit through the doorway at the top of the screen.
+In the telescope puzzle room, skip the telescope and head upwards towards the secret exit. You will get a scripted encounter with Woshua. FIGHT Woshua and dispatch it with a green hit followed by a red hit. Exit through the doorway at the top of the screen.
 
 In the Bridge room, head right and ride the wooden platform across the water. Exit right.
 
-In the long bridge room, Undyne will appear and begin to throw spears at you as you navigate to the next room. You need to minimize the amount of times you get hit by the spears & to minimize the time you spend stopping to avoid them.
+In the long bridge room, Undyne will appear and begin to throw spears at you as you navigate to the next room. You need to minimize the amount of times you get hit by the spears and minimize the time you spend stopping to avoid them.
 
 You can manipulate the angle at which the spears are thrown based on your position on the walkway. This can help you dodge, but keep in mind that Undyne's spears have a bit of RNG involved with them. You still need to pay attention to the spears direction even if you've angled them favorably.
 
@@ -304,7 +304,7 @@ Go down and right once returning to the room. After reaching a turn that leads u
 
 After killing your encounter, continue upwards and exit through the exit at the top.
 
-In the Onion-san room, you won't encounter Onion-san. Just head right and exit into the next room.
+In the Onionsan room, you won't encounter Onionsan (you murderer). Just head right and exit into the next room.
 
 The next room is the Shyren room. You will encounter Shyren right after moving up or down to navigate the square in the room. Once you encounter Shyren, FIGHT her and land a good, accurate hit to kill her in one attack. After killing Shyren, go right into the next room.
 
@@ -328,7 +328,7 @@ The spears in the chase are fairly RNG-dependent, but you can easily manipulate 
 
 In the long bridge room after the chase, head right until the third set of spears fades away, turn around, and head left until you trigger the cutscene.
 
-After falling from the bridge, you will get a short cutscene with unskippable text. Just mash <kbd>Z</kbd> & <kbd>Enter</kbd>.
+After falling from the bridge, you will get a short cutscene with unskippable text. Just mash <kbd>Z</kbd> and <kbd>Enter</kbd>.
 
 After waking up on the pile of golden flowers, hold <kbd>▶ Right</kbd> and exit right. In the room with the save, don't bother saving, keep going right.
 
@@ -350,14 +350,28 @@ Possible Random Encounters:
 - Woshua, Aaron: 33.33%
 - Temmie: 26.67%
 
-In the double waterfall hallway, walk right. You will encounter a Temmie in the room without having to grind. FIGHT the Temmie and kill her with a hit of any accuracy. After the encounter, approach the exit at the right. Before going forward into the next room, grind out an encounter with a scripted Moldsmal & Moldbygg. FIGHT & kill both of them. The Moldsmal should be fairly easy to kill in one turn, while the Moldbygg will require a fairly accurate hit to dispatch in one attack. After ending the encounter, exit into the Mushroom puzzle room on your right and grind out a scripted Woshua & Aaron encounter. FIGHT and kill them in the same manner described previously (after picking up the Ballet Shoes). After getting these kills, you should be at 11-12 kills. Transition back into the double waterfall room and grind for another encounter. Repeat this process until you have reached 14 or 15 kills. If you reach 14-15 kills in the mushroom puzzle room, quickly transition back into the double waterfall hallway and back out before continuing forward.
+In the double waterfall hallway, walk right.
+You will encounter a Temmie in the room without having to grind.
+FIGHT the Temmie and kill her with a hit of any accuracy.
+After the encounter, approach the exit at the right.
+Before going forward into the next room, grind out an encounter with a scripted Moldsmal & Moldbygg.
+FIGHT & kill both of them. The Moldsmal should be fairly easy to kill in one turn, while the Moldbygg will require a fairly accurate hit to dispatch in one attack.
+After ending the encounter, exit into the Mushroom puzzle room on your right and grind out a scripted Woshua & Aaron encounter.
+FIGHT and kill them in the same manner described previously (after picking up the Ballet Shoes).
+After getting these kills, you should be at 11-12 kills.
+Transition back into the double waterfall room and grind for another encounter.
+Repeat this process until you have reached 14 or 15 kills.
+If you reach 14-15 kills in the mushroom puzzle room, quickly transition back into the double waterfall hallway and back out before continuing forward.
 
 Moldbygg has the slowest attack in Waterfall. If you get the Moldbygg/Woshua encounter, be sure to menu down and attack the Moldbygg first for a little time save.
-In the mushroom puzzle room, you don't actually need to light up the mushrooms to walk through the room. Look at the image below to see the path you will need to take. Grind out an encounter just before heading into the Lantern Room.
+In the mushroom puzzle room, you don't actually need to light up the mushrooms to walk through the room.
+Look at the image below to see the path you will need to take.
+Grind out an encounter just before heading into the Lantern Room.
 
 <img src='./Images/MushroomMaze.png' alt="Mushroom maze solution" title="Mushroom maze solution"></img>
 
-In the lantern room, interact with the lamps as you pass them so you can see where you're going. You want to get the remaining kills in this room. You should be able to get an encounter before reaching the end of the room. If not, grind for an encounter before exiting into the next room. If you are not at 18 kills after this encounter, quickly enter and exit the next room and grind for another encounter. **DO NOT CONTINUE INTO THE NEXT ROOM UNTIL YOU HAVE 18 KILLS!** Once you have 18 kills total, exit into the “Behind You” flower room on the right at the end of the path.
+In the lantern room, interact with the lamps as you pass them so you can see where you're going.
+You want to get the remaining kills in this room. You should be able to get an encounter before reaching the end of the room. If not, grind for an encounter before exiting into the next room. If you are not at 18 kills after this encounter, quickly enter and exit the next room and grind for another encounter. **DO NOT CONTINUE INTO THE NEXT ROOM UNTIL YOU HAVE 18 KILLS!** Once you have 18 kills total, exit into the “Behind You” flower room on the right at the end of the path.
 
 In the “Behind you” flower room, hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> when entering the room to put yourself against the wall. After putting yourself against the wall, just hold <kbd>▶ Right</kbd> and mash. You want to talk to the “Behind you” flower as soon as possible and mash away the text. Mash all the text for the cutscene. After the cutscene is over, go left and head upwards onto the new path.
 

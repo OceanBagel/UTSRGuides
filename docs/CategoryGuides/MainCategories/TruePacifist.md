@@ -28,7 +28,7 @@ You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as
 
 In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold <kbd>▲ Up</kbd>. You don’t need to move left or right to enter the door.
 
-This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash toriel’s text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel’s text.
+This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash Toriel’s text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel’s text.
 
 In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
@@ -38,7 +38,7 @@ Alternatively, you can do **Toriel Skip**. Note that Toriel Skip is a very hard 
 
 Toriel Skip saves around 30 seconds, due to skipping the dummy room, and the handholding room.
 
-When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+When entering the dummy room, mash Toriel's text and then hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> until you're right next to Toriel. Mash until the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time). Hold right and do two consecutive <kbd>Z</kbd>/<kbd>Enter</kbd> inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info). This moves you one pixel to the right inside of Toriel.
 
 From here, there are 3 methods you can do:
 
@@ -56,7 +56,7 @@ If you go back into the dummy room from the next room, you will be misaligned an
 
 If you softlock, you either overmashed and interacted with Toriel a second time, or your final <kbd>Z</kbd>/<kbd>Enter</kbd> input was a frame late and you didn't mash fast enough.
 
-If you don't release right, the mashing becomes frame perfect.
+If you don't release <kbd>▶ Right</kbd>, the mashing becomes frame perfect.
 
 If your final <kbd>Z</kbd>/<kbd>Enter</kbd> press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
 
@@ -64,7 +64,7 @@ If you make the correct inputs, you have 3 possible frames to clear the text and
 
 Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>, rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
 
-This next room is the hardest room in the game. Walk right and mash away toriel’s text.
+This next room is the hardest room in the game. Walk right and mash away Toriel’s text.
 
 ### The RNG Begins
 
@@ -72,9 +72,9 @@ The next few rooms have random encounters. The monster type is random, and in mo
 
 In Neutral, you can kill a Whimsun to save some time. Do not do this in True Pacifist, as it aborts the Pacifist ending.
 
-In the first rock room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing Toriel’s texts. Read the sign, and then quickly hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. You can push the rock from the top by just holding <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. Reading the sign skips a phone call later in the room.
+In the first rock room, hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> while mashing Toriel’s texts. Read the sign, and then quickly hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd>. You can push the rock from the top by just holding <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd>. Reading the sign skips a phone call later in the room.
 
-In the three rock room, ignore the top 2 rocks. Talk to the 3rd rock from the right side, as it’s faster to get pushed by the rock. If you get an encounter while talking to the rock you can perform a glitch known as **Rock Skip** that saves 1-2 seconds depending on how many times you have talked to the rock to that point.
+In the three rock room, ignore the top 2 rocks (they don't do anything). Talk to the 3rd rock from the right side, as it’s faster to get pushed by the rock. If you get an encounter while talking to the rock, you can perform a glitch known as **Rock Skip** that saves 1-2 seconds depending on how many times you have talked to the rock to that point.
 
 In the room with the cheese, wall hump and mash <kbd>Z</kbd> to interact with the mouse hole. This is not needed, it’s just funny hearing the squeaks.
 
@@ -551,7 +551,9 @@ Once Undyne turns your heart to red, flee from her. Be careful not to spare her.
 
 After fleeing, just hold <kbd>▶ Right</kbd>. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding <kbd>▶ Right</kbd>. Exit through the right. In the next room, just hold <kbd>▶ Right</kbd> again. Exit through the right.
 
-In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat and immediately leave the room. If you miss the PCE, you MUST water Undyne, or you will not be able to complete the ending.
+In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat and immediately leave the room. If you miss the PCE, you MUST water Undyne, or you will not be able to complete the pacifist ending.
+
+<img src='./Images/UndyneWater.png' alt="Undyne water cooler PCE" title="Undyne water cooler PCE"></img>
 
 ## Hotland
 

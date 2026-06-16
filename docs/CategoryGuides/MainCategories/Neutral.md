@@ -28,17 +28,17 @@ You can hold <kbd>▲ Up</kbd> while mashing the text to move upwards as soon as
 
 In the first room, walk up the staircase around the save point and into the door. Don’t bother saving, it just wastes time. In the next room, mash away Toriel’s text and hold <kbd>▲ Up</kbd>. You don’t need to move left or right to enter the door.
 
-This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash toriel’s text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel’s text.
+This next room is a bit hard to do optimally. Hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> as you mash Toriel’s text. When you get past the bridge, start wall humping and press <kbd>Z</kbd> when you pass the switch. Hold <kbd>▼ Down</kbd> and <kbd>▶ Right</kbd> until Toriel walks out of the way, and then do the same thing for the 2nd switch. After hitting the 2nd switch, hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd> and mash away Toriel’s text.
 
 In the next room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing away Toriel’s text and then interact with the dummy. Go to ACT and select “Talk” to spare the dummy.
 
-In the next room, mash away Toriel’s text and follow her. You will encounter a froggit. Flee from the froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
+In the next room, mash away Toriel’s text and follow her. You will encounter a Froggit. Flee from the Froggit. Mash away her text and watch the hand-hold cutscene. Take a sip of water, staying hydrated is important.
 
 Alternatively, you can do **Toriel Skip**. Note that Toriel Skip is a very hard and inconsistent skip. As a result, it is not recommended for beginners to do Toriel Skip.
 
 Toriel Skip saves around 30 seconds, due to skipping the dummy room, and the handholding room.
 
-When entering the dummy room, mash toriel's text and then hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> until you're right next to Toriel, mash until you're on the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time), and then holding right and doing two consecutive z/enter inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info) This moves you one pixel to the right inside of toriel.
+When entering the dummy room, mash Toriel's text and then hold <kbd>▲ Up</kbd> and <kbd>▶ Right</kbd> until you're right next to Toriel. Mash until the last textbox (either "Well, I thought it was amusing" for first time talking with her, or "You can say anything... the dummy will not be bothered" if it's not the first time). Hold right and do two consecutive <kbd>Z</kbd>/<kbd>Enter</kbd> inputs (like an overflow, see [here](/GeneralGuides/GeneralGuide?id=exploits-and-glitches "overflows") for more info). This moves you one pixel to the right inside of Toriel.
 
 From here, there are 3 methods you can do:
 
@@ -54,9 +54,7 @@ If you enter the next room normally, you either didn't mash fast enough or you d
 
 If you go back into the dummy room from the next room, you will be misaligned and the Toriel Skip will not work. You will need to leave the dummy room from the left door and re-enter it normally.
 
-If you softlock, you either overmashed and interacted with Toriel a second time, or your final <kbd>Z</kbd>/<kbd>Enter</kbd> input was a frame late and you didn't mash fast enough.
-
-If you don't release right, the mashing becomes frame perfect.
+If you don't release <kbd>▶ Right</kbd>, the mashing becomes frame perfect.
 
 If your final <kbd>Z</kbd>/<kbd>Enter</kbd> press was a frame late (Toriel will turn to face forward for a frame with the double overflow method), you have 2 possible frames to clear the text and successfully wrong warp.
 
@@ -64,13 +62,13 @@ If you make the correct inputs, you have 3 possible frames to clear the text and
 
 Since you only need to clear two textboxes, a good mashing strat is to press the keys in the order <kbd>X</kbd> > <kbd>Z</kbd> > <kbd>LShift</kbd> > <kbd>Enter</kbd>, rolling/sliding across the three keys on the left and then pressing <kbd>Enter</kbd> at the end.
 
-This next room is the hardest room in the game. Walk right and mash away toriel’s text.
+This next room is the hardest room in the game. Walk right and mash away Toriel’s text.
 
 ### The RNG Begins
 
 The next few rooms have random encounters. The monster type is random, and in most rooms it’s random whether you even get one or not. For the first 5 rooms you should pay attention to which monster it is. If it’s a single Whimsun or any type of Moldsmal, spare it. This saves time over fleeing.
 
-You can also kill a Whimsun to save some time. Killing a whimsun loses 3 seconds over sparing it, however it saves 3.8 seconds due to Flowey’s laughing animation at the end being shorter, so overall it saves 0.8 seconds optimally in English versions and 1.1 seconds in Japanese versions. This also has the side effect of making the encounter rates slightly lower in some rooms so that encounters become less common.
+You can also kill a Whimsun to save some time. Killing a Whimsun loses 3 seconds over sparing it, however it saves 3.8 seconds due to Flowey’s laughing animation at the end being shorter, so overall it saves 0.8 seconds optimally in English versions and 1.1 seconds in Japanese versions. This also has the side effect of making the encounter rates slightly lower in some rooms so that encounters become less common.
 
 In the first rock room, hold <kbd>▲ Up</kbd>-<kbd>▶ Right</kbd> while mashing Toriel’s texts. Read the sign, and then quickly hold <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. You can push the rock from the top by just holding <kbd>▼ Down</kbd>-<kbd>▶ Right</kbd>. Reading the sign skips a phone call later in the room.
 
@@ -219,7 +217,7 @@ The third method is known as Icebreaker, and is performed similarly to ice puzzl
 
 Then, hold <kbd>▶ Right</kbd>, followed by <kbd>▼ Down</kbd>+<kbd>▶ Right</kbd> once you start sliding on the ice, followed by <kbd>▶ Right</kbd> again after you start sliding again but before you hit the button.
 
-If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel. 
+If you miss the bottom tile in the middle while performing icebreaker, there is a backup you can do so you don’t have to redo the entire puzzle. By moving up to a specific pixel on the upper left tile, you’ll be able to move down+right to the tile you missed and up+right to the final tile. Then you set up for the cutscene skip on the final tile by moving down and left one pixel.
 
 Video demonstration:
 
@@ -281,7 +279,7 @@ Keep walking right. Don’t save.
 
 In the Waterfall and falling rocks room, hold <kbd>▶ Right</kbd> until you get to the middle of the waterfall, then press <kbd>▲ Up</kbd> a bit and go back down a bit when you’re about to reach the end of the waterfall.
 
-The next room contains a major skip called Sea-grass Skip (SGS). This skip saves 30 seconds, and involves using an item or the cell phone in a 5 frame window before a cutscene starts, allowing you to skip the cutscene.
+In the next room there is a long cutscene of Undyne watching for you. There is a major skip called **Sea-grass Skip** (SGS) which saves 30 seconds. It involves using an item or the cell phone in a 5 frame window before a cutscene starts, allowing you to skip the cutscene.
 
 There are 3 methods to perform SGS.
 
@@ -453,11 +451,11 @@ In the lantern room, interact with the lamps as you pass them so you can see whe
 
 ### Flowerflow
 
-In the next room, a somewhat complicated trick called flowerflow is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by <kbd>X</kbd> and then <kbd>Enter</kbd> (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
+In the next room, a somewhat complicated trick called **Flowerflow** is used to shorten the distance needed to walk after the cutscene. Overflow the flower, close the punch card, then open the punch card again while also closing the “Behind You” text. This is done by <kbd>X</kbd> and then <kbd>Enter</kbd> (or otherwise any button to finish text followed by a button to close the text) in the window where you cannot close the punch card. Next walk towards the left of the room. Be careful not to walk too far that the screen scrolls or the part in the cutscene where Undyne carries Monster Kid away will be longer. Open your menu, ready to use the punch card. You can also use the cell phone instead, which is slightly easier. When undyne starts talking, use the punch card or cell phone and mash through her text. After Undyne has finished talking, quickly reopen the punch card/cell phone. If you do not open the punch card or cell phone fast enough, you will lose movement. Wait for monster kid to start talking and mash away the punch card/cell phone and continue mashing away text in the rest of the cutscene.
 
 Once the cutscene is over, walk left to where the path upwards will be. Optionally, you can info the punch card near the end of this part so that when the path appears, you will have text storage and will be able to OWW to the next room. Otherwise, wrong warp normally into the next room.
 
-If you fail any part of flowerflow, continue mashing away the rest of the cutscene normally. Flowerflow saves 5 seconds.
+If you fail any part of Flowerflow, continue mashing away the rest of the cutscene normally. Flowerflow saves 5 seconds.
 
 Video tutorial:
 
@@ -542,6 +540,8 @@ Once Undyne turns your heart to red, flee from her. Be careful not to spare her.
 After fleeing, just hold <kbd>▶ Right</kbd>. You will get a phone call from Papyrus a short time after fleeing from Undyne. Mash his dialogue and continue holding <kbd>▶ Right</kbd>. Exit through the right. In the next room, just hold <kbd>▶ Right</kbd> again. Exit through the right.
 
 In the room with the water cooler, PCE the cutscene with Undyne collapsing on the ground from heat. PCE the trigger for the cutscene and immediately leave the room. If you miss the PCE, don’t bother watering Undyne and just proceed right.
+
+<img src='./Images/UndyneWater.png' alt="Undyne water cooler PCE" title="Undyne water cooler PCE"></img>
 
 ## Hotland
 
