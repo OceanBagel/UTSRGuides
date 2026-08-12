@@ -307,7 +307,7 @@ This section will cover the categories that currently have category guides on th
 
 #### Neutral
 
-Neutral, commonly referred to as Any%, is the shortest of the 5 main categories. It is the most optimized, so at a top level it can be very difficult, but it’s also one of the easier categories to learn.
+Neutral, commonly referred to as Any%, is the shortest of the three main endings. It is the most optimized, so at a top level it can be very difficult, but it’s also one of the easier categories to learn.
 
 #### True Pacifist
 
@@ -321,9 +321,17 @@ Genocide, also known as Geno, is very different from the other categories. Where
 
 Neutral Glitchless is very similar to Genocide, except you abandon the route at Muffet and then continue on to fight Asgore and Flowey. It’s the easiest category to start out with, but it’s also the least run and most players consider it their least favorite.
 
+#### Neutral Glitchless No Aborted Genocide
+
+Neutral Glitchless No Aborted Genocide (NGNAG or just NAG) is a version of Neutral Glitchless that bans the aborted genocide route, leading to a category that's more similar to TPE Glitchless but with additional time-saving strats and a lot shorter of a run.
+
 #### TPE Glitchless
 
 True Pacifist Glitchless, also known as TPE Glitchless, is by far the longest main category, clocking in at just under 2 hours. This category has the least amount of skips of the five main categories, so most of the run is about completing fights and puzzles as quickly as possible and skipping text optimally.
+
+#### All Major Endings
+
+All Major Endings, or AME, is a very long category that requires completing Genocide, True Pacifist, and 8 different Neutral endings. This category has the most variety out of any main category, but it's recommended to be familiar with the other categories first before trying out AME.
 
 ### Misc Categories
 
