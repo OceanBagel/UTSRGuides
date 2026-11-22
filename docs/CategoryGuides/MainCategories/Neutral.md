@@ -526,7 +526,7 @@ Note: This version is more difficult than the other two versions.
 Walk into the room and begin moving up the path. PCE the first trigger. You will need to PCE the second trigger extremely quickly after PCEing the first to pull this off. After PCEing the 2nd trigger, PCA Undyne’s text and mash it until you get to the “Here I come” text. This text will disappear 30 frames after it appears, and you will want to be in the room transition when the text disappears. This method saves 20 seconds over one-cycle. A video guide for this method can be seen below.
 
 <div style=" max-width: 1280px; aspect-ratio: 16/9; display: flex;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/-AYXP8BQszo" title="Onedyne guide by Shayy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1X86IxIwYCE" title="How to do ONEDYNE - Undertale Speedrun Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Continue to the second part below.
